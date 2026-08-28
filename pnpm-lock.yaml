@@ -1,0 +1,32 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@rtm/ingest':
+        specifier: github:reportsthatmatter/ingest#v0.2.1
+        version: https://codeload.github.com/reportsthatmatter/ingest/tar.gz/14f7f2802c2742b9e74e30fb727fdc4e30e5fbce
+
+packages:
+
+  '@rtm/ingest@https://codeload.github.com/reportsthatmatter/ingest/tar.gz/14f7f2802c2742b9e74e30fb727fdc4e30e5fbce':
+    resolution: {gitHosted: true, tarball: https://codeload.github.com/reportsthatmatter/ingest/tar.gz/14f7f2802c2742b9e74e30fb727fdc4e30e5fbce}
+    version: 0.2.1
+
+  yaml@2.9.0:
+    resolution: {integrity: sha512-2AvhNX3mb8zd6Zy7INTtSpl1F15HW6Wnqj0srWlkKLcpYl/gMIMJiyuGq2KeI2YFxUPjdlB+3Lc10seMLtL4cA==}
+    engines: {node: '>= 14.6'}
+    hasBin: true
+
+snapshots:
+
+  '@rtm/ingest@https://codeload.github.com/reportsthatmatter/ingest/tar.gz/14f7f2802c2742b9e74e30fb727fdc4e30e5fbce':
+    dependencies:
+      yaml: 2.9.0
+
+  yaml@2.9.0: {}

@@ -1,0 +1,9 @@
+{
+  "name": "uk-leveson-inquiry",
+  "private": true,
+  "type": "module",
+  "description": "Source archive and ingestion definition for the Leveson Inquiry",
+  "dependencies": {
+    "@rtm/ingest": "github:reportsthatmatter/ingest#v0.2.1"
+  }
+}

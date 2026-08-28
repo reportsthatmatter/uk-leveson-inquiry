@@ -31,3 +31,22 @@ See the datapackage.json for details.
 ## License
 
 Public domain
+
+## Rebuilding the text
+
+`full.md` is generated, never hand-edited. `ingest.ts` is the whole recipe —
+which PDFs, in what order, with what metadata, and which pipeline passes.
+
+```bash
+pnpm install
+pnpm exec tsx ../reportsthatmatter/scripts/ingest/cli.ts run uk-leveson-inquiry
+```
+
+Corrections to the text go in `corrections.yaml`, never into `full.md`. Each
+must match exactly once or the build fails naming it. `baseline.json` is the
+regression digest: if a pipeline change moves this report's output, it fails
+until the baseline moves with it after the diff has been read.
+
+The pipeline itself is [`@rtm/ingest`](https://github.com/reportsthatmatter/ingest),
+pinned in `package.json` — improvements are adopted here deliberately, with a
+diff, rather than arriving unannounced.
