@@ -1,4 +1,4 @@
-import { pipeline, geometry, runningFurniture } from "@rtm/ingest";
+import { pipeline, geometry, runningFurniture, numberedParagraphs } from "@rtm/ingest";
 
 /**
  * How this report is built. Owned by the report: every decision that shaped
@@ -22,5 +22,6 @@ export default pipeline({
   ],
   // Four separately typeset volumes. Each carries its own running
   // furniture, and one global margin is not meaningful across them.
-  passes: [geometry("per-volume"), runningFurniture()],
+  // Numbered "7.1", "10.14" paragraphs (reportsthatmatter-hzf).
+  passes: [geometry("per-volume"), runningFurniture(), numberedParagraphs()],
 });

@@ -4,6 +4,6 @@
   "type": "module",
   "description": "Source archive and ingestion definition for the Leveson Inquiry",
   "dependencies": {
-    "@rtm/ingest": "github:reportsthatmatter/ingest#v0.12.5"
+    "@rtm/ingest": "github:reportsthatmatter/ingest#v0.12.7"
   }
 }
