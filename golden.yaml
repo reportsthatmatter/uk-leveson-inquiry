@@ -31,7 +31,7 @@ pages:
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [C, F, I, ordinary]
     xfail: reportsthatmatter-fkx, reportsthatmatter-b94
-    xfail_only: [blocks, markers, must_contain, opens]
+    xfail_only: [blocks, markers, must_contain]
     continues_previous: true
     opens_with: "June 2012 News Corp announced that it intends to pursue the separation"
     blocks:
