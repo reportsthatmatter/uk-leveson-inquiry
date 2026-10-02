@@ -9,14 +9,14 @@ importers:
   .:
     dependencies:
       '@rtm/ingest':
-        specifier: github:reportsthatmatter/ingest#v0.15.0
-        version: https://codeload.github.com/reportsthatmatter/ingest/tar.gz/4f9d3aa38956c79dae925af3e9dfe1cc23ccf593
+        specifier: github:reportsthatmatter/ingest#v0.17.0
+        version: https://codeload.github.com/reportsthatmatter/ingest/tar.gz/e4e4908161452f28eb666f65a46f482e7e4de5c4
 
 packages:
 
-  '@rtm/ingest@https://codeload.github.com/reportsthatmatter/ingest/tar.gz/4f9d3aa38956c79dae925af3e9dfe1cc23ccf593':
-    resolution: {gitHosted: true, tarball: https://codeload.github.com/reportsthatmatter/ingest/tar.gz/4f9d3aa38956c79dae925af3e9dfe1cc23ccf593}
-    version: 0.15.0
+  '@rtm/ingest@https://codeload.github.com/reportsthatmatter/ingest/tar.gz/e4e4908161452f28eb666f65a46f482e7e4de5c4':
+    resolution: {gitHosted: true, tarball: https://codeload.github.com/reportsthatmatter/ingest/tar.gz/e4e4908161452f28eb666f65a46f482e7e4de5c4}
+    version: 0.17.0
     hasBin: true
 
   argparse@2.0.1:
@@ -50,7 +50,7 @@ packages:
 
 snapshots:
 
-  '@rtm/ingest@https://codeload.github.com/reportsthatmatter/ingest/tar.gz/4f9d3aa38956c79dae925af3e9dfe1cc23ccf593':
+  '@rtm/ingest@https://codeload.github.com/reportsthatmatter/ingest/tar.gz/e4e4908161452f28eb666f65a46f482e7e4de5c4':
     dependencies:
       markdown-it: 14.3.1
       yaml: 2.9.0
