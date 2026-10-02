@@ -1,0 +1,130 @@
+# Golden pages: ground truth for this report, read off the PDF page image and checked by `pnpm ingest verify`.
+# Format and rules: @rtm/ingest src/golden.ts and the site's docs/quality-harness.md ("Golden pages").
+# A page marked xfail is a known pipeline defect: it stays red here, verify stays green, and the bead says why.
+# `volume` is the PDF (1-4: 0780_i.pdf to 0780_iv.pdf); `pdf` is the page within it. Note numbers restart in every chapter.
+pages:
+  # Chapter opener: a two-line chapter title and a numbered section, then lettered-by-subhead sections; the last paragraph runs on.
+  - pdf: 110
+    volume: 1
+    printed: 99
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [I, H]
+    xfail: reportsthatmatter-r0w
+    xfail_only: [blocks, markers]
+    blocks:
+      - heading: "CHAPTER 2 THE PRESS: HISTORY, GOVERNANCE STRUCTURES AND FINANCES"
+      - heading: "1. Introduction"
+      - paragraph: {start: "1.1 In this Chapter I examine the history", end: "the regional press and the magazine industry.", notes: [1]}
+      - heading: "2. News Corporation"
+      - heading: "Group history and context"
+      - paragraph: {start: "2.1 News Corporation (News Corp) was founded in 1979", end: "secondary listings on the Australian Securities Exchange.", notes: [2, 3]}
+      - paragraph: {start: "2.2 News Corp now has global reach", end: "telecommunications and the internet.", notes: [4]}
+      - heading: "Group governance"
+      - paragraph: {start: "2.3 News Corp is headquartered in New York", continues: true, notes: [5, 6]}
+    footnotes: [1, 2, 3, 4, 5, 6]
+    markers: [1, 2, 3, 4, 5, 6]
+  # The same chapter a page on: the page's gutter shift puts the text at the quotation inset, so 2.4 is cut per line;
+  # eleven flush note markers; two subheads; a paragraph carried over from the page before.
+  - pdf: 111
+    volume: 1
+    printed: 100
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [C, F, I, ordinary]
+    xfail: reportsthatmatter-fkx, reportsthatmatter-b94
+    xfail_only: [blocks, markers, must_contain, opens]
+    continues_previous: true
+    opens_with: "June 2012 News Corp announced that it intends to pursue the separation"
+    blocks:
+      - paragraph: {start: "2.4 The Murdoch family owns a 29% stake", end: "the second largest shareholder in News Corp."}
+      - heading: "The Management and Standards Committee"
+      - paragraph: {start: "2.5 News Corp established the Management and Standards Committee", end: "all other related issues at NI.", notes: [8]}
+      - paragraph: {start: "2.6 The MSC is autonomous from News Corp", end: "civil proceedings and Parliamentary hearings.", notes: [9]}
+      - paragraph: {start: "2.7 The MSC is authorised to conduct internal investigations", end: "obtain and disclose appropriate documents."}
+      - paragraph: {start: "2.8 An important part of the MSC role", end: "robust governance, compliance and legal structure.", notes: [10, 11]}
+      - paragraph: {start: "2.9 The MSC originally reported to Joel Klein", end: "in more detail later in the report.", notes: [12, 13, 14]}
+      - heading: "Financial results"
+      - paragraph: {start: "2.10 News Corp estimates its global assets", end: "$2.99bn in 2011.", notes: [15, 16, 17]}
+    footnotes: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    markers: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    must_contain: ["Rupert Murdoch would remain Chairman of both companies"]
+  # Terms of Reference: an italic quotation continued over the page break, a numbered paragraph cut in two by the gutter shift (fkx).
+  - pdf: 19
+    volume: 1
+    printed: 4
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [A, B, D]
+    xfail: reportsthatmatter-fkx
+    xfail_only: [blocks, footnotes, markers, must_contain, must_not_be_quote, opens]
+    continues_previous: true
+    opens_with: "after listening carefully, we have decided that the best way to proceed"
+    blocks:
+      - paragraph: {start: "1.2 The Terms of Reference were then the subject of further discussion", end: "He said:", notes: [2]}
+      - quote: {start: "“We have made some significant amendments", end: "in criminal activities.”"}
+      - paragraph: {start: "1.3 Thus, the Terms of Reference of the Inquiry", end: "as finally drafted, are:"}
+      - quote: {start: "Part 1 1. To inquire into the culture, practices, and ethics of the press", continues: true}
+    footnotes: [2]
+    markers: [2]
+    must_contain: ["The Terms of Reference were then the subject of further discussion both with the devolved administrations of Scotland, Wales and Northern Ireland"]
+    must_not_be_quote: ["administrations of Scotland, Wales and Northern Ireland and other interested parties"]
+  # Chapter opener of Part F: the chapter title and the section "1. Overview" are two headings; note numbers restart (note 1 on this page).
+  - pdf: 16
+    volume: 2
+    printed: 439
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [I, F]
+    xfail: reportsthatmatter-r0w, reportsthatmatter-b94
+    xfail_only: [blocks, footnotes, markers]
+    blocks:
+      - heading: "CHAPTER 1 INTRODUCTION"
+      - heading: "1. Overview"
+      - paragraph: {start: "1.1 Whether published every day, every week or every month", end: "undoubtedly appeals to readers."}
+      - paragraph: {start: "1.2 The reason that the Inquiry has not focussed", end: "put the contrary view."}
+      - paragraph: {start: "1.3 Most of the topics covered by the press", end: "it can deal with these issues."}
+      - paragraph: {start: "1.4 I am conscious that focussing on criticisms of the press", continues: true, notes: [1]}
+    footnotes: [1]
+    markers: [1]
+  # A Part divider page: the Part letter and its title, nothing else.
+  - pdf: 15
+    volume: 3
+    printed: 997
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [I]
+    xfail: reportsthatmatter-r0w
+    xfail_only: [blocks]
+    blocks:
+      - heading: "PART H"
+      - heading: "THE PRESS AND DATA PROTECTION"
+    footnotes: []
+    markers: []
+  # A numbered section heading ("2. What the PCC did well"), the Part letter tab "J" at the page edge beside note 11, a paragraph broken by that note.
+  - pdf: 55
+    volume: 4
+    printed: 1518
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [K, E, I]
+    xfail: reportsthatmatter-qai, reportsthatmatter-r0w
+    xfail_only: [blocks, footnotes, markers, must_not_contain]
+    blocks:
+      - paragraph: {start: "1.14 Having introduced the issues in this way", end: "need to be examined and set out."}
+      - paragraph: {start: "1.15 The sections of this Chapter that follow", end: "both in 2007 and 2009."}
+      - heading: "2. What the PCC did well"
+      - paragraph: {start: "2.1 Before starting on an analysis of what went wrong", end: "what the PCC did well."}
+      - paragraph: {start: "2.2 Successive witnesses gave evidence", end: "set by the self-regulatory system.", notes: [11, 12]}
+      - paragraph: {start: "2.3 I also heard evidence from the then current director", end: "naturally daunting task."}
+      - paragraph: {start: "2.4 The efforts of the PCC at mediation and conciliation", continues: true, notes: [13, 14]}
+    footnotes: [11, 12, 13, 14]
+    markers: [11, 12, 13, 14]
+    must_not_contain: ["pp35-36, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Submission-by-Media-Standards-Trust"]
+  # Numbered paragraphs interleaved with quotations of police interviews: the numbered paragraphs are prose, the interview extracts are quotations.
+  - pdf: 300
+    volume: 1
+    printed: 291
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [ordinary, A, D]
+    headings: []
+    must_contain:
+      - "2.72 On the extent of the work that Mr Mulcaire was performing for the paper, DC Gallagher asked the following:"
+      - "2.73 DC Green returned to the issue on a later occasion and asked the following question:"
+      - "2.74 Revealing a suspicion that Mr Mulcaire had been working for one or more NI journalists other than Mr Goodman, DC Green also put the following to him:"
+      - "2.75 On 9 August 2006, following the interviews, Mr Goodman and Mr Mulcaire were charged with conspiracy to intercept communications"
+    must_not_be_quote: ["2.72 On the extent of the work", "2.74 Revealing a suspicion", "2.75 On 9 August 2006"]
