@@ -1,4 +1,4 @@
-import { quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations } from "@rtm/ingest";
+import { layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations } from "@rtm/ingest";
 
 /**
  * How this report is built. Owned by the report: every decision that shaped
@@ -30,6 +30,10 @@ export default pipeline({
   // because here a quotation's first line left alone at a page foot reads as
   // prose and belongs to the quotation on the next page (reportsthatmatter-nen).
   passes: [
+    // A paragraph run over a page break that opens on a capital, a digit or a
+    // quotation mark (or follows a full stop on a justified page) joins when the
+    // layout says it runs on: no first-line indent, same face (reportsthatmatter-38s.10).
+    layoutPageJoins(),
     // A quotation running over a page arrives as two (reportsthatmatter-38s.9).
     quoteListRunOns(),
     geometry("per-volume"),
