@@ -1,4 +1,4 @@
-import { pipeline, geometry, runningFurniture, numberedParagraphs } from "@rtm/ingest";
+import { pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations } from "@rtm/ingest";
 
 /**
  * How this report is built. Owned by the report: every decision that shaped
@@ -23,5 +23,16 @@ export default pipeline({
   // Four separately typeset volumes. Each carries its own running
   // furniture, and one global margin is not meaningful across them.
   // Numbered "7.1", "10.14" paragraphs (reportsthatmatter-hzf).
-  passes: [geometry("per-volume"), runningFurniture(), numberedParagraphs()],
+  // numbersTrackPages: a digit-blanked repeat is furniture only if its number
+  // advances with the page, so "Chapter 3" banners and citation tails are kept
+  // (reportsthatmatter-tqv).
+  // pageBreakContinuations: rejoin sentences split at page breaks; quoteTails,
+  // because here a quotation's first line left alone at a page foot reads as
+  // prose and belongs to the quotation on the next page (reportsthatmatter-nen).
+  passes: [
+    geometry("per-volume"),
+    runningFurniture({ numbersTrackPages: true }),
+    numberedParagraphs(),
+    pageBreakContinuations({ quoteTails: true }),
+  ],
 });
