@@ -1,4 +1,4 @@
-import { pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations } from "@rtm/ingest";
+import { quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations } from "@rtm/ingest";
 
 /**
  * How this report is built. Owned by the report: every decision that shaped
@@ -30,6 +30,8 @@ export default pipeline({
   // because here a quotation's first line left alone at a page foot reads as
   // prose and belongs to the quotation on the next page (reportsthatmatter-nen).
   passes: [
+    // A quotation running over a page arrives as two (reportsthatmatter-38s.9).
+    quoteListRunOns(),
     geometry("per-volume"),
     runningFurniture({ numbersTrackPages: true }),
     numberedParagraphs(),
