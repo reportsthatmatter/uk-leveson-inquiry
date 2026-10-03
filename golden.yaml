@@ -72,7 +72,7 @@ pages:
     printed: 439
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [I, F]
-    xfail: reportsthatmatter-r0w, reportsthatmatter-b94
+    xfail: reportsthatmatter-r0w, reportsthatmatter-mizx
     xfail_only: [blocks, footnotes, markers]
     blocks:
       - heading: "CHAPTER 1 INTRODUCTION"
