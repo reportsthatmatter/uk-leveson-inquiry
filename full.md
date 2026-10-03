@@ -963,9 +963,7 @@ Commission, (i) academic journalists and (j) bloggers and internet sites. The re
 
 (including documents). For each module, save in relation to those who complained about press intrusion (whom I considered ought to have the opportunity to decline to give evidence in public about their complaints of invasions of privacy) and a number of the most senior politicians, I decided that all witnesses would be required pursuant to the Act to assist me:
 
-this was not intended to reflect a concern that witnesses would not be prepared to volunteer their assistance (as, I believe almost without exception, all were) but rather to ensure that there was a consistency of approach across all those whom the Inquiry approached. Such requests could only be made after the Inquiry had formally commenced (at the end of July
-
-2011) and it was obviously essential to give everyone to whom requests for evidence had been addressed sufficient time to submit considered evidence. Given the summer, this meant that most of the evidence was not, in fact, available until the autumn. It then had to be assimilated and, eventually, made available to Core Participants for any comment prior to it being called.
+this was not intended to reflect a concern that witnesses would not be prepared to volunteer their assistance (as, I believe almost without exception, all were) but rather to ensure that there was a consistency of approach across all those whom the Inquiry approached. Such requests could only be made after the Inquiry had formally commenced (at the end of July 2011) and it was obviously essential to give everyone to whom requests for evidence had been addressed sufficient time to submit considered evidence. Given the summer, this meant that most of the evidence was not, in fact, available until the autumn. It then had to be assimilated and, eventually, made available to Core Participants for any comment prior to it being called.
 
 2.3 In addition to witnesses whom the Inquiry approached, an invitation was posted on the website inviting members of the public and other interested individuals or groups to submit evidence directly to the Inquiry.14 It is worth setting out the key questions posed which were as follows:
 
@@ -975,7 +973,7 @@ this was not intended to reflect a concern that witnesses would not be prepared 
 
 %%page 21%%
 
-2. Seminar debates have suggested that commercial pressures were not new, were not unique to the press, and did not impact adversely on standards of journalism or ethical behaviour. The Inquiry would be interested in submissions on this, with examples where possible. 3. Some seminar attendees suggest reader loyalty limits competition between titles. Professional competition to be first or best with a story, though, could be a powerful force. Other participants suggested some papers put journalists under significant pressure to produce a story within a tight timeframe. The Inquiry would be interested in experiences of the competitive dynamics in journalism and how that impacts on the way in which journalists operate, with examples where possible. 4. With the advent of the internet and 24 hour news as well as declines in revenue and circulation, we have heard that fewer journalists are having to do more work. The seminars also raised the issue of the casualisation of the workforce. The inquiry would be interested in experiences of how this may have changed the culture in newsrooms and what it might mean in terms of journalistic practice, with examples where possible. 5. The issue of stories that attract a high degree of press attention but subsequently turn out to be false was raised at the seminars. The Inquiry would be interested in submissions from editors, reporters and subjects of such stories - why they occur (what are the pressures that drive press interest), and how they occur (what checks and balances are or should be in place to stop this happening and why do they sometimes not operate)? 6. One seminar attendee suggested that the National Council for the Training of Journalists does not teach ethics. The Inquiry would be interested in experience of how ethics are taught and promulgated amongst journalists.
+2\. Seminar debates have suggested that commercial pressures were not new, were not unique to the press, and did not impact adversely on standards of journalism or ethical behaviour. The Inquiry would be interested in submissions on this, with examples where possible. 3. Some seminar attendees suggest reader loyalty limits competition between titles. Professional competition to be first or best with a story, though, could be a powerful force. Other participants suggested some papers put journalists under significant pressure to produce a story within a tight timeframe. The Inquiry would be interested in experiences of the competitive dynamics in journalism and how that impacts on the way in which journalists operate, with examples where possible. 4. With the advent of the internet and 24 hour news as well as declines in revenue and circulation, we have heard that fewer journalists are having to do more work. The seminars also raised the issue of the casualisation of the workforce. The inquiry would be interested in experiences of how this may have changed the culture in newsrooms and what it might mean in terms of journalistic practice, with examples where possible. 5. The issue of stories that attract a high degree of press attention but subsequently turn out to be false was raised at the seminars. The Inquiry would be interested in submissions from editors, reporters and subjects of such stories - why they occur (what are the pressures that drive press interest), and how they occur (what checks and balances are or should be in place to stop this happening and why do they sometimes not operate)? 6. One seminar attendee suggested that the National Council for the Training of Journalists does not teach ethics. The Inquiry would be interested in experience of how ethics are taught and promulgated amongst journalists.
 
 Standards 7. Attendees proposed that the general law, as it applies to everyone, should be the only constraint on the press. The inquiry would welcome submissions on whether, and if so why, the press should be subject to any additional constraints in relation to behaviour and standards, for example relating to accuracy, treatment of vulnerable individuals, intrusion, financial reporting or reporting on crime, other than those imposed by existing laws. 8. Editors at the seminars argued that the Editors' Code was a good set of standards to work to. The Inquiry would be interested in submissions from all parties on the coverage and substance of the Editors' code including accuracy and redress for those who are affected by breaches of the code. 9. It has been argued that the statutory regulation and impartiality requirements that apply to broadcasting do not chill investigative reporting on television. Broadcasters are able to rely on the printed press to break controversial stories and then follow on behind. The inquiry would be interested in submissions on the extent to which the regulatory regime for broadcasting casts a chill on broadcast reporting and the relationship between the printed press and broadcast media as a result of the different regulatory environments.
 
@@ -1027,7 +1025,7 @@ The questions (which provide a good overview of some of the issues which the Inq
 
 %%page 25%%
 
-6. The Inquiry would be interested to receive views as to whether the Police Service governance arrangements, policies and guidance currently in place are sufficient to sustain a transparent and ethical relationship between the police and the press which at the same time upholds the confidentiality and rights of the victims of crime and the public more generally. 7. The Inquiry would be interested to receive submissions on what Police Service training, governance and oversight arrangements exist, and views on whether it is sufficient, to ensure that acceptable boundaries exist between the police and press, with examples where possible. 8. The Inquiry would be interested in the experiences of journalists about whether you have ever felt under any pressure not to report a story involving a police officer or member of police staff (detailing where and from whom the pressure came), with examples where possible. 9. The Inquiry would be interested to receive submissions from police officers, other police staff, and journalists on the extent to which formal and informal interaction between the press and the police is recorded for the purposes of transparency (are such records audited, and if so by whom, for example). Information control and disclosure: 10. The Inquiry would be interested to receive submissions on the extent to which systems are in place (and an assessment of whether they are adequate) to identify, prevent, manage and investigate police data leaks and breaches. 11. The Inquiry would be interested in the experiences of the victims of crime and the public more generally, who feel that they have been adversely affected (perhaps through a data leak or breach, or through the reporting of a case) by the current relationship between the press and the police, with examples where possible. The Inquiry would also be interested to receive submissions in relation to this issue on whether it is felt that the current investigation and complaint regime are adequate to properly address instances of this type. 12. The Inquiry would welcome submissions on how the police and the media working together is and can be of benefit to the public, with examples where possible.
+6\. The Inquiry would be interested to receive views as to whether the Police Service governance arrangements, policies and guidance currently in place are sufficient to sustain a transparent and ethical relationship between the police and the press which at the same time upholds the confidentiality and rights of the victims of crime and the public more generally. 7. The Inquiry would be interested to receive submissions on what Police Service training, governance and oversight arrangements exist, and views on whether it is sufficient, to ensure that acceptable boundaries exist between the police and press, with examples where possible. 8. The Inquiry would be interested in the experiences of journalists about whether you have ever felt under any pressure not to report a story involving a police officer or member of police staff (detailing where and from whom the pressure came), with examples where possible. 9. The Inquiry would be interested to receive submissions from police officers, other police staff, and journalists on the extent to which formal and informal interaction between the press and the police is recorded for the purposes of transparency (are such records audited, and if so by whom, for example). Information control and disclosure: 10. The Inquiry would be interested to receive submissions on the extent to which systems are in place (and an assessment of whether they are adequate) to identify, prevent, manage and investigate police data leaks and breaches. 11. The Inquiry would be interested in the experiences of the victims of crime and the public more generally, who feel that they have been adversely affected (perhaps through a data leak or breach, or through the reporting of a case) by the current relationship between the press and the police, with examples where possible. The Inquiry would also be interested to receive submissions in relation to this issue on whether it is felt that the current investigation and complaint regime are adequate to properly address instances of this type. 12. The Inquiry would welcome submissions on how the police and the media working together is and can be of benefit to the public, with examples where possible.
 
 Professional Standards: 13. The Inquiry would like to receive views as to whether it is felt that adequate governance and oversight arrangements are in place for police officers and other police staff to ensure the effective management and recording of gifts and hospitality, secondary business interests, associations and conflicts of interest. 14. The Inquiry would be interested to receive views as to what type of payments, gifts or hospitality (if any) you consider to be legitimate transactions between police officers, other police staff, and the media, and is and should the approach to payments, gifts or hospitality between the press and the police be different to the approach between the police and other parties. 15. The Inquiry would be interested to receive views as to whether there should be rules in place to govern how and when police officers and other police staff leaving the Police Service can take up posts with the media, commercial or other bodies, with examples of when such a move has been problematic or brought advantages where possible.
 
@@ -1053,9 +1051,7 @@ Fourth, reports prepared by the Chief Inspector of Constabulary (Sir Denis O'Con
 
 That was particularly so in relation to Rupert Murdoch, James Murdoch, the proprietors of other newspaper groups and a number of senior staff from News Corporation or News
 
-International. This group of seven witnesses gave evidence (over two weeks in April and May
-
-2012) between Module Two concerning the press and the police and Module 3 concerning the press and politicians.
+International. This group of seven witnesses gave evidence (over two weeks in April and May 2012) between Module Two concerning the press and the police and Module 3 concerning the press and politicians.
 
 Module Three
 
@@ -1131,21 +1127,21 @@ changes if any would be desirable in this respect, in order to maximise the over
 
 Press ethics
 
-5. What would be the distinguishing features of the conduct and practices of a media industry, or any organisation which was a part of that industry, which would make it an 'ethical' one?
+5\. What would be the distinguishing features of the conduct and practices of a media industry, or any organisation which was a part of that industry, which would make it an 'ethical' one?
 
-6. In particular, to whom might the press be considered to owe ethical duties, and why? What might be the content of such duties? To what extent might such duties come into conflict, and how should any such conflicts be resolved? The Inquiry is particularly interested in the following as potentially owed ethical duties, but there may be others:
+6\. In particular, to whom might the press be considered to owe ethical duties, and why? What might be the content of such duties? To what extent might such duties come into conflict, and how should any such conflicts be resolved? The Inquiry is particularly interested in the following as potentially owed ethical duties, but there may be others:
 
 > (a) readers and consumers of the media (b) persons who are the subject matter of stories and other media products (c) the wider public (d) employees, journalists and other producers of the media (e) shareholders, investors, advertisers and others with an economic interest in the media.
 
-7. What role might reasonably be expected to be played by a code of conduct in encouraging, inculcating or enforcing ethical behaviour by the press? What would be the distinguishing principles and features of any code of ethical conduct with universal application to the media industry?
+7\. What role might reasonably be expected to be played by a code of conduct in encouraging, inculcating or enforcing ethical behaviour by the press? What would be the distinguishing principles and features of any code of ethical conduct with universal application to the media industry?
 
-8. To what extent does the media industry's Code of Practice (http://www.pcc.org.
+8\. To what extent does the media industry's Code of Practice (http://www.pcc.org.
 
 uk/cop/practice.html) meet the needs of an ethical code?
 
-9. What approach would you recommend to the consideration of improvement to the nature, status, content and enforceability of the current Code? Are there changes to either content or enforceability of the current Code you would wish to see? Please explain your thinking.
+9\. What approach would you recommend to the consideration of improvement to the nature, status, content and enforceability of the current Code? Are there changes to either content or enforceability of the current Code you would wish to see? Please explain your thinking.
 
-10. What other changes would you consider desirable in order to encourage or constrain the press to improved standards of ethical conduct and practice? Your answer should explain the standards you consider appropriate and why, whether conformity should be encouraged or constrained, and how."
+10\. What other changes would you consider desirable in order to encourage or constrain the press to improved standards of ethical conduct and practice? Your answer should explain the standards you consider appropriate and why, whether conformity should be encouraged or constrained, and how."
 
 3. Challenging the evidence
 
@@ -1725,7 +1721,7 @@ The simple point I am making about the press is that an irreverent and opinionat
 
 %%page 68%%
 
-6. The protection of sources and other legal privileges of the press B 6.1 A free press is able to perform valuable functions which individual free speech cannot. It is
+6\. The protection of sources and other legal privileges of the press B 6.1 A free press is able to perform valuable functions which individual free speech cannot. It is
 
 > because of the position of the press as an institution of power that it is able to stand up to and speak truth to power. The professional skills and resources at its disposal enable the press as an institution to carry out ground-breaking investigations in the public interest. It is these considerations and functions which have resulted in the press as an institution being afforded certain privileges going beyond those protected by freedom of speech.
 
@@ -1861,7 +1857,7 @@ Everyone is entitled to some private space and always provided that there is no 
 
 3.13 The protection of the "reputation and rights of others" is expressly identified by Article 10(2) of the ECHR as a necessary public interest basis for limiting the expression of others. The right to freedom of expression must therefore be accommodated with other fundamental liberties. Thus, when confronted with conflicting claims under two protected ECHR rights, the courts must undertake a difficult balancing exercise to determine which will prevail. This is the reason why there is no protection for speech (written or oral) which unjustifiably damages a person's reputation or which interferes with a person's "reasonable expectation of privacy".18
 
-4. other public goods
+4\. other public goods
 
 4.1 The relationship between freedom of the press and the public interest in justice is similarly a matter of balance. On the one hand, freedom of expression is integral to the principle of open justice, which encompasses the entitlement of the media to impart and the public to receive information in relation to the process of justice. Therefore, any restriction on the ability of the press to report proceedings openly must be expressly limited.19 On the other hand, reporting restrictions may be necessary if the right of an individual to a fair trial would be prejudiced by publication of information about the proceedings: this is no more than the protect the integrity of the justice system and a person's right to a fair trial.
 
@@ -1985,7 +1981,7 @@ but good public interest journalism seeks to make the sources and the evidence a
 
 … Ensuring …communicative adequacy does not determine or constrain content, except insofar as content is unjustified, misleading and untraceable."23
 
-4. press ethics and the role of a code of ethics
+4\. press ethics and the role of a code of ethics
 
 4.1 Press ethics, to which the Inquiry was directed by its Terms of Reference, can be understood at a simple level by reference to the choices available to a free press, where those choices may have consequences for the benefit or harm of others, whether individuals, groups or the public as a whole. These are the choices by which newspapers and journalists can exercise their freedoms so as to fulfil the unique and important role of the press in a democracy or indeed to undermine it, to promote or restrict public communication and debate, to enhance or harm civil liberties and the autonomy of individuals.
 
@@ -2411,9 +2407,7 @@ Janet Nova, Deputy Group General Counsel of News Corp, have stepped down from th
 
 > "I am satisfied that notwithstanding these changes to the board, the appropriate oversight of the News International business is being maintained both at the local division and group levels and the board of directors of NI Group Limited continues to play a key role in ensuring the appropriate corporate governance standards of the company and its subsidiaries."
 
-2.41 Mr Mockridge told the Inquiry the NI Board has undertaken a review of compliance since July
-
-2011. He said:51
+2.41 Mr Mockridge told the Inquiry the NI Board has undertaken a review of compliance since July 2011. He said:51
 
 > "... what we have sought to do is to update/refresh the whole range of compliance policies and in particular improve the communications of the compliance policies. My observation has been that even where an existing policy is completely thorough and appropriate, if it's not well communicated, then it's much more difficult to expect people to comply with it."
 
@@ -2569,7 +2563,7 @@ Sky News
 
 News would look to introduce a formal process requiring, should the situation arise, formal written authorisation to be sought either from the head of news or the appropriate editor designate.125
 
-3. associated newspapers Ltd
+3\. associated newspapers Ltd
 
 History
 
@@ -2691,7 +2685,7 @@ Associated News incentives
 
 3.29 The editor-in-chief and other ANL editors may receive share options as part of their remuneration but these are tied to DMGT's overall financial performance, and not editorial performance.172 Mr Dacre, told the Inquiry that he also received a "one-off lifetime bonus" C which was taken in 2010.173
 
-4. northern and shell Media group Ltd
+4\. northern and shell Media group Ltd
 
 4.1 Northern and Shell is a privately owned company, founded and owned by Richard Desmond.
 
@@ -2799,7 +2793,7 @@ Northern and Shell management structures and processes
 
 4.22 Editors have a responsibility to ensure that the policies for lawful, professional and ethical conduct are adhered to in practice.215 The Inquiry has been told that editors at the group check throughout the day on all stories and pictures that are being printed.216 Sources for stories are discussed at editorial meetings which take place throughout the day, at which unusual articles and sources of information for those articles will be discussed.217
 
-5. trinity Mirror plc
+5\. trinity Mirror plc
 
 5.1 Trinity Mirror describes the Daily Mirror as:
 
@@ -2909,7 +2903,7 @@ Conduct.267 In addition, there is a Mirror Group Regional Editorial Policy, whic
 
 Inquiry has seen evidence from the Manchester Evening News (MEN), which was purchased from the Guardian Media Group in 2010, indicating that it requires every article to be looked at by two experienced journalists to ensure that it is lawful, accurate and fair.269 The MEN also seeks to ensure that nothing is published which is legally problematic, with a policy 'if in doubt, don't publish'.270 Any breach of the law or any use of subterfuge would have to be approved by the editor.271
 
-6. the telegraph Media group
+6\. the telegraph Media group
 
 6.1 The Daily Telegraph has the highest daily circulation of the national broadsheet titles.
 
@@ -2989,7 +2983,7 @@ Telegraph incentives
 
 TMG and the individual titles.304
 
-7. the guardian Media group C 7.1 The Guardian is the only national broadsheet title that is owned by a Trust, rather than a traditional proprietor owner, or through shareholders in a public or private company. Dame
+7\. the guardian Media group C 7.1 The Guardian is the only national broadsheet title that is owned by a Trust, rather than a traditional proprietor owner, or through shareholders in a public or private company. Dame
 
 Elizabeth Forgan is the Chair of the Scott Trust which owns the Guardian. She has said that the central objective of the Trust is:305
 
@@ -3087,7 +3081,7 @@ However, there is a consultation process with the editor, the managing editor an
 
 7.22 In his evidence to the Inquiry, Mr Elliott explained that the external Ombudsman is unlikely to deal with a large number of referrals in the space of a year, only "maybe one or two a year."346
 
-8. the independent group
+8\. the independent group
 
 8.1 The Independent is the youngest of the major national daily newspapers. Independent Print Limited is jointly owned by the Russian business tycoon, Alexander Lebedev and his son, Evgeny. The Evening Standard Limited is also owned by the Lebedevs, having been purchased in January 2009. Evgeny Lebedev told the Inquiry that his focus for both newspaper titles is the provision of accurately informed journalism, which is ethically sound and delivered in the public interest. He said that although his papers might adopt different approaches and have different political leanings, the broader purpose of both titles remains dedicated to fair and accurate journalism.347
 
@@ -3297,7 +3291,7 @@ Financial Times incentives
 
 9.19 Financial incentives for the Chief Executive are linked to circulation and profitability of the group.418 There are no financial incentives for the editor related to the production of exclusive stories.419
 
-10. the regional press
+10\. the regional press
 
 10.1 There are 1,167 regional and local newspapers operating in the UK today, including 105 dailies,[^15] Sundays,[^504] paid weeklies,[^533] free weeklies and ten combined weekly titles.420
 
@@ -3613,7 +3607,7 @@ Complaints system
 
 Channel 4 News had received remarkably few complaints and, specifically, over the course of five years, "we haven't actually had a finding against us from an Ofcom complaint except once… and that was a partial ruling against us on an investigation".68
 
-3. the World Wide Web
+3\. the World Wide Web
 
 3.1 The media landscape, particularly the provision of news, both globally and in the UK has been transformed by the invention and phenomenal development of the Internet. At its simplest the Internet is a system of interconnected computer networks which use a standardised address system to enable the identification of each of the electronic devices that make up the network. Now literally billions of machines are linked. This means that huge quantities of increasingly complex information can be stored and accessed at ever greater speeds. It also means that the services that media providers can offer through the Internet to consumers can be ever more sophisticated, personalised and immediate.
 
@@ -4141,7 +4135,7 @@ Competition Appeal Tribunal and to the Court of Appeal; the Court of Appeal uphe
 
 Competition Commission's decision.55 C 3.30 The second occasion, the proposed acquisition by News Corporation of the shares in BSkyB it did not already own, was an EC merger.56
 
-4. history of the newspaper ownership regime
+4\. history of the newspaper ownership regime
 
 Before the Communications Act 2003
 
@@ -4672,7 +4666,7 @@ PCC.
 
 Operation Motorman and then to phone hacking following Operation Caryatid). That exercise has therefore been deferred until these incidents (covering a number of years) have been fully ventilated: the Report therefore returns to the PCC below.1
 
-2. the establishment of the pCC
+2\. the establishment of the pCC
 
 2.1 As has already been explained above,2 the PCC was set up following the first report into privacy and the press by Sir David Calcutt QC, published in 1990.
 
@@ -7600,9 +7594,7 @@ Carmen Dowd. For instance, Mr Yates has submitted that it was the advice she gav
 
 The problem facing the police team in 2009, however, was not the advice in 2006. It was that it was known that there was an enormous body of evidence which had not been examined, yet it was decided that there would be no further consideration of the allegations unless there was "new evidence"; it would only have been at that stage, when deciding what steps to take in the light of the "new evidence" that Mr Yates would have considered resourcing priorities.
 
-8.86 Finally, I must deal with two other aspects of the press release issued by Mr Yates on 9 July
-
-2009. The first concerns the Deputy Prime Minister and asserts:
+8.86 Finally, I must deal with two other aspects of the press release issued by Mr Yates on 9 July 2009. The first concerns the Deputy Prime Minister and asserts:
 
 > "There has been a lot of media comment today about the then Deputy Prime Minister John Prescott. This investigation has not uncovered any evidence to suggest that John Prescott's phone had been tapped."
 
@@ -9742,7 +9734,7 @@ xi parT F The Culture, Practices and Ethics of the Press: the Press and F the Pu
 
 2, with a recognition of the enormous value that the press plays in our daily life, and notes that for all of the examples of poor practice cited below, there are many more examples of good practice. However, having said that, the rest of this Part of the Report focuses on the concerns and complaints that have been made and expressed, along with the ways in which they have or have not been adequately addressed. It would be entirely wrong to view the number of words expended in this Report on the good versus the bad as reflecting any overall judgment. The nature of my task is to focus on those aspects of press culture, practices and ethics (even if in small pockets) which leave something to be desired. Inevitably, the focus is overwhelmingly on poor practice rather than good.
 
-2. Module One and the Terms of Reference F 2.1 This Part of the Report examines the evidence the Inquiry has received relating to 'the Press and the Public', in other words, the first of the four modules into which the work of the
+2\. Module One and the Terms of Reference F 2.1 This Part of the Report examines the evidence the Inquiry has received relating to 'the Press and the Public', in other words, the first of the four modules into which the work of the
 
 Inquiry was conveniently allocated.
 
@@ -12156,9 +12148,7 @@ Times demonstrated a lack of objectivity borne out of its desire to protect anot
 
 6. Hugh Grant and 'the mendacious smear'
 
-6.1 Hugh Grant was one of the first witnesses to give evidence before the Inquiry in November
-
-2011. At paragraph 11 of his first witness statement he referred to an article published in the Mail on Sunday on 18 February 2007.101 The article speculated that the cause of the breakdown of Mr Grant's long term relationship with Jemima Khan was a series of latenight phone calls with a 'glamorous young Cambridge-educated film executive from Warner
+6.1 Hugh Grant was one of the first witnesses to give evidence before the Inquiry in November 2011. At paragraph 11 of his first witness statement he referred to an article published in the Mail on Sunday on 18 February 2007.101 The article speculated that the cause of the breakdown of Mr Grant's long term relationship with Jemima Khan was a series of latenight phone calls with a 'glamorous young Cambridge-educated film executive from Warner
 
 Brothers' with a 'plummy-voice'. The article continued: F 'a source revealed last night...Hugh was always disappearing for meetings and
 
@@ -13686,9 +13676,7 @@ Uncensored". At the very bottom of the page was the headline, "Two Free XXX Sex 
 
 %%page 664%%
 
-8.16 Object's submission to the Inquiry gave examples of the sexualisation or demeaning of women from articles in The Sun, the Daily Star, and the Sport over a single week in November
-
-2011. The articles exhibited demonstrated the "gradient of extremity" from The Sun through the Daily Star to the Sport, but all three titles contained what can only be described as objectifying material.367 All three included numerous articles with no other purpose except to show an image of a scantily clad or topless woman: see, for instance, The Sun's articles
+8.16 Object's submission to the Inquiry gave examples of the sexualisation or demeaning of women from articles in The Sun, the Daily Star, and the Sport over a single week in November 2011. The articles exhibited demonstrated the "gradient of extremity" from The Sun through the Daily Star to the Sport, but all three titles contained what can only be described as objectifying material.367 All three included numerous articles with no other purpose except to show an image of a scantily clad or topless woman: see, for instance, The Sun's articles
 
 'Jess takes the plunge' and 'Celeb beauty gets 'em out'. All three titles included articles with no purpose other than to attach a photograph of, and describe in derogatory language, a woman's breasts or bottom: see the Daily Star's article about "getting a massive pervy eyeful of [a celebrity's] pert ass", or the Sport's article 'Jugs and Jury'. All three contained large scale advertisements for pornography and/or escort services. And all three included articles which appeared to eroticise violence against women.
 
@@ -17910,9 +17898,7 @@ G
 
 5.12 This working dinner was followed three days later by a meeting at the NoTW offices, again with Ms Panton.802 Ms Panton described Mr Hayman as a "work friend" and suggested that she had shared "a couple of lunches, a breakfast meeting, coffees and drinks meetings with him".803
 
-5.13 Neil Wallis (Deputy Editor of the NoTW from 2003-2007, and thereafter Executive Editor until
-
-2009) told the Inquiry that he first met Mr Hayman in 2005 and that they subsequently met for a drink about six times a year.804 Mr Wallis suggested that he was able to offer Mr Hayman a level of insight into the way the police were interacting with the media, he said:805
+5.13 Neil Wallis (Deputy Editor of the NoTW from 2003-2007, and thereafter Executive Editor until 2009) told the Inquiry that he first met Mr Hayman in 2005 and that they subsequently met for a drink about six times a year.804 Mr Wallis suggested that he was able to offer Mr Hayman a level of insight into the way the police were interacting with the media, he said:805
 
 > "Andy, as I think he said in his evidence to you, was particularly interested in police/ press relations. He had very strong views on it. He had views particularly in light of ACSO and of the pressure of anti-terrorism operations at the time, and it was of interest to him, I think – there was a very strong debate, I think, about how much of that should be in the public domain and how much should not be in the public domain. Now, I have always held the view, both personally and as a journalist, that the public deserves to be informed more. However, there was obviously the operational constraints …"
 
@@ -24846,7 +24832,7 @@ Reflections
 
 %%page 1300%%
 
-2012. In those circumstances it was necessary for the Inquiry, on more than one occasion, to make absolutely clear why it was taking evidence about the bid, its approach and, just as importantly, those questions which fell outside its remit. On 23 April 2012 I said:5
+2012\. In those circumstances it was necessary for the Inquiry, on more than one occasion, to make absolutely clear why it was taking evidence about the bid, its approach and, just as importantly, those questions which fell outside its remit. On 23 April 2012 I said:5
 
 "I understand the very real public interest in the issues that will be ventilated by the evidence. I also recognise the freedom that permits what is said to be discussed and the subject of comment in whatever way is thought fit, and I shall approach the relationship between the press and politicians from an entirely non-partisan judicial perspective, which I have no doubt is the reason that I was given this remit. I would hope that this approach will be made clear".
 
@@ -30000,7 +29986,7 @@ Reaction to the 2009 report
 
 7.73 The immediate consequence of the PCC's failed investigation, as with the 2007 report, was to dampen down calls for further investigation. The continued pursuit of the issue by journalists such as Mr Davies, solicitors like Mr Lewis and a handful of politicians meant that the issue would not be buried. However, the PCC's contribution to the phone hacking saga seeped into the political arena: for example, the Prime Minister, the Rt Hon David Cameron MP, gave evidence that in deciding to employ Mr Coulson, he relied in part on the reports of the PCC.268
 
-8. Conclusions J 8.1 The PCC is constrained by serious structural deficiencies which limit what it can do. The power of PressBoF in relation to appointments, the Code Committee and the funding of the PCC means that the PCC is far from being an independent body. The lack of universal coverage, most notably after the withdrawal of the Northern and Shell titles from the selfregulatory system in January 2011, gave cause for observers and complainants to lose faith in the system.269
+8\. Conclusions J 8.1 The PCC is constrained by serious structural deficiencies which limit what it can do. The power of PressBoF in relation to appointments, the Code Committee and the funding of the PCC means that the PCC is far from being an independent body. The lack of universal coverage, most notably after the withdrawal of the Northern and Shell titles from the selfregulatory system in January 2011, gave cause for observers and complainants to lose faith in the system.269
 
 %%page 1577%%
 
@@ -31152,7 +31138,7 @@ Transparency of funding
 
 6.16 This is a matter for concern and I would urge those responsible to resolve the matter so that there is full transparency over the funding of any self regulatory body.
 
-7. Response of editors and proprietors to the PCC and PressBoF proposals To what extent is the industry ready to sign up to these proposals?
+7\. Response of editors and proprietors to the PCC and PressBoF proposals To what extent is the industry ready to sign up to these proposals?
 
 7.1 The Inquiry sought evidence from those editors who had previously given evidence as to the extent to which they were ready and willing, on behalf of their titles, to sign up to the proposals presented by Lord Black.
 
@@ -34227,15 +34213,15 @@ L
 
 Summary of recommendations Regulatory Models for the Future Establishing an independent self-regulatory regime Independence: appointments 1. An independent self regulatory body should be governed by an independent Board. In order to ensure the independence of the body, the Chair and members of the Board must be appointed in a genuinely open, transparent and independent way, without any influence from industry or Government.1
 
-2. The appointment of the Chair of the Board should be made by an appointment panel. The selection of that panel must itself be conducted in an appropriately independent way and must, itself, be independent of the industry and of Government.2
+2\. The appointment of the Chair of the Board should be made by an appointment panel. The selection of that panel must itself be conducted in an appropriately independent way and must, itself, be independent of the industry and of Government.2
 
-3. The appointment panel:
+3\. The appointment panel:
 
 (a) should be appointed in an independent, fair and open way; (b) should contain a substantial majority of members who are demonstrably independent of the press; (c) should include at least one person with a current understanding and experience of the press; (d) should include no more than one current editor of a publication that could be a member of the body.3
 
-4. The appointment of the Board should also be an independent process, and the composition of the Board should include people with relevant expertise. The requirement for independence means that there should be no serving editors on the Board.4
+4\. The appointment of the Board should also be an independent process, and the composition of the Board should include people with relevant expertise. The requirement for independence means that there should be no serving editors on the Board.4
 
-5. The members of the Board should be appointed by the same appointment panel that appoints the Chair, together with the Chair (once appointed), and should:
+5\. The members of the Board should be appointed by the same appointment panel that appoints the Chair, together with the Chair (once appointed), and should:
 
 (a) be appointed by a fair and open process; (b) comprise a majority of people who are independent of the press; (c) include a sufficient number of people with experience of the industry who may include former editors and senior or academic journalists; (d) not include any serving editor; and (e) not include any serving member of the House of Commons or any member of the Government.5
 
@@ -34245,7 +34231,7 @@ Functions
 
 Standards Code and Governance Requirements 7. The standards code must ultimately be the responsibility of, and adopted by, the Board, advised by a Code Committee which may comprise both independent members of the Board and serving editors.7
 
-8. The code must take into account the importance of freedom of speech, the interests of the public (including the public interest in detecting or exposing crime or serous impropriety, protecting public health and safety and preventing the public from being seriously misled) and the rights of individuals. Specifically, it must cover standards of:
+8\. The code must take into account the importance of freedom of speech, the interests of the public (including the public interest in detecting or exposing crime or serous impropriety, protecting public health and safety and preventing the public from being seriously misled) and the rights of individuals. Specifically, it must cover standards of:
 
 (a) conduct, especially in relation to the treatment of other people in the process of obtaining material;
 
@@ -34253,29 +34239,29 @@ Standards Code and Governance Requirements 7. The standards code must ultimately
 
 (c) accuracy, and the need to avoid misrepresentation.8
 
-9. The Board should require, of those who subscribe, appropriate internal governance processes, transparency on what governance processes they have in place, and notice of any failures in compliance, together with details of steps taken to deal with failures in compliance.9
+9\. The Board should require, of those who subscribe, appropriate internal governance processes, transparency on what governance processes they have in place, and notice of any failures in compliance, together with details of steps taken to deal with failures in compliance.9
 
 Complaints 10. The Board should require all those who subscribe to have an adequate and speedy complaint handling mechanism; it should encourage those who wish to complain to do so through that mechanism and should not receive complaints directly unless or until the internal complaints system has been engaged without the complaint being resolved in an appropriate time.10
 
-11. The Board should have the power to hear and decide on complaints about breach of the standards code by those who subscribe. The Board should have the power (but not necessarily in all cases depending on the circumstances the duty) to hear complaints whoever they come from, whether personally and directly affected by the alleged breach, or a representative group affected by the alleged breach, or a third party seeking to ensure accuracy of published information. In the case of third party complaints the views of the party most closely involved should be taken into account.11
+11\. The Board should have the power to hear and decide on complaints about breach of the standards code by those who subscribe. The Board should have the power (but not necessarily in all cases depending on the circumstances the duty) to hear complaints whoever they come from, whether personally and directly affected by the alleged breach, or a representative group affected by the alleged breach, or a third party seeking to ensure accuracy of published information. In the case of third party complaints the views of the party most closely involved should be taken into account.11
 
-12. Decisions on complaints should be the ultimate responsibility of the Board, advised by complaints handling officials to whom appropriate delegations may be made.12
+12\. Decisions on complaints should be the ultimate responsibility of the Board, advised by complaints handling officials to whom appropriate delegations may be made.12
 
-13. Serving editors should not be members of any Committee advising the Board on complaints and any such Committee should have a composition broadly reflecting that of the main Board, with a majority of people who are independent of the press.13
+13\. Serving editors should not be members of any Committee advising the Board on complaints and any such Committee should have a composition broadly reflecting that of the main Board, with a majority of people who are independent of the press.13
 
-14. It should continue to be the case that complainants are able to bring complaints free of charge.14
+14\. It should continue to be the case that complainants are able to bring complaints free of charge.14
 
 Powers, Remedies and Sanctions 15. In relation to complaints, the Board should have the power to direct appropriate remedial action for breach of standards and the publication of corrections and apologies. Although remedies are essentially about correcting the record for individuals, the power to require a correction and an apology must apply equally in relation to individual standards breaches (which the Board has accepted) and to groups of people (or matters of fact) where there is no single identifiable individual who has been affected.15
 
-16. The power to direct the nature, extent and placement of apologies should lie with the Board.16
+16\. The power to direct the nature, extent and placement of apologies should lie with the Board.16
 
-17. The Board should not have the power to prevent publication of any material, by anyone, at any time although (in its discretion) it should be able to offer a service of advice to editors of subscribing publications relating to code compliance which editors, in their discretion, can deploy in civil proceedings arising out of publication.17
+17\. The Board should not have the power to prevent publication of any material, by anyone, at any time although (in its discretion) it should be able to offer a service of advice to editors of subscribing publications relating to code compliance which editors, in their discretion, can deploy in civil proceedings arising out of publication.17
 
-18. The Board, being an independent self-regulatory body, should have authority to examine issues on its own initiative and have sufficient powers to carry out investigations both into suspected serious or systemic breaches of the code and failures to comply with directions of the Board. Those who subscribe must be required to cooperate with any such investigation.18
+18\. The Board, being an independent self-regulatory body, should have authority to examine issues on its own initiative and have sufficient powers to carry out investigations both into suspected serious or systemic breaches of the code and failures to comply with directions of the Board. Those who subscribe must be required to cooperate with any such investigation.18
 
-19. The Board should have the power to impose appropriate and proportionate sanctions, (including financial sanctions up to 1% of turnover with a maximum of £1m), on any subscriber found to be responsible for serious or systemic breaches of the standards code or governance requirements of the body. The sanctions that should be available should include power to require publication of corrections, if the breaches relate to accuracy, or apologies if the breaches relate to other provisions of the code.19
+19\. The Board should have the power to impose appropriate and proportionate sanctions, (including financial sanctions up to 1% of turnover with a maximum of £1m), on any subscriber found to be responsible for serious or systemic breaches of the standards code or governance requirements of the body. The sanctions that should be available should include power to require publication of corrections, if the breaches relate to accuracy, or apologies if the breaches relate to other provisions of the code.19
 
-20. The Board should have both the power and a duty to ensure that all breaches of the standards code that it considers are recorded as such and that proper data is kept that records the extent to which complaints have been made and their outcome; this information should be made available to the public in a way that allows understanding of the compliance record of each title.20
+20\. The Board should have both the power and a duty to ensure that all breaches of the standards code that it considers are recorded as such and that proper data is kept that records the extent to which complaints have been made and their outcome; this information should be made available to the public in a way that allows understanding of the compliance record of each title.20
 
 Reporting 21. The Board should publish an Annual Report identifying:
 
@@ -34295,25 +34281,25 @@ The process must have a system to allow frivolous or vexatious claims to be stru
 
 Encouraging membership 23. A new system of regulation should not be considered sufficiently effective if it does not cover all significant news publishers.23
 
-24. The membership of a regulatory body should be open to all publishers on fair, reasonable and non-discriminatory terms, including making membership potentially available on different terms for different types of publisher.24
+24\. The membership of a regulatory body should be open to all publishers on fair, reasonable and non-discriminatory terms, including making membership potentially available on different terms for different types of publisher.24
 
-25. In any reconsideration of the powers of the Information Commissioner (or replacement body), power should be given to that body to determine that membership of a satisfactory regulatory body, which required appropriate governance and transparency standards from its members in relation to compliance with data protection legislation and good practice, should be taken into account when considering whether it is necessary or proportionate to take any steps in relation to a subscriber to that body.25
+25\. In any reconsideration of the powers of the Information Commissioner (or replacement body), power should be given to that body to determine that membership of a satisfactory regulatory body, which required appropriate governance and transparency standards from its members in relation to compliance with data protection legislation and good practice, should be taken into account when considering whether it is necessary or proportionate to take any steps in relation to a subscriber to that body.25
 
-26. It should be open any subscriber to a recognised regulatory body to rely on the fact of such membership and on the opportunity it provides for the claimant to use a fair, fast and inexpensive arbitration service. It could request the court to encourage the use of that system of arbitration and, equally, to have regard to the availability of the arbitration system when considering claims for costs incurred by a claimant who could have used the arbitration service. On the issue of costs, it should equally be open to a claimant to rely on failure by a newspaper to subscribe to the regulator thereby depriving him or her of access to a fair, fast and inexpensive arbitration service. Where that is the case, in the exercise of its discretion, the court could take the view that, even where the defendant is successful, absent unreasonable or vexatious conduct on the part of the claimant, it would be inappropriate for the claimant to be expected to pay the costs incurred in defending the action.26
+26\. It should be open any subscriber to a recognised regulatory body to rely on the fact of such membership and on the opportunity it provides for the claimant to use a fair, fast and inexpensive arbitration service. It could request the court to encourage the use of that system of arbitration and, equally, to have regard to the availability of the arbitration system when considering claims for costs incurred by a claimant who could have used the arbitration service. On the issue of costs, it should equally be open to a claimant to rely on failure by a newspaper to subscribe to the regulator thereby depriving him or her of access to a fair, fast and inexpensive arbitration service. Where that is the case, in the exercise of its discretion, the court could take the view that, even where the defendant is successful, absent unreasonable or vexatious conduct on the part of the claimant, it would be inappropriate for the claimant to be expected to pay the costs incurred in defending the action.26
 
 Recognition 27. In order to meet the public concern that the organisation by the press of its regulation is by a body which is independent of the press, independent of Parliament and independent of the Government, that fulfils the legitimate requirements of such a body and can provide, by way of benefit to its subscribers, recognition of involvement in the maintenance of high standards of journalism, the law must identify those legitimate requirements and provide a mechanism to recognise and certify that a new body meets them.27
 
-28. The responsibility for recognition and certification of a regulator shall rest with a recognition body. In its capacity as the recognition body, it will not be involved in regulation of any subscriber.28
+28\. The responsibility for recognition and certification of a regulator shall rest with a recognition body. In its capacity as the recognition body, it will not be involved in regulation of any subscriber.28
 
-29. The requirements for recognition should be those set out the recommendations set out above numbered 1 to 24 inclusive and more fully described in Part K, Chapter 7, Section 4 of the Report.29
+29\. The requirements for recognition should be those set out the recommendations set out above numbered 1 to 24 inclusive and more fully described in Part K, Chapter 7, Section 4 of the Report.29
 
-30. The operation of any certified body should be reviewed by the recognition body after two years and thereafter at three yearly intervals.30
+30\. The operation of any certified body should be reviewed by the recognition body after two years and thereafter at three yearly intervals.30
 
-31. The role of recognition body, that is to say, to recognise and certify that any particular body satisfies (and, on review, continues to satisfy) the requirements set out in law should fall on Ofcom. A less attractive alternative (on the basis that any individual will not have the requisite authority or experience and will only be occasionally be required to fulfil these functions) is for the appointment of an independent Recognition Commissioner supported by officials at Ofcom.31
+31\. The role of recognition body, that is to say, to recognise and certify that any particular body satisfies (and, on review, continues to satisfy) the requirements set out in law should fall on Ofcom. A less attractive alternative (on the basis that any individual will not have the requisite authority or experience and will only be occasionally be required to fulfil these functions) is for the appointment of an independent Recognition Commissioner supported by officials at Ofcom.31
 
-32. It should be possible for the recognition body to recognise more than one regulatory body, should more than one seek recognition and meet the criteria, although this is not an outcome to be advocated and, should it be necessary for that step to be taken, would represent a failure on the part of the industry.32
+32\. It should be possible for the recognition body to recognise more than one regulatory body, should more than one seek recognition and meet the criteria, although this is not an outcome to be advocated and, should it be necessary for that step to be taken, would represent a failure on the part of the industry.32
 
-33. In passing legislation to identify the legitimate requirements to be met by an independent regulator organised by the press, and to provide for a process of recognition and review of whether those requirements are and continue to be met, the law should also place an explicit duty on the Government to uphold and protect the freedom of the press.33
+33\. In passing legislation to identify the legitimate requirements to be met by an independent regulator organised by the press, and to provide for a process of recognition and review of whether those requirements are and continue to be met, the law should also place an explicit duty on the Government to uphold and protect the freedom of the press.33
 
 Recommendations for a self-regulatory body
 
@@ -34329,25 +34315,25 @@ The Code 36. A regulatory body should consider engaging in an early thorough rev
 
 Powers and sanctions 37. A regulatory body should be prepared to allow a complaint to be brought prior to commencing legal proceedings if so advised. Challenges to that approach (and applications to stay) can be decided on the merits.38
 
-38. In conjunction with Recommendation 11 above, consideration should also be given to Code amendments which, while fully protecting freedom of speech and the freedom of the press, would equip that body with the power to intervene in cases of allegedly discriminatory reporting, and in so doing reflect the spirit of equalities legislation.39
+38\. In conjunction with Recommendation 11 above, consideration should also be given to Code amendments which, while fully protecting freedom of speech and the freedom of the press, would equip that body with the power to intervene in cases of allegedly discriminatory reporting, and in so doing reflect the spirit of equalities legislation.39
 
-39. A new regulatory body should establish a ring-fenced enforcement fund, into which receipts from fines could be paid, for the purpose of funding investigations.40
+39\. A new regulatory body should establish a ring-fenced enforcement fund, into which receipts from fines could be paid, for the purpose of funding investigations.40
 
 Protecting the public 40. A new regulatory body should continue to provide advice to the public in relation to issues concerning the press and the Code along with a service to warn the press, and other relevant parties such as broadcasters and press photographers, when an individual has made it clear that they do not welcome press intrusion.41
 
-41. A new regulatory body should make it clear that newspapers will be held strictly accountable, under their standards code, for any material that they publish, including photographs (however sourced).42
+41\. A new regulatory body should make it clear that newspapers will be held strictly accountable, under their standards code, for any material that they publish, including photographs (however sourced).42
 
 The public interest 42. A regulatory body should provide guidance on the interpretation of the public interest that justifies what would otherwise constitute a breach of the Code. This must be framed in the context of the different provisions of the Code relating to the public interest, so as to make it easier to justify what might otherwise be considered as contrary to standards of propriety.43
 
-43. A new regulatory body should consider being explicit that where a public interest justification is to be relied upon, a record should be available of the factors weighing against and in favour of publication, along with a record of the reasons for the conclusion reached.44
+43\. A new regulatory body should consider being explicit that where a public interest justification is to be relied upon, a record should be available of the factors weighing against and in favour of publication, along with a record of the reasons for the conclusion reached.44
 
-44. A new regulatory body should consider whether it might provide an advisory service to editors in relation to consideration of the public interest in taking particular actions.45
+44\. A new regulatory body should consider whether it might provide an advisory service to editors in relation to consideration of the public interest in taking particular actions.45
 
 Access to information 45. A new regulatory body should consider encouraging the press to be as transparent as possible in relation to the sources used for stories, including providing any information that would help readers to assess the reliability of information from a source and providing easy access, such as web links, to publicly available sources of information such as scientific studies or poll results. This should include putting the names of photographers alongside images. This is not in any way intended to undermine the existing provisions on protecting journalists' sources, only to encourage transparency where it is both possible and appropriate to do so.46
 
 Protecting journalists 46. A regulatory body should establish a whistleblowing hotline for those who feel that they are being asked to do things which are contrary to the code.47
 
-47. The industry generally and a regulatory body in particular should consider requiring its members to include in the employment or service contracts with journalists a clause to the effect that no disciplinary action would be taken against a journalist as a result of a refusal to act in a manner which is contrary to the code of practice.48
+47\. The industry generally and a regulatory body in particular should consider requiring its members to include in the employment or service contracts with journalists a clause to the effect that no disciplinary action would be taken against a journalist as a result of a refusal to act in a manner which is contrary to the code of practice.48
 
 The Press and Data Protection
 
@@ -34361,7 +34347,7 @@ Recommendations to the Ministry of Justice 48. The exemption in section 32 of th
 
 (c) objectively, that the likely interference with privacy resulting from the processing of the data is outweighed by the public interest in publication.
 
-49. The exemption in section 32 of the Data Protection Act 1998 should be narrowed in scope, so that it no longer allows, by itself, for exemption from:50
+49\. The exemption in section 32 of the Data Protection Act 1998 should be narrowed in scope, so that it no longer allows, by itself, for exemption from:50
 
 (a) the requirement of the first data protection principle to process personal data fairly
 
@@ -34381,49 +34367,49 @@ The recommendation on the removal of the right of subject access from the scope 
 
 32 is subject to any necessary clarification that the law relating to the protection of journalists' sources is not affected by the Act.
 
-50. It should be made clear that the right to compensation for distress conferred by section 13 of the Data Protection Act 1998 is not restricted to cases of pecuniary loss, but should include compensation for pure distress.51
+50\. It should be made clear that the right to compensation for distress conferred by section 13 of the Data Protection Act 1998 is not restricted to cases of pecuniary loss, but should include compensation for pure distress.51
 
-51. The procedural provisions of the Data Protection Act 1998 with special application to journalism in:
+51\. The procedural provisions of the Data Protection Act 1998 with special application to journalism in:
 
 (a) section 32(4) and (5)
 
 (b) sections 44 to 46 inclusive should be repealed.52
 
-52. In conjunction with the repeal of those procedural provisions, consideration should be given to the desirability of including in the Data Protection Act 1998 a provision to the effect that, in considering the exercise of any powers in relation to the media or other publishers, the Information Commissioner's Office should have special regard to the obligation in law to balance the public interest in freedom of expression alongside the public interest in upholding the data protection regime.53
+52\. In conjunction with the repeal of those procedural provisions, consideration should be given to the desirability of including in the Data Protection Act 1998 a provision to the effect that, in considering the exercise of any powers in relation to the media or other publishers, the Information Commissioner's Office should have special regard to the obligation in law to balance the public interest in freedom of expression alongside the public interest in upholding the data protection regime.53
 
-53. Specific provision should be made to the effect that, in considering the exercise of any of its powers in relation to the media or other publishers, the Information Commissioner's Office must have regard to the application to a data controller of any relevant system of regulation or standards enforcement which is contained in or recognised by statute.54
+53\. Specific provision should be made to the effect that, in considering the exercise of any of its powers in relation to the media or other publishers, the Information Commissioner's Office must have regard to the application to a data controller of any relevant system of regulation or standards enforcement which is contained in or recognised by statute.54
 
-54. The necessary steps should be taken to bring into force the amendments made to section 55 of the Data Protection Act 1998 by section 77 of the Criminal Justice and Immigration Act 2008 (increase of sentence maxima) to the extent of the maximum specified period; and by section 78 of the 2008 Act (enhanced defence for public interest journalism).55
+54\. The necessary steps should be taken to bring into force the amendments made to section 55 of the Data Protection Act 1998 by section 77 of the Criminal Justice and Immigration Act 2008 (increase of sentence maxima) to the extent of the maximum specified period; and by section 78 of the 2008 Act (enhanced defence for public interest journalism).55
 
-55. The prosecution powers of the Information Commissioner should be extended to include any offence which also constitutes a breach of the data protection principles.56
+55\. The prosecution powers of the Information Commissioner should be extended to include any offence which also constitutes a breach of the data protection principles.56
 
-56. A new duty should be introduced (whether formal or informal) for the Information Commissioner's Office to consult with the Crown Prosecution Service in relation to the exercise of its powers to undertake criminal proceedings.57
+56\. A new duty should be introduced (whether formal or informal) for the Information Commissioner's Office to consult with the Crown Prosecution Service in relation to the exercise of its powers to undertake criminal proceedings.57
 
-57. The opportunity should be taken to consider amending the Data Protection Act 1998 formally to reconstitute the Information Commissioner's Office as an Information Commission, led by a Board of Commissioners with suitable expertise drawn from the worlds of regulation, public administration, law and business, and active consideration should be given in that context to the desirability of including on the Board a Commissioner from the media sector.58
+57\. The opportunity should be taken to consider amending the Data Protection Act 1998 formally to reconstitute the Information Commissioner's Office as an Information Commission, led by a Board of Commissioners with suitable expertise drawn from the worlds of regulation, public administration, law and business, and active consideration should be given in that context to the desirability of including on the Board a Commissioner from the media sector.58
 
 Recommendations to the Information Commissioner 58. The Information Commissioner's Office should take immediate steps to prepare, adopt and publish a policy on the exercise of its formal regulatory functions in order to ensure that the press complies with the legal requirements of the data protection regime.59
 
-59. In discharge of its functions and duties to promote good practice in areas of public concern, the Information Commissioner's Office should take immediate steps, in consultation with the industry, to prepare and issue comprehensive good practice guidelines and advice on appropriate principles and standards to be observed by the press in the processing of personal data. This should be prepared and implemented within six months from the date of this Report.60
+59\. In discharge of its functions and duties to promote good practice in areas of public concern, the Information Commissioner's Office should take immediate steps, in consultation with the industry, to prepare and issue comprehensive good practice guidelines and advice on appropriate principles and standards to be observed by the press in the processing of personal data. This should be prepared and implemented within six months from the date of this Report.60
 
-60. The Information Commissioner's Office should take steps to prepare and issue guidance to the public on their individual rights in relation to the obtaining and use by the press of their personal data, and how to exercise those rights.61
+60\. The Information Commissioner's Office should take steps to prepare and issue guidance to the public on their individual rights in relation to the obtaining and use by the press of their personal data, and how to exercise those rights.61
 
-61. In particular, the Information Commissioner's Office should take immediate steps to publish advice aimed at individuals (data subjects) concerned that their data have or may have been processed by the press unlawfully or otherwise than in accordance with good practice.62
+61\. In particular, the Information Commissioner's Office should take immediate steps to publish advice aimed at individuals (data subjects) concerned that their data have or may have been processed by the press unlawfully or otherwise than in accordance with good practice.62
 
-62. The Information Commissioner's Office, in the Annual Report to Parliament which it is required to make by virtue of section 52(1) of the Act, should include regular updates on the effectiveness of the foregoing measures, and on the culture, practices and ethics of the press in relation to the processing of personal data.63
+62\. The Information Commissioner's Office, in the Annual Report to Parliament which it is required to make by virtue of section 52(1) of the Act, should include regular updates on the effectiveness of the foregoing measures, and on the culture, practices and ethics of the press in relation to the processing of personal data.63
 
-63. The Information Commissioner's Office should immediately adopt the Guidelines for
+63\. The Information Commissioner's Office should immediately adopt the Guidelines for
 
 Prosecutors on assessing the public interest in cases affecting the media, issued by the
 
 Director of Public Prosecutions in September 2012.64
 
-64. The Information Commissioner's Office should take immediate steps to engage with the
+64\. The Information Commissioner's Office should take immediate steps to engage with the
 
 Metropolitan Police on the preparation of a long-term strategy in relation to alleged media crime with a view to ensuring that the Office is well placed to fulfil any necessary role in this respect in the future, and in particular in the aftermath of Operations Weeting, Tuleta and Elveden.65
 
-65. The Information Commissioner's Office should take the opportunity to review the availability to it of specialist legal and practical knowledge of the application of the data protection regime to the press, and to any extent necessary address it.66
+65\. The Information Commissioner's Office should take the opportunity to review the availability to it of specialist legal and practical knowledge of the application of the data protection regime to the press, and to any extent necessary address it.66
 
-66. The Information Commissioner's Office should take the opportunity to review its organisation and decision-making processes to ensure that large-scale issues, with both strategic and operational dimensions (including the relationship between the culture, practices and ethics of the press in relation to personal information on the one hand, and the application of the data protection regime to the press on the other) can be satisfactorily considered and addressed in the round.67
+66\. The Information Commissioner's Office should take the opportunity to review its organisation and decision-making processes to ensure that large-scale issues, with both strategic and operational dimensions (including the relationship between the culture, practices and ethics of the press in relation to personal information on the one hand, and the application of the data protection regime to the press on the other) can be satisfactorily considered and addressed in the round.67
 
 Regulation by Law
 
@@ -34433,7 +34419,7 @@ Council of England and Wales to prepare guidelines in relation to data protectio
 
 (including computer misuse).69
 
-68. The Home Office should consider and, if necessary, consult upon:70
+68\. The Home Office should consider and, if necessary, consult upon:70
 
 (a) whether paragraph 2(b) of Schedule 1 to the Police and Criminal Evidence Act 1984
 
@@ -34443,7 +34429,7 @@ Council of England and Wales to prepare guidelines in relation to data protectio
 
 The Civil Law Damages 69. There should be a review of damages generally available for breach of data protection, privacy, breach of confidence or any other media-related torts, to ensure proportionate compensation including for non-pecuniary loss (all referable to the duration, extent and gravity of the contravention).71
 
-70. The Civil Justice Council should consider the level of damages in privacy, breach of confidence and data protection cases, being prepared to take evidence (from the Information Commissioner, the media and others) and thereafter to make recommendations on the appropriate level of damages for distress in such cases. How the matter is then taken forward will ultimately be for the courts to consider.72
+70\. The Civil Justice Council should consider the level of damages in privacy, breach of confidence and data protection cases, being prepared to take evidence (from the Information Commissioner, the media and others) and thereafter to make recommendations on the appropriate level of damages for distress in such cases. How the matter is then taken forward will ultimately be for the courts to consider.72
 
 ### The Report of the Law Commission on Aggravated, Exemplary and Restitutionary Damages
 
@@ -34451,11 +34437,11 @@ should be adopted in relation to its recommendations that legislation should pro
 
 (a) aggravated damages should only be awarded to compensate for mental distress and should have no punitive element; (b) exemplary damages should be retained (although re-titled as punitive damages).73
 
-72. Exemplary damages (whether so described or renamed as punitive damages) should be available for actions for breach of privacy, breach of confidence and similar media torts, as well as for libel and slander. The application to a defendant of any relevant system of regulation of standards enforcement which is contained in or recognised by statute and good internal governance in relation to the sourcing of stories should be relevant to the decisions reached in relation to such damages.74
+72\. Exemplary damages (whether so described or renamed as punitive damages) should be available for actions for breach of privacy, breach of confidence and similar media torts, as well as for libel and slander. The application to a defendant of any relevant system of regulation of standards enforcement which is contained in or recognised by statute and good internal governance in relation to the sourcing of stories should be relevant to the decisions reached in relation to such damages.74
 
 Costs 73. The Civil Procedure Rules should be amended to require the court, when considering the appropriate order for costs at the conclusion of proceedings, to take into account the availability of an arbitral system set up by an independent regulator itself recognised by law. The purpose of this recommendation is to provide an important incentive for every publisher to join the new system and encourage those who complain that their rights have been infringed to use it as a speedy, effective and comparatively inexpensive method of resolving disputes.75
 
-74. In the absence of the provision of an approved mechanism for dispute resolution, available through an independent regulator without cost to the complainant, together with an adjustment to the Civil Procedure Rules to require or permit the court take account of the availability of cost free arbitration as an alternative to court proceedings, qualified one way costs shifting should be introduced for defamation, privacy, breach of confidence and similar media related litigation as proposed by Lord Justice Jackson.76
+74\. In the absence of the provision of an approved mechanism for dispute resolution, available through an independent regulator without cost to the complainant, together with an adjustment to the Civil Procedure Rules to require or permit the court take account of the availability of cost free arbitration as an alternative to court proceedings, qualified one way costs shifting should be introduced for defamation, privacy, breach of confidence and similar media related litigation as proposed by Lord Justice Jackson.76
 
 The Press and the Police
 
@@ -34463,9 +34449,9 @@ Off-the-record briefings 75. The term 'off-the-record briefing' should be discon
 
 'embargoed briefing' should be used to cover a situation where the content of the briefing may be reported but not until a specified event or time. These terms more neutrally describe what are legitimate police and media interactions.77
 
-76. It should be mandatory for ACPO rank officers to record all of their contact with the media, and for that record to be available publicly for transparency and audit purposes. This record need be no more than a very brief note to the effect that a conversation has taken place and the subject matter of that conversation. Where the discussion involves a more significant operational or organisational matter, then it may be sensible for a more detailed note to be retained. Finally, in circumstances where policy or organisation matters may be on the agenda for discussion, it is good practice for a press officer also to be present.78
+76\. It should be mandatory for ACPO rank officers to record all of their contact with the media, and for that record to be available publicly for transparency and audit purposes. This record need be no more than a very brief note to the effect that a conversation has taken place and the subject matter of that conversation. Where the discussion involves a more significant operational or organisational matter, then it may be sensible for a more detailed note to be retained. Finally, in circumstances where policy or organisation matters may be on the agenda for discussion, it is good practice for a press officer also to be present.78
 
-77. The simple rule included within the 'Interim ACPO Guidance for Relationships with the Media' should be adopted as good practice.79 This is:
+77\. The simple rule included within the 'Interim ACPO Guidance for Relationships with the Media' should be adopted as good practice.79 This is:
 
 > "Police officers and staff should ask: 'am I the person responsible for communicating about this issue and is there a policing purpose for doing so?' If the answer to both parts of this question is 'yes', they should go ahead."
 
@@ -34493,7 +34479,7 @@ Corruption, whistleblowing and related matters 81. An enhanced system for protec
 
 The Press and Politicians 82. As a first step, political leaders should reflect constructively on the merits of publishing on behalf of their party a statement setting out, for the public, an explanation of the approach they propose to take as a matter of party policy in conducting relationships with the press.84
 
-83. Party Leaders, Ministers and Front Bench Opposition spokesmen should consider publishing:85
+83\. Party Leaders, Ministers and Front Bench Opposition spokesmen should consider publishing:85
 
 (a) the simple fact of long term relationships with media proprietors, newspaper editors or senior executives which might be thought to be relevant to their responsibilities and,
 
@@ -34501,23 +34487,23 @@ The Press and Politicians 82. As a first step, political leaders should reflect 
 
 > i. details of all meetings with media proprietors, newspaper editors or senior executives, whether in person or through agents on either side, and the fact and general nature of any discussion of media policy issues at those meetings; and ii. a fair and reasonably complete picture, by way of general estimate only, of the frequency or density of other interaction (including correspondence, phone, text and email) but not necessarily including content.
 
-84. The suggestions that I have made in the direction of greater transparency about meetings and contacts should be considered not just as a future project but as an immediate need, not least in relation to interactions relevant to any consideration of this Report.86
+84\. The suggestions that I have made in the direction of greater transparency about meetings and contacts should be considered not just as a future project but as an immediate need, not least in relation to interactions relevant to any consideration of this Report.86
 
 Plurality and Media Ownership 85. The particular public policy goals of ensuring that citizens are informed and preventing too much influence in any one pair of hands over the political process are most directly served by concentrating on plurality in news and current affairs. This focus should be kept under review.87
 
-86. Online publication should be included in any market assessment for consideration of plurality.88
+86\. Online publication should be included in any market assessment for consideration of plurality.88
 
-87. Ofcom and the Government should work, with the industry, on the measurement framework, in order to achieve as great a measure of consensus as is possible on the theory of how media plurality should be measured before the measuring system is deployed, with all the likely commercial tensions that will emerge.89
+87\. Ofcom and the Government should work, with the industry, on the measurement framework, in order to achieve as great a measure of consensus as is possible on the theory of how media plurality should be measured before the measuring system is deployed, with all the likely commercial tensions that will emerge.89
 
-88. The levels of influence that would give rise to concerns in relation to plurality must be lower, and probably considerably lower, than the levels of concentration that would give rise to competition concerns.90
+88\. The levels of influence that would give rise to concerns in relation to plurality must be lower, and probably considerably lower, than the levels of concentration that would give rise to competition concerns.90
 
-89. Ofcom has presented the Inquiry and the Government with a full menu of potential remedies, and it has not been argued or suggested that any of them are inappropriate in principle. Each of them might be appropriate in a given set of circumstances and the relevant regulatory authority should have all of them in its armoury.91
+89\. Ofcom has presented the Inquiry and the Government with a full menu of potential remedies, and it has not been argued or suggested that any of them are inappropriate in principle. Each of them might be appropriate in a given set of circumstances and the relevant regulatory authority should have all of them in its armoury.91
 
-90. The Government should consider whether periodic plurality reviews or an extension to the public interest test within the markets regime in competition law is most likely to provide a timely warning of, and response to, plurality concerns that develop as the result of organic growth, recognising that the proposal for a regular plurality review is more closely focussed on plurality issues.92
+90\. The Government should consider whether periodic plurality reviews or an extension to the public interest test within the markets regime in competition law is most likely to provide a timely warning of, and response to, plurality concerns that develop as the result of organic growth, recognising that the proposal for a regular plurality review is more closely focussed on plurality issues.92
 
-91. Before making a decision to refer a media merger to the competition authorities on public interest grounds, the Secretary of State should consult relevant parties as to the arguments for and against a referral, and should be required to make public his reasons for reaching a decision one way or the other.93
+91\. Before making a decision to refer a media merger to the competition authorities on public interest grounds, the Secretary of State should consult relevant parties as to the arguments for and against a referral, and should be required to make public his reasons for reaching a decision one way or the other.93
 
-92. The Secretary of State should remain responsible for public interest decisions in relation to media mergers. The Secretary of State should be required either to accept the advice provided by the independent regulators, or to explain why that advice has been rejected. At the same time, whichever way the Secretary of State decides the matter, the nature and extent of any submissions or lobbying to which the Secretary of State and his officials and advisors had been subject should be recorded and published.94
+92\. The Secretary of State should remain responsible for public interest decisions in relation to media mergers. The Secretary of State should be required either to accept the advice provided by the independent regulators, or to explain why that advice has been rejected. At the same time, whichever way the Secretary of State decides the matter, the nature and extent of any submissions or lobbying to which the Secretary of State and his officials and advisors had been subject should be recorded and published.94
 
 %%page 1821%%
 
@@ -34699,15 +34685,15 @@ figures rounded to the nearest whole number
 
 Appendix 2 | Submissions and Correspondence Statistics
 
-3. General enquiries correspondence In addition to the 1,083 submissions received through the general enquiries mailbox, the Inquiry has also received 2,502 general pieces of correspondence since the start of formal public hearings on 14 November 2011. These have been categorised accordingly:
+3\. General enquiries correspondence In addition to the 1,083 submissions received through the general enquiries mailbox, the Inquiry has also received 2,502 general pieces of correspondence since the start of formal public hearings on 14 November 2011. These have been categorised accordingly:
 
 - 2,452 enquiries;
 - 22 FOI queries; and
 - 28 pieces of other correspondence.
 
-4. Website views Between 14 November 2011 and 31 October 2012, the Leveson Inquiry website has received 1,805,939 hits from 652,675 unique visitors from over 200 countries.
+4\. Website views Between 14 November 2011 and 31 October 2012, the Leveson Inquiry website has received 1,805,939 hits from 652,675 unique visitors from over 200 countries.
 
-5. Press reporting during the Inquiry Since it was established, the Inquiry has had the benefit of daily summaries of relevant press stories, provided by an independent organisation, from all of the UK national newspapers and some international titles.
+5\. Press reporting during the Inquiry Since it was established, the Inquiry has had the benefit of daily summaries of relevant press stories, provided by an independent organisation, from all of the UK national newspapers and some international titles.
 
 %%page 1827%%
 
@@ -35833,7 +35819,7 @@ Defamation Bill
 
 3.194 Two clauses in the Bill seek to address practical considerations and costs concerns that have arisen in the context of defamation claims, namely the cost of jury trials and the volume of defamation cases issued in the courts of England and Wales where there are tenuous links to this jurisdiction. Clause 11 removes the right to trial by jury and any presumption in favour of a jury trial with the effect that defamation cases will be tried by a judge unless the court orders otherwise. The other clause of significance is clause 9 which seeks to address the problem of 'libel tourism' and sets a relatively high threshold for parties seeking to bring a claim against a defendant not domiciled in the UK, an EU member state or state which is party to the Lugano Convention: namely that the courts do not have jurisdiction unless it can be shown that England and Wales is clearly the most appropriate place to bring an action.
 
-4. Regulatory law – legal framework relating to the Information Commissioner Legislative background to the protection of personal data
+4\. Regulatory law – legal framework relating to the Information Commissioner Legislative background to the protection of personal data
 
 4.1 A right to privacy, as distinct from specific protection of personal data, has been explicitly recognised at an international level since 1948 when the Universal Declaration of Human Rights incorporated in Article 12 a right to be protected against arbitrary or unlawful interference with privacy. Article 12 was reproduced in Article 17 of the International Covenant on Civil and Political Rights in 1966. Subsequently, the Organisation for Economic Co-operation and Development recognised the inherent link between protection of privacy and restrictions on processing personal information, and adopted guidelines seeking to restrain the cross border flow of information.323
 
@@ -36958,7 +36944,7 @@ Neil Wallis: • pp21-22, on supporters of Gordon Brown briefing against Tony Bl
 
 Tina Weaver: • 4/5-4/23, on raising policy concerns and campaigns with Labour Prime Ministers; 5/1-5/10, that she would discuss policies in meetings with politicians, http://www. levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of-Afternoon-Hearing- 16-January-20121.pdf
 
-5. The consequences on public confidence in and the public perception of the relationship between politicians and the press Conclusion (v) A combination of these factors has contributed to a lessening of public confidence in the conduct of public affairs, including by giving rise to legitimate perceptions and concerns that politicians and the press have traded power and influence in ways which are contrary to the public interest. These perceptions and concerns are particularly acute, inevitably, in relation to the conduct by politicians in government of public policy issues in relation to the press itself.
+5\. The consequences on public confidence in and the public perception of the relationship between politicians and the press Conclusion (v) A combination of these factors has contributed to a lessening of public confidence in the conduct of public affairs, including by giving rise to legitimate perceptions and concerns that politicians and the press have traded power and influence in ways which are contrary to the public interest. These perceptions and concerns are particularly acute, inevitably, in relation to the conduct by politicians in government of public policy issues in relation to the press itself.
 
 Evidence base and factual summary The matters set out below are in addition to the matters already set out above in this notice insofar as they are relevant to public confidence and public perceptions.
 
