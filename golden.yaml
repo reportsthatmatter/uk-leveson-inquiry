@@ -10,7 +10,7 @@ pages:
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [I, H]
     xfail: reportsthatmatter-r0w
-    xfail_only: [blocks, markers]
+    xfail_only: [blocks]
     blocks:
       - heading: "CHAPTER 2 THE PRESS: HISTORY, GOVERNANCE STRUCTURES AND FINANCES"
       - heading: "1. Introduction"
@@ -30,8 +30,8 @@ pages:
     printed: 100
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [C, F, I, ordinary]
-    xfail: reportsthatmatter-fkx, reportsthatmatter-b94
-    xfail_only: [blocks, markers, must_contain]
+    xfail: reportsthatmatter-fkx
+    xfail_only: [blocks, must_contain]
     continues_previous: true
     opens_with: "June 2012 News Corp announced that it intends to pursue the separation"
     blocks:
@@ -54,7 +54,7 @@ pages:
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [A, B, D]
     xfail: reportsthatmatter-fkx
-    xfail_only: [blocks, footnotes, markers, must_contain, must_not_be_quote, opens]
+    xfail_only: [blocks, must_contain, must_not_be_quote]
     continues_previous: true
     opens_with: "after listening carefully, we have decided that the best way to proceed"
     blocks:
@@ -72,7 +72,7 @@ pages:
     printed: 439
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [I, F]
-    xfail: reportsthatmatter-r0w, reportsthatmatter-b94
+    xfail: reportsthatmatter-r0w, reportsthatmatter-mizx
     xfail_only: [blocks, footnotes, markers]
     blocks:
       - heading: "CHAPTER 1 INTRODUCTION"

@@ -1,4 +1,4 @@
-import { layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations } from "@rtm/ingest";
+import { layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations } from "@rtm/ingest";
 
 /**
  * How this report is built. Owned by the report: every decision that shaped
@@ -34,6 +34,10 @@ export default pipeline({
     // quotation mark (or follows a full stop on a justified page) joins when the
     // layout says it runs on: no first-line indent, same face (reportsthatmatter-38s.10).
     layoutPageJoins(),
+    // Footnote markers are raised digits flush against the word ("companies.7", "Corp,12"): link them
+    // from the layout, to a note on the same page, in sequence; the contents pages the page-foot reader
+    // took for notes go back in the body (reportsthatmatter-b94).
+    layoutMarkers(),
     // A quotation running over a page arrives as two (reportsthatmatter-38s.9).
     quoteListRunOns(),
     geometry("per-volume"),
