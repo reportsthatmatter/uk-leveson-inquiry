@@ -1,0 +1,369 @@
+report: uk-leveson-inquiry
+adjudicated: 2026-10-03
+by: "Claude (Opus 5.5) subagent, blind to the rules' call, reading the page images; every disagreement with the pipeline re-read"
+method: "Mini-reference for a report with no clean edition (38s.15; scripts/ingest/pagebreak-sample.ts, `pnpm ingest referee draft`). Population: every page turn, the last line of running text on the old page and the first on the new (pdftohtml -xml; notes, running heads and folios left out). 15 drawn by a seeded shuffle (stratum random), then 5 from each confidence tier of the layout rules at @rtm/ingest v0.21.0 (stratum tier-low/medium/high; a short tier topped up from the others). Each break was answered from the rendered page images (the foot of the old page, the head of the new one), blind to the rules' call: does a new block (paragraph, bullet, numbered paragraph, quotation, heading) start between the two lines, or does the block run on? prev and next are the running-text lines either side; when notes, a caption or a heading stand between, the verdict says whether the paragraph's text continues on the new page, and `between` names what stands between. `set` assigns the break to development or held-out (alternating within each stratum, seeded); `tier` and `rule` are the rules' call at v0.21.0 when drawn."
+seed: "38s.15"
+breaks:
+  - page: 62
+    volume: 1
+    prev: "Inquiry conducted by The Rt Hon Sir William Gage who, referring to s24(1) of the Inquiries Act "
+    next: "2005 (to the effect that the report could contain “anything else the panel considers relevant "
+    verdict: join
+    stratum: tier-medium
+    set: held-out
+    tier: medium
+    rule: "split: next opens on a label (layout)"
+    between: notes
+    image: true
+    note: "mid-sentence"
+  - page: 101
+    volume: 1
+    prev: "recognisably ‘ethical’ one. I was particularly interested to hear in response about Professor "
+    next: "Baroness O’Neill’s suggested ‘six principles of openness’44 for identifying ethical journalism "
+    verdict: join
+    stratum: tier-low
+    set: dev
+    tier: low
+    rule: "R1: unfinished, next line flush"
+    between: notes
+    image: true
+    note: "mid-sentence"
+  - page: 117
+    volume: 1
+    prev: "of national daily newspaper circulation in that month. By contrast, its sister paper The Sunday "
+    next: "Times had a circulation of 939,395 in February 2012, reflecting its different character. This is "
+    verdict: join
+    stratum: tier-low
+    set: held-out
+    tier: low
+    rule: "R1: unfinished, next line flush"
+    between: notes
+    image: true
+    note: "mid-sentence (The Sunday / Times)"
+  - page: 165
+    volume: 1
+    prev: "readily available online.458"
+    next: "11.9 The majority of content that is published  in OK! Magazine is sourced either directly from "
+    verdict: split
+    stratum: random
+    set: held-out
+    tier: high
+    rule: "split: next opens on a label"
+    between: notes
+    image: true
+    note: "numbered para 11.9"
+  - page: 180
+    volume: 1
+    prev: "being broken this can rise to as many as 100,000 visitors per hour.85 Mr Staines estimated that "
+    next: "between 25% and 30% of his readers reached the site through search engines.86 Popbitch, "
+    verdict: join
+    stratum: tier-low
+    set: held-out
+    tier: low
+    rule: "R1: unfinished, next line flush"
+    between: notes
+    image: true
+    note: "mid-sentence"
+  - page: 214
+    volume: 1
+    prev: "dormant recommendations of the first and second Royal Commissions as to the prominence "
+    next: "and location of adjudications. Lord MacGregor’s Commission, in line with the previous Royal "
+    verdict: join
+    stratum: tier-high
+    set: dev
+    tier: high
+    rule: "R1: unfinished, next line flush"
+    between: notes
+    image: true
+    note: "mid-sentence"
+  - page: 52
+    volume: 2
+    prev: "office seeking information regarding his address and earnings, and this was duly disclosed. "
+    next: "The following day this information was published by a Scottish newspaper and the paparazzi "
+    verdict: join
+    stratum: random
+    set: dev
+    tier: low
+    rule: "R2: finished, but a full justified line and a flush next line"
+    between: notes
+    image: true
+    note: "sentence ends with full stop but last line is fully justified and new page starts flush with no para number, in a numbered-paragraph document; para 2.8 runs on"
+  - page: 161
+    volume: 2
+    prev: "“special considerations attach to photographs in the field of privacy. ... As a means of invading "
+    next: "privacy, a photograph is particularly intrusive”.115 In reality, it takes the argument no further "
+    verdict: join
+    stratum: random
+    set: held-out
+    tier: high
+    rule: "R1: unfinished, next line flush"
+    between: notes
+    image: true
+    note: "mid-quotation, mid-sentence"
+  - page: 168
+    volume: 2
+    prev: "to  express  its  own  view  without  being  accused  of  having  taken  any  of  these  draconian "
+    next: "measures. Whatever system of press regulation is in force, ultimately, in this country, any "
+    verdict: join
+    stratum: random
+    set: dev
+    tier: high
+    rule: "R1: unfinished, next line flush"
+    between: notes
+    image: true
+    note: "mid-sentence"
+  - page: 300
+    volume: 2
+    prev: "all and end all of tabloid newspapers, really, and the pressure was on to make sure "
+    next: "a story was correct and that you wouldn’t get any comeback legally. So there was a "
+    verdict: join
+    stratum: random
+    set: dev
+    tier: high
+    rule: "R1: unfinished, next line flush"
+    between: none
+    image: true
+    note: "mid-sentence within transcript quotation"
+  - page: 348
+    volume: 2
+    prev: "interact with police officers. This point was illustrated by Commissioner Hogan-Howe who "
+    next: "described his attendance at a social event. It transpired that he was seated at the same table "
+    verdict: join
+    stratum: random
+    set: dev
+    tier: high
+    rule: "R1: unfinished, next line flush"
+    between: notes
+    image: true
+    note: "mid-sentence"
+  - page: 362
+    volume: 2
+    prev: "jeopardise future police operations.42"
+    next: "2.25 A number of witnesses gave evidence to the Inquiry on this issue. Lord Condon suggested "
+    verdict: split
+    stratum: random
+    set: dev
+    tier: high
+    rule: "split: next opens on a label"
+    between: notes
+    image: true
+    note: "numbered para 2.25"
+  - page: 367
+    volume: 2
+    prev: "of such interaction, and the potential expectation of future favours from both sides.79"
+    next: "Definition"
+    verdict: split
+    stratum: random
+    set: dev
+    tier: high
+    rule: "split: font changes across the break"
+    between: notes
+    image: true
+    note: "heading Definition then para 2.41"
+  - page: 471
+    volume: 2
+    prev: "said:763"
+    next: "“… I am nervous about restraining people when they leave public office because we "
+    verdict: split
+    stratum: tier-high
+    set: dev
+    tier: high
+    rule: "split: font changes across the break"
+    between: notes
+    image: true
+    above: "4.142 Sir Paul Stephenson expressed doubts about officers publishing soon after leaving office and "
+    drawn: "high; publishing soon after leaving office and / “… I am nervous about restraining people"
+    note: "prev corrected to said:763 (lead-in line); new block quotation starts"
+  - page: 517
+    volume: 2
+    prev: "police officers he had been in a better position “to spot suspicious activity” and therefore he "
+    next: "did not believe that “any personnel with the DPA have received bribes from the media.”1090"
+    verdict: join
+    stratum: random
+    set: dev
+    tier: low
+    rule: "R1: unfinished, next line flush"
+    between: notes
+    image: true
+    note: "mid-sentence"
+  - page: 74
+    volume: 3
+    prev: "ICO, charged with legal responsibilities in that respect, was not itself minded to pursue;"
+    next: "(c)  why the ICO did not appear to consider that the phone hacking scandal itself and the "
+    verdict: split
+    stratum: tier-high
+    set: held-out
+    tier: high
+    rule: "split: next opens on a label"
+    between: notes
+    image: true
+    note: "new list item (c)"
+  - page: 157
+    volume: 3
+    prev: "he speaks our language on morality and family life”.48 But Mr Murdoch’s evidence recalled "
+    next: "that the editorials also noted that a number of questions about Mr Blair’s policies remained "
+    verdict: join
+    stratum: random
+    set: held-out
+    tier: high
+    rule: "split: font changes across the break"
+    between: notes
+    image: true
+    note: "mid-sentence"
+  - page: 180
+    volume: 3
+    prev: "way: “…we came of political age – myself, David Cameron and others –during that political "
+    next: "period  …”.8  As  a  backbencher,  Mr  Cameron  wrote  a  column  for  the  Guardian  Online.9  His "
+    verdict: join
+    stratum: random
+    set: held-out
+    tier: high
+    rule: "split: font changes across the break"
+    between: notes
+    image: true
+    note: "mid-quotation, mid-sentence"
+  - page: 231
+    volume: 3
+    prev: "discussing the way forward.242"
+    next: "Relations with News Corporation and News International"
+    verdict: split
+    stratum: tier-high
+    set: held-out
+    tier: high
+    rule: "split: font changes across the break"
+    between: notes
+    image: true
+    note: "heading"
+  - page: 250
+    volume: 3
+    prev: "have been withdrawn unilaterally."
+    next: "The bids"
+    verdict: split
+    stratum: random
+    set: dev
+    tier: high
+    rule: "split: font changes across the break"
+    between: notes
+    image: true
+    note: "heading The bids then para 1.8"
+  - page: 340
+    volume: 3
+    prev: "-Its the right timing as Parliament is back Monday."
+    next: "NB:  the  Coulson/NI  issues  are  agitating  Cable’s  political  base  in  a  major  way  and "
+    verdict: split
+    stratum: tier-medium
+    set: dev
+    tier: medium
+    rule: "split: finished, next line flush"
+    between: notes
+    image: true
+    sure: false
+    note: "same quoted email continues but a new spaced paragraph (NB: ...) starts; previous item -Its the right timing... is a short finished line"
+  - page: 384
+    volume: 3
+    prev: "undertakings and will be consulting on them until midday Friday 8 July."
+    next: "As previously, I was not required to involve independent regulators in assessing the "
+    verdict: split
+    stratum: tier-medium
+    set: dev
+    tier: medium
+    rule: "split: finished, next line flush"
+    between: notes
+    image: true
+    note: "new paragraph within block quotation; old last line short and finished, quote paragraphs set flush with spacing"
+  - page: 387
+    volume: 3
+    prev: "sufficiency of media plurality."
+    next: "News  Corporation  continues  to  believe  that  properly  taking  into  account  those "
+    verdict: split
+    stratum: tier-medium
+    set: held-out
+    tier: medium
+    rule: "split: finished, next line flush"
+    between: notes
+    image: true
+    note: "new paragraph within block quotation; old last line short and finished, blank space at foot of old page"
+  - page: 434
+    volume: 3
+    prev: "within the press:17"
+    next: "“Q.  ... [s]o are we to understand by that that you will seek to persuade newspapers "
+    verdict: split
+    stratum: random
+    set: held-out
+    tier: high
+    rule: "split: font changes across the break"
+    between: notes
+    image: true
+    note: "lead-in ends with colon; block quotation starts"
+  - page: 485
+    volume: 3
+    prev: "considered should any relevant plurality concerns be identified.43"
+    next: "Positive interventions to encourage more news provision"
+    verdict: split
+    stratum: random
+    set: held-out
+    tier: high
+    rule: "split: font changes across the break"
+    between: notes
+    image: true
+    note: "heading"
+  - page: 59
+    volume: 4
+    prev: "However, its starting position – having conducted this requested review – is that the "
+    next: "PCC remains considerably underfunded as an organisation. In the last five years, the "
+    verdict: join
+    stratum: tier-high
+    set: held-out
+    tier: high
+    rule: "R1: unfinished, next line flush"
+    between: notes
+    image: true
+    note: "mid-sentence in quotation"
+  - page: 152
+    volume: 4
+    prev: "would have to certify that, where they were issuing a card to a journalist who is an employee, "
+    next: "that the employer is itself signed up to appropriate ethical regulation. In other words, a union "
+    verdict: join
+    stratum: tier-low
+    set: dev
+    tier: low
+    rule: "R1: unfinished, next line flush"
+    between: notes
+    image: true
+    note: "mid-sentence"
+  - page: 183
+    volume: 4
+    prev: "(sic) demands of an annual audit, I do not think this would take much.” 166"
+    next: "“Therefore,  I  believe  that  any  specific  difference  would  be  more  about  further "
+    verdict: split
+    stratum: tier-medium
+    set: dev
+    tier: medium
+    rule: "split: finished, next line flush"
+    between: notes
+    image: true
+    note: "new separate quotation (opening quote mark), previous closed with footnote 166"
+  - page: 358
+    volume: 4
+    prev: "David-John Collins"
+    next: "Lord Condon of Langton Green"
+    verdict: split
+    stratum: tier-low
+    set: held-out
+    tier: low
+    rule: "R1: unfinished, next line flush"
+    between: table
+    image: true
+    note: "new table row in witness list; repeated column header row on new page"
+  - page: 402
+    volume: 4
+    prev: "relationship.163"
+    next: "3.54 It  is  also  important  to  note  that  the  law  more  readily  protects  the  details  of  a  sexual "
+    verdict: split
+    stratum: random
+    set: held-out
+    tier: high
+    rule: "split: next opens on a label"
+    between: notes
+    image: true
+    note: "numbered para 3.54"
