@@ -1,4 +1,4 @@
-import { layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations } from "@rtm/ingest";
+import { layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations, footnoteRestarts } from "@rtm/ingest";
 
 /**
  * How this report is built. Owned by the report: every decision that shaped
@@ -38,6 +38,11 @@ export default pipeline({
     // from the layout, to a note on the same page, in sequence; the contents pages the page-foot reader
     // took for notes go back in the body (reportsthatmatter-b94).
     layoutMarkers(),
+    // Notes restart in every chapter; a chapter whose opening page offers only
+    // its note 1 (or 1 and 2) to read printed its notes in the body and left
+    // the markers bare until the next page with three: 97 notes, mostly each
+    // chapter's first (reportsthatmatter-u00i).
+    footnoteRestarts(),
     // A quotation running over a page arrives as two (reportsthatmatter-38s.9).
     quoteListRunOns(),
     geometry("per-volume"),

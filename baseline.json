@@ -1,11 +1,11 @@
 {
-  "markdownSha": "1e9579199c48ad49cecc56c8c06d45905b3ad6b776c578262cf6872701c7f1c1",
-  "words": 1068931,
+  "markdownSha": "36133d17865c8a10434592d3a9bbb57c670c58df59fd95fd0087521df5ad18f6",
+  "words": 1069008,
   "blocks": {
     "heading": 87,
     "quote": 2034,
     "list": 1751,
-    "paragraph": 12875
+    "paragraph": 12830
   },
   "headings": [
     "PRACTICES AND ETHICS OF THE PRESS REPORT",
@@ -96,7 +96,7 @@
     "PART I CHAPTER 8",
     "Notes"
   ],
-  "footnotes": 8511,
+  "footnotes": 8608,
   "pageMarkers": 1952,
   "poppler": "26.08.0"
 }
