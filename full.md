@@ -79,7 +79,7 @@ Page
 
 - 3 Timing and content — 50
 
-- PARt B: the PRess And the PuBlIC InteRest — 53
+- Part B: the press and the public interest — 53
 
 - Chapter 1: Introduction — 55
 
@@ -217,9 +217,9 @@ ii
 
 - 7 Complaints — 241
 
-PARt e: CRossIng legAl BoundARIes:
+Part E: crossing legal boundaries:
 
-- The CrImInAl And CIvIl lAw — 247
+- The criminal and civil law — 247
 
 - Chapter 1: The legal framework — 249
 
@@ -277,7 +277,7 @@ iii
 
 - 2 The Management and Standards Committee — 424
 
-Volume II PARt F: the CultuRe, PRACtICes And ethICs oF the PRess:
+Volume II Part F: the culture, practices and ethics of the press:
 
 - the PRess And the PuBlIC — 437
 
@@ -609,9 +609,9 @@ vii
 
 - 6 Who should be responsible for the decisions? — 1473
 
-Volume IV PARt J : AsPeCts oF RegulAtIon: the lAw And the
+Volume IV Part J : aspects of regulation: the law and the
 
-- PreSS COmPlAInTS COmmISSIOn — 1477
+- Press complaints commission — 1477
 
 - Chapter 1: Introduction — 1479
 
@@ -669,7 +669,7 @@ viii
 
 - 8 Conclusions — 1576
 
-- PARt K: RegulAtoRy Models FoR the FutuRe — 1581
+- Part K: regulatory models for the future — 1581
 
 - Chapter 1: Criteria for a regulatory solution — 1583
 
@@ -819,7 +819,7 @@ x
 
 - 2 Recommendations to a new regulatory body — 1795
 
-- PARt l: suMMARy oF ReCoMMendAtIons — 1801
+- Part L: summary of recommendations — 1801
 
 - APPendICes — 1819
 
@@ -841,7 +841,7 @@ The inquiry
 
 %%page 3%%
 
-The announCemenT 1. Introduction
+The announcement 1. Introduction
 
 1.1 On, 13 July 2011, the Prime Minister made a statement to the House of Commons in these terms:[^1]
 
@@ -937,7 +937,7 @@ along with their CVs, these have been published on the Inquiry website throughou
 
 %%page 10%%
 
-> ChapTer 2 The approaCh
+> ChapTer 2 The approach
 
 1. Setting up and preliminaries
 
@@ -1371,7 +1371,7 @@ Core Participants. To such extent as they address the future, they shall be anal
 
 %%page 38%%
 
-> ChapTer 3 FurTher issues oF Law
+> ChapTer 3 Further issues of law
 
 1. Rule 13 of the Inquiry Rules 2006: the approach
 
@@ -1541,7 +1541,7 @@ Inquiry conducted by The Rt Hon Sir William Gage who, referring to s24(1) of the
 
 %%page 49%%
 
-ChapTer 4 The reporT 1. Scope
+ChapTer 4 The report 1. Scope
 
 1.1 The Inquiry is UK-wide in its scope. It was set up, and its Terms of Reference were finalised, with the support of the Devolved Governments of the UK in Scotland, Northern Ireland and Wales. In so far as my recommendations address matters within areas of devolved competence, it will of course be for the devolved administrations and legislatures to consider them in the usual way. I have not, however, sought to any extent at all in this Report to analyse the position separately from the perspective of the devolved jurisdictions, nor to acknowledge, where legal matters are considered, the points on which different law applies in different parts of the UK. My timetable did not allow for that; it would have been a very complex and time-consuming exercise. I recognise in the result that my Report may be less helpful to those with decision-making responsibilities in Scotland, Northern Ireland and Wales, but I have sought to set out my analysis and conclusions in a sufficiently explicit and reasoned way to enable the experts within the devolved jurisdictions to see as readily as possible how they could be made to fit. I have not been made aware of any technical reason why my recommendations should not be able to be accommodated, with appropriate adjustment, in all parts of the UK, but I have not sought detailed advice on the matter. I intend no discourtesy at all by this approach and hope that those with the relevant decision-making responsibilities will understand the reasons.
 
@@ -1581,13 +1581,13 @@ Government (maintaining, I hope, the cross party consensus with which this Inqui
 
 parT B
 
-THE prESS aND THE pUBLIC INTErEST
+The press and the Public interest
 
 %%page 55%%
 
 CHapTEr 1
 
-INTroDUCTIoN
+Introduction
 
 1.1 This Part of the Report alludes to some of the fundamental principles which must provide the context for any consideration of the role of the press in the United Kingdom. It does so principally for the purpose of brief overview and explanation, and to set the scene for the narrative, analysis and recommendations which follow.
 
@@ -1607,7 +1607,7 @@ These are precious and fundamental principles, to which great respect must be pa
 
 %%page 56%%
 
-> CHapTEr 2 THE frEEDom of THE prESS aND DEmoCraCy
+> CHapTEr 2 The freedom of the press and DEmoCraCy
 
 1. Context
 
@@ -1863,7 +1863,7 @@ The simple point I am making about the press is that an irreverent and opinionat
 
 %%page 69%%
 
-CHapTEr 3 CompETINg pUBLIC INTErESTS 1. Context
+CHapTEr 3 Competing public interests 1. Context
 
 1.1 The public interest in a free press is fundamental. But it cannot be viewed in isolation. As has been demonstrated, it is, itself, an aspect of wider public interests such as the public interest in democracy, for example, in public life and in the rule of law. There are other public interests also of which press freedom is not a major aspect, and with which it may sometimes be in tension. This section considers some of them, in order to put the public interest in a free press in its fuller context, and to reflect on how competing aspects of the public interest are resolved and reconciled.
 
@@ -1989,7 +1989,7 @@ Everyone is entitled to some private space and always provided that there is no 
 
 %%page 76%%
 
-CHapTEr 4 THE rESpoNSIBILITIES of THE prESS 1. Context
+CHapTEr 4 The responsibilities of the press 1. Context
 
 1.1 The idea that freedom of expression comes with responsibilities is both obvious and entirely familiar. Article 10(2) of the ECHR provides that the right to freedom of expression "carries with it duties and responsibilities". In part, this is because, as discussed in Chapter 3, unrestricted speech has the power to harm competing public interests, including the free speech of others. It is also because the press is an institution of considerable power and the exercise of power in a democratic context brings with it proportionate responsibility for the consequences of choices to do so. Moreover, where power is exercised purportedly in the public interest, then there is a particularly acute responsibility to account for the exercise of that power to the public in whose name it is exercised.
 
@@ -2227,11 +2227,11 @@ I have always been keenly aware of the dangers of going too far; and I have been
 
 parT C
 
-The preSS
+The press
 
 %%page 93%%
 
-ConTexT
+Context
 
 1.1 The Inquiry is required to examine the culture, practices and ethics of the press but, in order to do that, it is helpful to set out the commercial context within which the press operates. C This Part of the Report looks at the market for news provision and some of the ways in which it is changing as well as the newspaper market more generally. This Chapter looks briefly at the economics of the newspaper market and where the challenges are coming from.
 
@@ -2345,7 +2345,7 @@ Times and the Times) operate behind paywalls but this is not necessarily seen as
 
 %%page 99%%
 
-Chapter 2 the press: history, governanCe struCtures and finanCes 1. Introduction
+Chapter 2 the press: history, governanCe Structures and finances 1. Introduction
 
 1.1 In this Chapter I examine the history, governance structures and finances of the major British newspapers. I will look first and in some detail at those newspapers owned by News International (NI), and ultimately by the parent company in the US, News Corporation.[^1] This is fitting given the central role of the News of the World (NoTW) in the events that led to establishment of this Inquiry, as well as the extraordinary influence that Rupert Murdoch has exercised over the development of the press in Britain, since he purchased NoTW newspaper in 1969. I will then look at the history, governance structures and finances of the other major British newspaper publishing houses, before turning albeit briefly to the regional press and the magazine industry.
 
@@ -3563,7 +3563,9 @@ Hello! Magazine
 
 %%page 156%%
 
-Chapter 3 aLterNatIVe NeWS prOVIDerS
+Chapter 3
+
+Alternative news providers
 
 1.1 For centuries the printed press was the only medium that brought news to the people. C The introduction of broadcasting in the 1920s brought a new voice, but one that had a very different relationship with the public than that of the newspapers with their readers.
 
@@ -4319,7 +4321,7 @@ STanDarDS
 
 %%page 195%%
 
-The hiSToriCal BaCkgrounD
+The historical background
 
 1.1 In order to understand the present position in relation to press regulation, it is necessary to examine what has happened in the past. This chapter of the Report examines the content and context of the three Royal Commissions into the British Press undertaken since the Second
 
@@ -5408,7 +5410,9 @@ PCC does not always appear to be neutral. But Mr Abell suggested that the positi
 
 "So I don't think it's a neutral act by complaints people. I think their job is to grip D the issues and to try and bring them to a conclusion, and that will invariably be by assisting the complainant."
 
-7.22 In particular, Mr Abell suggested that there was no validity in the assertion that the PCC's preferred outcome of a mediated resolution was in the better interest of editors and newspapers rather than the complainant.[^160] Sir Christopher Meyer also rejected the characterisation of the complaints-handling process as attritional, in which intense pressures were placed on the complainant to resolve issues through mediation rather than pursuing a decision through the PCC and that the effort in reaching that resolution wass made disproportionately by the complainant.[^161] parT E crossing lEgal E boundariEs: ThE criminal and civil law
+7.22 In particular, Mr Abell suggested that there was no validity in the assertion that the PCC's preferred outcome of a mediated resolution was in the better interest of editors and newspapers rather than the complainant.[^160] Sir Christopher Meyer also rejected the characterisation of the complaints-handling process as attritional, in which intense pressures were placed on the complainant to resolve issues through mediation rather than pursuing a decision through the PCC and that the effort in reaching that resolution wass made disproportionately by the complainant.[^161] parT E
+
+Crossing legal e boundariEs: ThE criminal and civil law
 
 %%page 249%%
 
@@ -5842,7 +5846,9 @@ Act 2000, ICO investigation officers and an in-house lawyer analysed the source 
 
 %%page 270%%
 
-Chapter 4 phone haCking: the expanding impaCt of operation Caryatid 1. Introduction
+Chapter 4
+
+Phone hacking: the expanding impact of operation Caryatid 1. Introduction
 
 1.1 This Inquiry was ultimately directed because of the wide scale public revulsion at the reported conduct of one or more journalists from the News of the World (NoTW) in intercepting messages left on the mobile telephone of Milly Dowler: this type of interception has been referred to colloquially as phone hacking. Having said that, however, there was also increasing public concern about the apparent lack of appropriate investigation by the
 
@@ -8744,7 +8750,7 @@ he was then put on the right track. Given what the police placed before the CPS 
 
 %%page 421%%
 
-Chapter 5 a New approaCh to the allegatioNs
+### Chapter 5: A new approach to the allegations
 
 ### Police Inquiries: Operations Weeting, Elveden and tuleta
 

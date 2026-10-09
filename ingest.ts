@@ -1,4 +1,4 @@
-import type { VolumePass } from "@rtm/ingest";
+import type { BodyPass, VolumePass } from "@rtm/ingest";
 import { layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations, footnoteRestarts, numberedOpenings } from "@rtm/ingest";
 
 /**
@@ -22,6 +22,50 @@ const chapterRunningHeads: VolumePass = {
       const body = page.body.filter((line, i) => !(edge.has(i) && CHAPTER_HEAD.test(line)));
       return body.length === page.body.length ? page : { ...page, body };
     }),
+};
+
+/**
+ * Volume i's Part and chapter openers, its contents and some section heads are
+ * set in a small-caps face whose glyphs extract in a mixed case: "ChapTer 2",
+ * "The approaCh", "parT a", "THE frEEDom of THE prESS aND", "PArT h: The PreSS
+ * And dATA PrOTeCTIOn" (reportsthatmatter-1ptg). The printed case cannot be
+ * read back from the text, so such a line is set in sentence case, with a
+ * Part's letter as a capital: "The approach", "Part H: the press and data
+ * protection". A garbled line is a short one (at most 12 words) with two
+ * words that turn from lower to upper case inside the word, or the title line
+ * after a "ChapTer"/"parT" opener; across the four volumes the test reads 37
+ * lines, all garbled, and no prose ("McAlpine", "BSkyB" and "NoTW" are one
+ * word each). The opener itself is left as printed: set as "Chapter 1", the
+ * same line on every Part's first chapter repeats often enough for
+ * runningFurniture to drop it, and the chapter number with it (the Part and
+ * chapter heading structure is reportsthatmatter-r0w/djy).
+ */
+const CAMEL = /^[^a-z]*[A-Za-z]*[a-z][A-Z]/;
+const OPENER = /^(chapter \d+|part [a-l])\b/i;
+const isCamel = (word: string) => CAMEL.test(word) && !/^(Mc|Mac)[A-Z]/.test(word);
+function sentenceCase(line: string): string {
+  const lead = line.match(/^\s*/)![0];
+  const text = line.slice(lead.length).toLowerCase();
+  const cased = text
+    .replace(/^part ([a-l])\b/, (_, letter: string) => `Part ${letter.toUpperCase()}`)
+    .replace(/^[a-z]/, (c) => c.toUpperCase());
+  return lead + cased;
+}
+const smallCapsCase: BodyPass = {
+  name: "smallCapsCase",
+  stage: "body",
+  run(lines) {
+    let afterOpener = false;
+    return lines.map((line) => {
+      const words = line.trim().split(/\s+/).filter(Boolean);
+      if (!words.length) return line;
+      const opener = OPENER.test(line.trim()) && words.slice(0, 2).some(isCamel);
+      const camel = words.length <= 12 ? words.filter(isCamel).length : 0;
+      const fix = !opener && (camel >= 2 || (afterOpener && camel >= 1));
+      afterOpener = opener;
+      return fix ? sentenceCase(line) : line;
+    });
+  },
 };
 
 /**
@@ -72,6 +116,7 @@ export default pipeline({
     geometry("per-volume"),
     runningFurniture({ numbersTrackPages: true }),
     chapterRunningHeads,
+    smallCapsCase,
     numberedParagraphs(),
     // A block opening on its own paragraph number ("4.30 The dinner…") is a
     // paragraph of its own, not the rest of one ending "Part H." or "News
