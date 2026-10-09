@@ -69,6 +69,29 @@ const smallCapsCase: BodyPass = {
 };
 
 /**
+ * The Part letter (A-L) printed as a thumb index at the page edge. On a line
+ * of its own it became a one-letter paragraph between two numbered ones
+ * ("4.3 …" / "B" / "4.4 …"): 58 of them. The line still parts what it sat
+ * between, and some of those are a subheading ("Annual conference",
+ * "Operation Tuleta") the parser reads as its own block only because of it,
+ * so it becomes a blank line; but where the next line carries on in lower
+ * case it sat inside a sentence and goes ("…the option of informing the
+ * victims" / "E" / "investigation to continue:"). A letter sharing a body
+ * line, at its column 0, is not handled here (reportsthatmatter-qai).
+ */
+const THUMB_LETTER = /^\s*[A-L]\s*$/;
+const thumbLetters: BodyPass = {
+  name: "thumbLetters",
+  stage: "body",
+  run: (lines) =>
+    lines.flatMap((line, i) => {
+      if (!THUMB_LETTER.test(line)) return [line];
+      const next = lines.slice(i + 1).find((l) => l.trim());
+      return next && /^[a-z]/.test(next.trim()) ? [] : [""];
+    }),
+};
+
+/**
  * How this report is built. Owned by the report: every decision that shaped
  * its text is named here, and the passes it composes are library code, so a
  * fix to a shared pass reaches every report that calls it.
@@ -117,6 +140,7 @@ export default pipeline({
     runningFurniture({ numbersTrackPages: true }),
     chapterRunningHeads,
     smallCapsCase,
+    thumbLetters,
     numberedParagraphs(),
     // A block opening on its own paragraph number ("4.30 The dinner…") is a
     // paragraph of its own, not the rest of one ending "Part H." or "News
