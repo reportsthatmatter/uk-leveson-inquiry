@@ -4,7 +4,7 @@ authors: "The Right Honourable Lord Justice Leveson"
 published_at: "29 November 2012"
 source_url: "https://webarchive.nationalarchives.gov.uk/20140122145147/http://www.official-documents.gov.uk/document/hc1213/hc07/0780/0780.asp"
 pages: 2022
-footnotes: 8608
+footnotes: 8640
 ---
 
 The Leveson Inquiry culture, practices and ethics of the press
@@ -2015,7 +2015,7 @@ Mass communication by the press can block dissenting voices in a number of ways.
 
 2.5 One consequence is that views expressed through the press megaphone are more likely to predominate: "Whether something's liable to be noticed, what effects it's liable to have on other people's perceptions must be very relevant";[^6] "Financial power ensures that one sort of idea is more likely to be promoted in the newspapers people read than another sort of idea".[^7]
 
-2.6 The tendency of views expressed in the press to prevail can be also be explained by a second, and related, facet of press power. There is no doubt that the press is considered a voice of authority in society. In many quarters, it has rightly earned a reputation for accurate and vigorous reporting, independence and holding power to account. It is because of the authoritative quality of the press, combined with its access to mass audiences, that communication by the press, as an institution of considerable power, has a significant impact on society. It can set the news agenda, shape culture and change perceptions:[^8][^9] 10
+2.6 The tendency of views expressed in the press to prevail can be also be explained by a second, and related, facet of press power. There is no doubt that the press is considered a voice of authority in society. In many quarters, it has rightly earned a reputation for accurate and vigorous reporting, independence and holding power to account. It is because of the authoritative quality of the press, combined with its access to mass audiences, that communication by the press, as an institution of considerable power, has a significant impact on society. It can set the news agenda, shape culture and change perceptions:[^8][^9][^10]
 
 %%page 78%%
 
@@ -22418,7 +22418,7 @@ Q. "If he thinks we're going to win, he'll go easy on us, but if he thought we c
 
 %%page 1146%%
 
-3.11 In May 1997, the relationship between Mr Blair and Mr Murdoch was not close; they had only met on a handful of occasions and there were references in Mr Campbell's diaries to Mr Blair's ambivalence about such meetings ("...he felt that there was something unpleasant about newspaper power and influence"), although he recognised their importance and value.[^69] The relationship grew closer although, on Mr Blair's account, did not develop into personal friendship until after 2007 by which time he had left office.70
+3.11 In May 1997, the relationship between Mr Blair and Mr Murdoch was not close; they had only met on a handful of occasions and there were references in Mr Campbell's diaries to Mr Blair's ambivalence about such meetings ("...he felt that there was something unpleasant about newspaper power and influence"), although he recognised their importance and value.[^69] The relationship grew closer although, on Mr Blair's account, did not develop into personal friendship until after 2007 by which time he had left office.[^70]
 
 3.12 Lord Mandelson's evidence was along these lines:[^71]
 
@@ -22666,7 +22666,7 @@ Reflections
 
 %%page 1164%%
 
-### Chapter 4: The Conservative Revival and the Coalition1
+### Chapter 4: The Conservative Revival and the Coalition[^1]
 
 1. Introduction and background
 
@@ -22676,11 +22676,7 @@ Reflections
 
 "I would say my time at Carlton probably taught me more about the television industry, about how it was regulated, and maybe we'll come on to this, a lot of the views I formed about media, media policy, media regulation, the BBC – Carlton was quite a formative period because I was working for a big part of the British broadcasting industry, ITV effectively, and I formed a lot of views and opinions there which I still hold today".
 
-1.3 Mr Cameron retained his interest in politics whilst at Carlton and was elected to Parliament as the member for Witney on 7 June 2001.[^7] This was the period of New Labour's potent new media strategy. His close political ally and near contemporary, George Osborne, put it this way: "…we came of political age – myself, David Cameron and others –during that political
-
-- I — 1
-
-On the basis that current relationships between the press and the Prime Minister have been the subject of considerable recent interest – and have each been ventilated at length during the course of the Inquiry – this section is considerably longer than those covering other periods of time and administrations where the issues are less immediate period …".[^8] As a backbencher, Mr Cameron wrote a column for the Guardian Online.[^9] His perspective has therefore been informed by more than twenty years of political activity and wide contact with national newspaper journalists, covering most of the period considered by the Inquiry in Module Three.
+1.3 Mr Cameron retained his interest in politics whilst at Carlton and was elected to Parliament as the member for Witney on 7 June 2001.[^7] This was the period of New Labour's potent new media strategy. His close political ally and near contemporary, George Osborne, put it this way: "…we came of political age – myself, David Cameron and others –during that political period …".[^8] As a backbencher, Mr Cameron wrote a column for the Guardian Online.[^9] His perspective has therefore been informed by more than twenty years of political activity and wide contact with national newspaper journalists, covering most of the period considered by the Inquiry in Module Three.
 
 %%page 1165%%
 
@@ -23028,7 +23024,7 @@ And later:[^112]
 
 "A. I don't accept that. First of all, on this idea of overt deals, this idea that somehow the Conservative Party and News International got together and said, "You give us your support and we'll wave through this merger", that by the way we didn't even know about at that stage, I think the idea of overt deals is nonsense, and you've heard that from lots of people in front of this Inquiry. I also don't believe in this theory that there was a nod and a wink and some sort of covert agreement. Of course, I wanted to win over newspapers and other journalists, editors, proprietors, broadcasters. I worked very hard at that because I wanted to communicate what the Conservative Party and my leadership could bring to the country. I made those arguments. But I didn't do it on the basis of saying, either overtly or covertly, "Your support will mean I'll give you a better time on this policy or that policy", and there are plenty of examples I of policies that I believe in that the people who were backing me didn't believe in."
 
-2.85 One meeting which was to prove important from the point of view of public perception, if not of substance, was that which occurred on board a yacht, probably Elisabeth Murdoch's, off the Greek island of Santorini, on 16 August 2008.[^115] The meeting, which resulted a brief faceto-face encounter in a social context, involved some convoluted travel arrangements which were made possible by the provision of a private jet owned by Matthew Freud, Elisabeth Murdoch's husband and a longstanding friend of Mr Cameron.116 Mr Cameron, who declared the flight in the Registry of Members' interests, explained the lengths to which he had been prepared to go to meet Mr Murdoch:[^117]
+2.85 One meeting which was to prove important from the point of view of public perception, if not of substance, was that which occurred on board a yacht, probably Elisabeth Murdoch's, off the Greek island of Santorini, on 16 August 2008.[^115] The meeting, which resulted a brief faceto-face encounter in a social context, involved some convoluted travel arrangements which were made possible by the provision of a private jet owned by Matthew Freud, Elisabeth Murdoch's husband and a longstanding friend of Mr Cameron.[^116] Mr Cameron, who declared the flight in the Registry of Members' interests, explained the lengths to which he had been prepared to go to meet Mr Murdoch:[^117]
 
 %%page 1188%%
 
@@ -23043,10 +23039,6 @@ And later:[^112]
 "A. Well, I think I've explained that politicians go out of their way to impress people in the press, and I don't remember discussing any heavy political things with him at all. There may have been some issues discussed passingly. It was not a long meeting. As I say, I don't really remember the meeting. I think that's part of the democratic process. They – all politicians of all sides like to have their views known by the editors of newspapers or publishers, hoping that they will be put across, hoping that they will be – that they will succeed in impressing people. That's the game."
 
 The proprietor later added:[^121]
-
-- I — 116
-
-p57, lines 18-21, David Cameron, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/06/Transcript-of- Morning-Hearing-14-June-2012.pdf
 
 %%page 1189%%
 
@@ -23102,7 +23094,7 @@ But certainly, you know, in 2006, 2007, not necessarily every week, I don't thin
 
 %%page 1192%%
 
-2.101 Mrs Brooks also denied expressing a view in any way to Mr Cameron about Mr Grieve.144
+2.101 Mrs Brooks also denied expressing a view in any way to Mr Cameron about Mr Grieve.[^144]
 
 2.102 Mrs Brooks' list of meetings with the leaders of political parties refers to a breakfast meeting with Mr Cameron at the start of the year, on 22 January 2008 and to a New Year's Eve Party on 31 December 2008. Neither of these entries is in Mr Cameron's list. The New Year's Eve Party was held at the Brooks' farm and was in fact hosted by Mr Brooks' sister. By 2008, Mr Cameron counted Ms Wade as a good friend, notwithstanding her paper's support, and her personal support, for Mr Brown.[^145] The growing friendship had been helped along by the fact that Mr Cameron had known Charlie Brooks, whom Mrs Brooks was to marry in 2009, for over 30 years.[^146] It did not prevent her newspaper giving its continued support to Mr Brown's Government and remaining critical of the Conservatives. For example, on 14 October 2008, The Sun criticised Conservative opposition to extending the detention time for terrorist suspects to 42 days.[^147]
 
@@ -23111,10 +23103,6 @@ But certainly, you know, in 2006, 2007, not necessarily every week, I don't thin
 2.104 It was during this month that Mrs Brooks recalled initial internal discussions with Rupert and James Murdoch about transferring The Sun's political support.[^149] Although it was not Mrs Brooks who informed Mr Cameron of The Sun's decision to abandon its support for Mr Brown, Mr Cameron had felt that she was onside months rather than weeks before it actually took place.[^150] On 21 September 2009, a few days before The Sun announced its change of allegiance, James Murdoch, Mrs Brooks and Mr Cameron had dinner together. The three also shared breakfast on 2 November 2009 and on 19 December 2009 Mr Cameron dined with Mrs Brooks and Rupert Murdoch at the Brooks'.
 
 2.105 Mrs Brooks' list of meetings with party leaders for 2009 includes a lunch at the home of James and Kathryn Murdoch on 3 May 2009, a meeting on 1 September 2009 and dinner at the Camerons' home on 24 October 2009. None of these meetings appeared in Mr Cameron's record. As best she could recall, Mrs Brooks thought that the European constitution debate and Afghanistan were discussed on 3 May 2009.[^151]
-
-- I — 144
-
-p111, lines 3-7, Rebekah Brooks, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/05/Transcript-of- Morning-Hearing-11-May-2012.pdf
 
 %%page 1193%%
 
@@ -28864,15 +28852,11 @@ Newspapers or the Star titles. Both Richard Desmond, the proprietor of the North
 
 2.1 Before starting on an analysis of what went wrong, I should record what the PCC did well.
 
-2.2 Successive witnesses gave evidence that the PCC secretariat, in particular the complaints officers who handled complaints made by members of the public, were polite, efficient and dedicated.11 Members of the PCC secretariat worked hard in the public interest, as I have said, in sometimes difficult circumstances. The PCC established and then ran a 24 hour helpline for complainants, staffed by a small number of officers working in rotation.[^12] For a relatively small team to have handled the large volume of complaints received by the PCC speaks of the dedication and commitment of individual staff members. I have seen no evidence and heard no suggestion that the manner in which the members of the PCC secretariat have gone about their work has led or, in any sense, contributed to the limitations of the PCC as an organisation. I have no doubt that PCC staff did as well as is possible within the bounds set by the self-regulatory system.
+2.2 Successive witnesses gave evidence that the PCC secretariat, in particular the complaints officers who handled complaints made by members of the public, were polite, efficient and dedicated.[^11] Members of the PCC secretariat worked hard in the public interest, as I have said, in sometimes difficult circumstances. The PCC established and then ran a 24 hour helpline for complainants, staffed by a small number of officers working in rotation.[^12] For a relatively small team to have handled the large volume of complaints received by the PCC speaks of the dedication and commitment of individual staff members. I have seen no evidence and heard no suggestion that the manner in which the members of the PCC secretariat have gone about their work has led or, in any sense, contributed to the limitations of the PCC as an organisation. I have no doubt that PCC staff did as well as is possible within the bounds set by the self-regulatory system.
 
 2.3 I also heard evidence from the then current director of the PCC, Stephen Abell, and his immediate predecessor, Tim Toulmin, of the work done by PCC staff on a day to day basis. I should add that Mr Abell's witness statement was a genuine tour de force and I pay tribute to the immense care he has taken and the diligence he has shown. Through their respective evidence, each demonstrated his dedication and loyalty to an organisation which faced a naturally daunting task.
 
-2.4 The efforts of the PCC at mediation and conciliation were often helpful. Dr Martin Moore, the Director of the Media Standards Trust,[^13] highlighted "the genuine benefits of the current system, particularly with regard to the secretariat and the role they've played in conciliating and mediating complaints on behalf of complainants, and the very real attempt to both write and evolve the code over that 20-year period [that the PCC has been in existence]".[^14] On most
-
-- J — 11
-
-pp35-36, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Submission-by-Media-Standards-Trust. pdf occasions, complainants were satisfied with the mediated and agreed solutions to problems; and this was a job that the PCC was good at.[^15] In appropriate cases, and no doubt there are many, a mediated settlement is a sensible way of dealing with disputes between parties.
+2.4 The efforts of the PCC at mediation and conciliation were often helpful. Dr Martin Moore, the Director of the Media Standards Trust,[^13] highlighted "the genuine benefits of the current system, particularly with regard to the secretariat and the role they've played in conciliating and mediating complaints on behalf of complainants, and the very real attempt to both write and evolve the code over that 20-year period [that the PCC has been in existence]".[^14] On most occasions, complainants were satisfied with the mediated and agreed solutions to problems; and this was a job that the PCC was good at.[^15] In appropriate cases, and no doubt there are many, a mediated settlement is a sensible way of dealing with disputes between parties.
 
 %%page 1519%%
 
@@ -28994,7 +28978,7 @@ Serving editors on the PCC
 
 > DR BOWE: Because of conflicts. I'm sure you're familiar with the sorts of issues that arise, and you can manage small conflicts on boards; you can't manage large, endemic ones."
 
-3.25 I recognise that PCC witnesses gave evidence (which I entirely accept) that the lay or public members of the PCC are independently-minded, often strong-willed individuals who are not intimidated by the presence of editors:44
+3.25 I recognise that PCC witnesses gave evidence (which I entirely accept) that the lay or public members of the PCC are independently-minded, often strong-willed individuals who are not intimidated by the presence of editors:[^44]
 
 > "I think if you look at the list of people who served on the Commission, it's an impressive list of people who have either spent a life in public service or politics…they've excelled in their field in one way or another. These aren't patsies at all. Obviously, I was in every single Commission meeting whilst I was director and there would be some excellent knock-about debates. So these weren't people who were in any way cowed by the presence of a few editors."
 
@@ -29004,11 +28988,7 @@ Serving editors on the PCC
 
 3.27 I also expressly record that Tim Toulmin rejected the criticism that there were no representatives of the victims of press intrusion on the PCC, saying that "people who work at the PCC, whether they're on the board or full time staff, are motivated by trying to assist people who are having difficulties with the press, particularly those vulnerable people who can't afford a lawyer and so on."[^46]
 
-3.28 It may well be unnecessary, if not inappropriate, to ensure that one or more lay Commissioners should have had experience of having suffered at the hands of press intrusion, since individuals in this category might be expected to be biased the other way, or at least give rise to that appearance.[^47] Even so, without doubting the truth of Lord Grade's evidence as to the full and frank exchange of views which attends the deliberations on the PCC's adjudications in individual cases, I do not believe that it really addresses the structural problems I have
-
-- J — 44
-
-p42, lines 16-25, Tim Toulmin, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of- Morning-Hearing-30-January-2012.pdf identified. Lord Grade's evidence would fail to persuade those who reasonably believe that the system is inherently weighted in favour of the status quo. Neither is this point to doubt the real value that I am sure lay Commissioners have brought to the process.
+3.28 It may well be unnecessary, if not inappropriate, to ensure that one or more lay Commissioners should have had experience of having suffered at the hands of press intrusion, since individuals in this category might be expected to be biased the other way, or at least give rise to that appearance.[^47] Even so, without doubting the truth of Lord Grade's evidence as to the full and frank exchange of views which attends the deliberations on the PCC's adjudications in individual cases, I do not believe that it really addresses the structural problems I have identified. Lord Grade's evidence would fail to persuade those who reasonably believe that the system is inherently weighted in favour of the status quo. Neither is this point to doubt the real value that I am sure lay Commissioners have brought to the process.
 
 %%page 1527%%
 
@@ -29694,7 +29674,7 @@ Indeed, given the context of the request, it is somewhat surprising that the PCC
 
 %%page 1564%%
 
-7.16 There is no doubt that this was a deliberate approach on the part of the PCC, as Mr Toulmin explained:204
+7.16 There is no doubt that this was a deliberate approach on the part of the PCC, as Mr Toulmin explained:[^204]
 
 > "Q. Would you agree there was no attempt by the PCC in 2005, through its guidance, specifically to warn the press of what they should do in the future by reference to what they might have done in the past? A. I would agree with that. I think this guidance note was what we were asked to do by the Information Commissioner. Q. Did not the PCC form its own view as to what might be appropriate, given what the Information Commissioner was saying about the scale of the activity, namely what warnings should be given? A. Well, this was regarded to be appropriate. There are arguments about whether it should even have done this, given that it was a complaints body looking at breaches of the code of practice rather than the Data Protection Act, but it did want to be helpful and this was the outcome."
 
@@ -29712,15 +29692,9 @@ PCC at which Mr Thomas specifically expressed his disappointment that the PCC ha
 
 Reviews,[^208] but in my view it was: no formal steps had been taken by the PCC to take up this issue with the industry. Equally, Mr Thomas might well have been disappointed further when he was informed by Sir Christopher that the "PCC is not able to act as a general regulator", the reason for this apparently being:[^209]
 
-> "I think what I had in mind there was a notion that we should in some way take on the work of the Information Commissioner by virtue of being a Press Complaints Commission, and this is what I wanted to reject. The point I always made to Mr Thomas, apart from my insistent demands on beef, was to suggest that we had to work in a
-
-- J — 204
-
-pp84-85, lines 10-2, Tim Toulmin, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of- Morning-Hearing-30-January-2012.pdf
+> "I think what I had in mind there was a notion that we should in some way take on the work of the Information Commissioner by virtue of being a Press Complaints Commission, and this is what I wanted to reject. The point I always made to Mr Thomas, apart from my insistent demands on beef, was to suggest that we had to work in a complementary way. He did his thing, but there were things that we could do to help him, and I've described them in the – before lunch. And I think as a consequence of this precise meeting, it led to direct contacts between the Code Committee and Mr Thomas, which led to a change in clause 10 on subterfuge in the code of practice."
 
 %%page 1565%%
-
-> complementary way. He did his thing, but there were things that we could do to help him, and I've described them in the – before lunch. And I think as a consequence of this precise meeting, it led to direct contacts between the Code Committee and Mr Thomas, which led to a change in clause 10 on subterfuge in the code of practice."
 
 7.20 This introduces a further issue, which relates to the distinction between the PCC and the
 
@@ -30454,7 +30428,7 @@ Sanctions
 
 Board in determining the level of fines is to be set out in the Financial Sanctions Guidelines.
 
-The Financial Sanctions Guidelines are to be issued by the IFB.[^118] A draft of those guidelines has been provided and would allow the Trust Board to impose a fine of up to 1% of the turnover related to the publication found to have committed a systematic failure up to a maximum of £1,000,000.119
+The Financial Sanctions Guidelines are to be issued by the IFB.[^118] A draft of those guidelines has been provided and would allow the Trust Board to impose a fine of up to 1% of the turnover related to the publication found to have committed a systematic failure up to a maximum of £1,000,000.[^119]
 
 5.24 In setting the level of any fine the Trust Board has to take account of the following factors:[^120]
 
@@ -30688,7 +30662,7 @@ Contract issues Contract term
 
 Transfer of title
 
-2.30 Should a member wish to transfer a title to a non-member they are required to use "all reasonable endeavours" to ensure that the new owner is a member of the regulatory scheme.[^33] This stops short of the more obvious requirement that a title may not be transferred unless the new owner signs a contract with the scheme. Lord Black explained that the looser formulation was intended to protect the position of proprietors of local newspapers, where a degree of consolidation in the market is expected and proprietors are reluctant to have their hands tied in the matter of potential purchasers. However, Lord Black pointed out that most transfers of titles were likely to be between publishers who were already members of the system so the issue would not arise often.34 I recognise the concern expressed in relation to the economic difficulties faced in particular by local newspapers. However, this is a rather obvious weak link in the argument that the contract binds newspapers into the system.
+2.30 Should a member wish to transfer a title to a non-member they are required to use "all reasonable endeavours" to ensure that the new owner is a member of the regulatory scheme.[^33] This stops short of the more obvious requirement that a title may not be transferred unless the new owner signs a contract with the scheme. Lord Black explained that the looser formulation was intended to protect the position of proprietors of local newspapers, where a degree of consolidation in the market is expected and proprietors are reluctant to have their hands tied in the matter of potential purchasers. However, Lord Black pointed out that most transfers of titles were likely to be between publishers who were already members of the system so the issue would not arise often.[^34] I recognise the concern expressed in relation to the economic difficulties faced in particular by local newspapers. However, this is a rather obvious weak link in the argument that the contract binds newspapers into the system.
 
 %%page 1620%%
 
@@ -30705,10 +30679,6 @@ Enforcement
 2.32 As further explained in paragraphs 5.23-5.35 below, the contract model is designed to introduce a measure of internal enforceability. I underline 'internal', because it is of the essence of the contractual arrangement that it is not intended to be enforceable at the suit of a third party – a reader, say, or member of the public. It relies in other words on a credible prospect of (expensive and uncertain) litigation proceedings between the press organisations themselves to enforce the contract against each other. There must be real questions about that credibility in real life. The likely motivations of press organisations to contemplate suing each other to retain commitment to the contract are very far from clear.
 
 In any event, classically, contractual disputes tend to be settled commercially by the payment of compensation rather than the specific enforcement of the terms of a contract. Even within the terms of the contract, there is at the very least an area of doubt and complexity about the extent to which financial penalties could be enforced in a contract action.
-
-- K — 34
-
-pp108-109, lines 21-16, Lord Black, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Transcript-of- Morning-Hearing-9-July-2012.pdf
 
 %%page 1621%%
 
@@ -31064,7 +31034,7 @@ The enforcement fund
 
 The operational budget
 
-6.9 Lord Black stressed that the £2.25m figure was an estimate. He suggested that the new complaints arm would be dealing with far fewer complaints than the PCC because improved governance in newspapers would lead to fewer complaints, and more of those complaints that are raised would be dealt with successfully by the publisher rather than the regulator.122
+6.9 Lord Black stressed that the £2.25m figure was an estimate. He suggested that the new complaints arm would be dealing with far fewer complaints than the PCC because improved governance in newspapers would lead to fewer complaints, and more of those complaints that are raised would be dealt with successfully by the publisher rather than the regulator.[^122]
 
 Against that I set the larger administrative role, with the need to support the Trust Board and a full time standards and compliance team in addition to the current PCC structure, and
 
@@ -31081,10 +31051,6 @@ Independence of funding
 6.11 This brings me to the most significant issue in relation to funding. Publishers will sign contracts with the regulator that bind them into the system for five years, and those contracts will require them to pay the fees set by the IFB. So far, so good. However, Lord Black was clear that this commitment was to the principle of funding, not to any particular amount:[^124]
 
 > "I can't give you guarantees over a five-year period. The industry might face a complete economic collapse in that time. What we are doing is making a commit through contracts to provide funding over a five-year period. I think it unlikely that we would be able to actually build exact figure into that contract because of course, the needs of the regulator may change over time."
-
-- K — 122
-
-pp72-73, lines 17-1,Lord Black, ibid
 
 %%page 1641%%
 
@@ -31186,7 +31152,7 @@ The Sunday Times, Chris Blackhurst[^151] from The Independent and Lloyd Embley[^
 
 Mirror, indicated that procedural changes would be required. Not a single editor indicated that the changes would have the effect of raising standards in respect of their own publication and most said that there would be no practical effect whatsoever:
 
-> "In my first witness statement, I explained the basis upon which The Daily Express operates. In light of those matters, I do not think that joining a system such as that described in the Proposals would make any significant difference to how The Daily Express is run."[^153] "I would not expect that membership of a system based on contractual obligations would have a material impact on the running of the Daily Star newspaper."[^154] "As the editor of The Daily Telegraph, while there will be new requirements placed upon us, I do not envisage that the existence of a new self-regulatory system will have much practical impact upon the publication." 155 "I would anticipate generally that there would be a continuation of the changes to the culture, practices and ethics that have been occurring at newspapers over the past five to six years."[^156]
+> "In my first witness statement, I explained the basis upon which The Daily Express operates. In light of those matters, I do not think that joining a system such as that described in the Proposals would make any significant difference to how The Daily Express is run."[^153] "I would not expect that membership of a system based on contractual obligations would have a material impact on the running of the Daily Star newspaper."[^154] "As the editor of The Daily Telegraph, while there will be new requirements placed upon us, I do not envisage that the existence of a new self-regulatory system will have much practical impact upon the publication."[^155] "I would anticipate generally that there would be a continuation of the changes to the culture, practices and ethics that have been occurring at newspapers over the past five to six years."[^156]
 
 %%page 1647%%
 
@@ -31760,11 +31726,7 @@ Dacre, that the code should be developed by a committee comprised of a majority 
 
 Lord Prescott, is that the code should be drawn up by the industry, possibly in conformity with very broad standards set out either in regulation or by an independent body. In these models a code that did not meet relevant standards would not be acceptable. In the third model the code would be drawn up by an independent body with representation from both industry and the public. In the final model the code would be developed by an independent regulator.
 
-8.3 I will look first at the situation where a code is to be devised by a set of serving editors, albeit with some support from lay members. Professor Greenslade argues that there has been little if any controversy about the code and little or no criticism of the changes made by the editors' committee.197 He therefore concludes that editors should remain in the majority on the code committee, but that they should be joined by a new Press Ombudsman, public representatives and some representatives from the NUJ.[^198] The Carnegie Trust urges that industry representatives, including editors and journalists, should continue to play a significant
-
-- K — 197
-
-p7, para 4, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Submission-by-Professor-Roy- Greenslade-of-City-University.pdf role in overseeing the standards required of the industry, but they do emphasise the need for citizens and members of civil society to be given a more prominent role in the process. It is suggested that this might be achieved by adding lay members to a code committee but that this could be strengthened by an ongoing programme of research into the standards to which citizens feel the press should adhere.[^199]
+8.3 I will look first at the situation where a code is to be devised by a set of serving editors, albeit with some support from lay members. Professor Greenslade argues that there has been little if any controversy about the code and little or no criticism of the changes made by the editors' committee.[^197] He therefore concludes that editors should remain in the majority on the code committee, but that they should be joined by a new Press Ombudsman, public representatives and some representatives from the NUJ.[^198] The Carnegie Trust urges that industry representatives, including editors and journalists, should continue to play a significant role in overseeing the standards required of the industry, but they do emphasise the need for citizens and members of civil society to be given a more prominent role in the process. It is suggested that this might be achieved by adding lay members to a code committee but that this could be strengthened by an ongoing programme of research into the standards to which citizens feel the press should adhere.[^199]
 
 %%page 1681%%
 
@@ -32497,7 +32459,7 @@ Sweden
 
 Act 1991) and the freedom of the Swedish press (Freedom of the Press Act 1949). These freedoms apply to any individual who has registered for authorisation to publish and can include private individuals such as online bloggers. Both Acts guarantee a ban on censorship, the protection for anonymous sources and the right of public access to documents held by
 
-Swedish authorities.82
+Swedish authorities.[^82]
 
 2.15 Press standards in Sweden are upheld through the Swedish Press Council. Membership is voluntary and not backed by legislation, unlike in Denmark. Newspapers and print publications are authorised to publish as members of either the Swedish Newspaper Publishers'
 
@@ -32525,15 +32487,9 @@ Ombudsman does not act as a mediator but rather makes decisions on whether a com
 
 Parliamentary Ombudsman, the Chair of the Swedish Bar Association and the Chair of the
 
-National Press Club. The length of time taken for an adjudication by the Press Council can be a further six or seven months after the Ombudsman has considered a submitted complaint
-
-- K — 82
-
-Advisory note provided by the British Embassy in Sweden
+National Press Club. The length of time taken for an adjudication by the Press Council can be a further six or seven months after the Ombudsman has considered a submitted complaint (which can last itself three to four months). The remedy for such complaints is the right to reply or the publication of a correction.
 
 %%page 1721%%
-
-(which can last itself three to four months). The remedy for such complaints is the right to reply or the publication of a correction.
 
 2.19 In contrast to the UK and Denmark, however, the Swedish Press Council operates a system whereby titles are expected to contribute towards costs after a breach of the code. Whereas only online operators in Denmark are ordered to pay a levy towards the funding of the Council if they are in breach of the code, in Sweden, anyone who breaches the code is required to pay a 'penalty' towards the fund. It is estimated that this form of 'polluter pays' policy contributes approximately 20% of the Press Council's funding.[^84]
 
@@ -33865,17 +33821,13 @@ If there were no such body at all, the regulator would have to issue its own cod
 
 4.1 This is the main question that defines the impact of any compulsory regulation. What should apply, and to whom it should apply are, to some extent, matters of technical detail. What happens in respect of breach defines the nature of the statutory intervention. For some regulators, there is a power to disqualify or ban: it goes without saying that, if a publisher could be banned from publication as a result of breach, that would amount to a licensing regime for the press which would be entirely unacceptable.
 
-4.2 The options that I consider below are only those that I believe would be acceptable in a democratic society and all respect the right of any publisher to publish any material. There is nothing here that would apply any form of prior restraint, or require any permission, in relation to publication. None of the options includes any form of state intervention in the content published (save to the extent that a requirement to publish a correction impacts on content), or even in setting any standards that might apply to any content published.3 These options relate solely to consequences after the event where standards (howsoever defined) have been breached.
+4.2 The options that I consider below are only those that I believe would be acceptable in a democratic society and all respect the right of any publisher to publish any material. There is nothing here that would apply any form of prior restraint, or require any permission, in relation to publication. None of the options includes any form of state intervention in the content published (save to the extent that a requirement to publish a correction impacts on content), or even in setting any standards that might apply to any content published.[^3] These options relate solely to consequences after the event where standards (howsoever defined) have been breached.
 
 4.3 Other than the first, which is the absence of consequences and included simply for the sake of completeness, each of these approaches would rely on the existence of statutory backstop regulator of some kind. They are set out so that they can be considered by all concerned with this issue.
 
 Rely solely on benefits from membership of a recognised body
 
 4.4 If there is no backstop regulator, the only effect of non-membership of a recognised body would be the inability to access the benefits of that membership. Effectively, this would be a 'do nothing' option. I have set out above[^4] the statutory benefits that I consider should apply to membership of a recognised body. These include the recognition by the courts of a commitment to high standards of behaviour and practice in connection with the issues that arise in relation to aggravated and exemplary damages and also of a willingness to participate in a fair, low cost, scheme to arbitrate disputes which is relevant to issues of costs.
-
-- K — 3
-
-If a backstop regulator has the power to require the publication of corrections and apologies this is a form of control of content, but only to rectify something that was previously incorrect
 
 %%page 1787%%
 
@@ -35641,17 +35593,15 @@ Protection from Harassment Act 1997
 
 3.143 The Protection from Harassment Act 1997 (PHA) has potential application both to the conduct of journalists, for example news-gathering activities by journalists and photographers, and also in relation to the actual content of publications.
 
-3.144 The PHA provides that a person must not pursue "a course of conduct" which amounts to harassment of another and which he knows or ought to know amounts to harassment of that other.264 A person "ought to know" conduct amounts to harassment if a reasonable person in possession of the same information would think the course of conduct amounted to or involved harassment of the other.265 A course of conduct must involve conduct on at least two occasions.266
+3.144 The PHA provides that a person must not pursue "a course of conduct" which amounts to harassment of another and which he knows or ought to know amounts to harassment of that other.[^264] A person "ought to know" conduct amounts to harassment if a reasonable person in possession of the same information would think the course of conduct amounted to or involved harassment of the other.[^265] A course of conduct must involve conduct on at least two occasions.[^266]
 
-3.145 "Harassment" is not exhaustively defined in the Act, although the Act provides that harassment includes alarming another person or causing that person distress.267 However, the Act does not require alarm or distress to be caused; harassment may be demonstrated by other means, for example, the use by the press of offensive or insulting words about a person's appearance or repeated mocking by a newspaper of a person's sexual orientation, or in relation to other characteristics protected by the Equality Act 2010. The lack of an exhaustive definition of harassment gives the courts scope to interpret the Act so as to give effect to the rights under Article 8 and Article 10 of the ECHR.[^268]
+3.145 "Harassment" is not exhaustively defined in the Act, although the Act provides that harassment includes alarming another person or causing that person distress.[^267] However, the Act does not require alarm or distress to be caused; harassment may be demonstrated by other means, for example, the use by the press of offensive or insulting words about a person's appearance or repeated mocking by a newspaper of a person's sexual orientation, or in relation to other characteristics protected by the Equality Act 2010. The lack of an exhaustive definition of harassment gives the courts scope to interpret the Act so as to give effect to the rights under Article 8 and Article 10 of the ECHR.[^268]
 
 3.146 Section 1(3) sets out the defences to a claim for harassment, and these include that the course of conduct was pursued for the purpose of preventing or detecting crime, was pursued under any enactment or rule of law or to comply with any condition or requirement imposed by any person under any enactment, or in the particular circumstances the pursuit of the course of conduct was reasonable. In the context of the press seeking to rely on a reasonableness defence it has been held that the defence:[^269]
 
 > "requires the publisher to consider whether a proposed series of articles, which is likely to cause distress to an individual, will constitute an abuse of the freedom of press which the pressing social needs of a democratic society require should be curbed".
 
 3.147 Section 2 of the PHA provides that the course of conduct pursued in breach of section 1 will be a criminal offence. This is discussed in more detail at paragraph 4.129 of the Annex. Section 3 provides that an actual or apprehended breach of section 1 may be the subject of a claim in civil proceedings by the person who is or may be the victim of the course of conduct in question. This has the effect that a civil claim can be brought to restrain an apprehended breach of section 1, by way of an injunction; or a claim can be brought after the conduct has occurred to seek damages for (among other things) any anxiety caused by the harassment and any financial loss resulting from the harassment.[^270] If a court grants an injunction restraining a person from pursuing any conduct which amounts to harassment and the claimant considers that the defendant has breached the injunction, he or she may apply for the issue of a warrant for the arrest of the defendant.[^271]
-
-264 s1(1) 265 s1(2) 266 s7(3)(a) 267 s7(2)
 
 %%page 1893%%
 
@@ -35807,7 +35757,7 @@ Data Protection Act 1984
 
 4.6 The Data Protection Act 1984 (the 1984 Act) implemented the United Kingdom's obligations under the Convention and sought to regulate the use of automatically processed information relating to individuals and the provision of services in respect of such information.
 
-4.7 The 1984 Act established the position of Data Protection Registrar and also a Data Protection Tribunal.324 It obliged organisations holding personal data to register with the Data Protection Registrar and thereafter to abide by the principles of data protection outlined in the Act. These principles mirrored those set out in the Convention and were replicated in Schedule 1 of the 1984 Act.
+4.7 The 1984 Act established the position of Data Protection Registrar and also a Data Protection Tribunal.[^324] It obliged organisations holding personal data to register with the Data Protection Registrar and thereafter to abide by the principles of data protection outlined in the Act. These principles mirrored those set out in the Convention and were replicated in Schedule 1 of the 1984 Act.
 
 4.8 The Data Protection Registrar had responsibility for maintaining a register of data users who held and provided services in respect of personal data and a register of accepted applications for registration made by such users and for, determining applications to be a registered data user.[^325] The Data Protection Registrar was given powers to take enforcement action against registered users who had contravened the data protection principles including the power to de-register a data user for breach of the data protection principles and to issue a notice prohibiting the transfer of personal data outside the United Kingdom.[^326]
 
@@ -35816,8 +35766,6 @@ Data Protection Act 1984
 Data Protection Directive
 
 4.10 Directive 95/46/EC of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data and on the free movement of such data (the Data Protection Directive) was adopted on 24 October 1995 and required implementation by October 1998. The Directive itself was a response to the Organisation for Economic Co-operation and Development guidelines and adopts a number of the same principles.
-
-324 s3
 
 %%page 1905%%
 
@@ -35951,15 +35899,13 @@ Powers of investigation and enforcement
 
 4.46 The duty to enforce the provisions of the DPA lies with the Information Commissioner (the Commissioner) whose powers and duties are set out in Part V of the Act and can be summarised as follows:
 
-> (a) If the Commissioner is satisfied that a data controller has contravened or is contravening any of the data protection principles, the Commissioner may serve an enforcement notice requiring him to take such steps or refrain from taking such steps as may be specified and/or to refrain from processing personal data.368 In considering whether to issue an enforcement notice the Commissioner shall consider whether the contravention has caused or is likely to cause any person damage or distress. (b) The Commissioner may serve on a data controller an assessment notice for the purpose of enabling the Commissioner to determine whether the data controller has complied or is complying with the data protection principles.369 An assessment notice facilitates the exercise by the Commissioner of investigatory powers, including entry to premises, obtaining inspection or examination or documents, information or equipment, and requiring persons to be available for interview. Powers of entry and inspection are set out in detail in Schedule 9. (c) If any person who is, or believes themselves to be, directly affected by processing of personal data requests an assessment as to whether it is likely or unlikely that the processing has been or is being carried out in compliance with the provisions of this Act, the Commissioner shall make an assessment in such manner as appears to him to be appropriate.370 (d) The Commissioner may serve on a data controller an information notice requiring a data controller to furnish the Commissioner with specified information relating to the request or compliance with the principles.371
+> (a) If the Commissioner is satisfied that a data controller has contravened or is contravening any of the data protection principles, the Commissioner may serve an enforcement notice requiring him to take such steps or refrain from taking such steps as may be specified and/or to refrain from processing personal data.[^368] In considering whether to issue an enforcement notice the Commissioner shall consider whether the contravention has caused or is likely to cause any person damage or distress. (b) The Commissioner may serve on a data controller an assessment notice for the purpose of enabling the Commissioner to determine whether the data controller has complied or is complying with the data protection principles.[^369] An assessment notice facilitates the exercise by the Commissioner of investigatory powers, including entry to premises, obtaining inspection or examination or documents, information or equipment, and requiring persons to be available for interview. Powers of entry and inspection are set out in detail in Schedule 9. (c) If any person who is, or believes themselves to be, directly affected by processing of personal data requests an assessment as to whether it is likely or unlikely that the processing has been or is being carried out in compliance with the provisions of this Act, the Commissioner shall make an assessment in such manner as appears to him to be appropriate.[^370] (d) The Commissioner may serve on a data controller an information notice requiring a data controller to furnish the Commissioner with specified information relating to the request or compliance with the principles.[^371]
 
-4.47 It is an offence to fail to comply with an enforcement notice, an information notice or a special information notice.372 A person on whom an enforcement notice, an assessment notice, an information notice or a special information notice has been served may appeal against the notice to the Information Tribunal.373
+4.47 It is an offence to fail to comply with an enforcement notice, an information notice or a special information notice.[^372] A person on whom an enforcement notice, an assessment notice, an information notice or a special information notice has been served may appeal against the notice to the Information Tribunal.[^373]
 
 4.48 Whilst the Commissioner has a broad suite of enforcement powers at his disposal, the balance of evidence before the Inquiry suggests that there has to date been limited use of formal enforcement powers.
 
-4.49 Mr Thomas described the power to serve enforcement notices contained in s40 as the main formal power which the Commissioner had in its armoury for occasions when it felt that there had been non-compliance with the requirements of the legislation. He observed that the power was not used frequently, but there was a power to serve an enforcement notice on a data controller and that could be challenged, but if it was not challenged, then in due course it became a criminal matter not to obey the terms of an enforcement order.[^374] In terms
-
-368 s40 369 s41A 370 s42 371 s43 372 s47 373 s48 of numbers of enforcement notices served, Mr Thomas estimated this was probably only two or three in a year, and they were normally preceded by a draft of a notice which was served before the Commissioner entered the actual notice as a matter of good regulation.[^375] Mr Thomas agreed that in principle this power would apply to media organisations but this is subject to exemptions in s32.[^376]
+4.49 Mr Thomas described the power to serve enforcement notices contained in s40 as the main formal power which the Commissioner had in its armoury for occasions when it felt that there had been non-compliance with the requirements of the legislation. He observed that the power was not used frequently, but there was a power to serve an enforcement notice on a data controller and that could be challenged, but if it was not challenged, then in due course it became a criminal matter not to obey the terms of an enforcement order.[^374] In terms of numbers of enforcement notices served, Mr Thomas estimated this was probably only two or three in a year, and they were normally preceded by a draft of a notice which was served before the Commissioner entered the actual notice as a matter of good regulation.[^375] Mr Thomas agreed that in principle this power would apply to media organisations but this is subject to exemptions in s32.[^376]
 
 %%page 1914%%
 
@@ -36067,15 +36013,13 @@ Duties of the Information Commissioner in relation to the Data Protection Act 19
 
 4.85 The Commissioner has a duty where either (1) the Secretary of State so directs by order, or (2) the Commissioner considers it appropriate to do so, to prepare and disseminate to such persons as he considers appropriate codes of practice to provide guidance as to good practice. Prior to issuing codes of practice the Commissioner must consult trade associations, data subjects or persons representing data subjects as appears to him to be appropriate.
 
-4.86 The Information Commissioner must prepare a code of practice which contains (1) practical guidance in relation to the sharing of personal data in accordance with the requirements of the DPA, and (2) such other guidance as the Commissioner considers appropriate to promote good practice in the sharing of personal data. Before a code is prepared, the Commissioner must consult such of the following as the Commissioner considers appropriate: (a) trade associations, (b) data subjects, and (c) persons who appear to the Commissioner to represent the interests of data subjects.418 When such a code is prepared, it must be submitted to the Secretary of State for approval and there are rules as to procedure.419
+4.86 The Information Commissioner must prepare a code of practice which contains (1) practical guidance in relation to the sharing of personal data in accordance with the requirements of the DPA, and (2) such other guidance as the Commissioner considers appropriate to promote good practice in the sharing of personal data. Before a code is prepared, the Commissioner must consult such of the following as the Commissioner considers appropriate: (a) trade associations, (b) data subjects, and (c) persons who appear to the Commissioner to represent the interests of data subjects.[^418] When such a code is prepared, it must be submitted to the Secretary of State for approval and there are rules as to procedure.[^419]
 
-4.87 The Commissioner also has responsibility for disseminating information relating to: (a) any finding of the European Commission that a country or territory outside the European Economic Area does, or does not, ensure an adequate level of protection, (b) any decision of the European Commission which is made for the relevant purposes, and (c) such other information as it may appear to him or her to be expedient to give to data controllers in relation to any personal data about the protection of the rights and freedoms of data subjects in relation to the processing of personal data in countries and territories outside the European Economic Area.420
+4.87 The Commissioner also has responsibility for disseminating information relating to: (a) any finding of the European Commission that a country or territory outside the European Economic Area does, or does not, ensure an adequate level of protection, (b) any decision of the European Commission which is made for the relevant purposes, and (c) such other information as it may appear to him or her to be expedient to give to data controllers in relation to any personal data about the protection of the rights and freedoms of data subjects in relation to the processing of personal data in countries and territories outside the European Economic Area.[^420]
 
 4.88 In terms of duties to report, the Commissioner must lay annually before each House of Parliament a general report on the exercise of his or her functions under the DPA. The Commissioner may from time to time lay before each House of Parliament such other reports with respect to those functions as he or she thinks fit, under s52. In 2006, the Information Commissioner published two reports, "What Price Privacy? The unlawful trade in confidential personal information" and the "What Price Privacy Now?", pursuant to this section.
 
-4.89 A corollary of the fact that the DPA largely leaves it to individuals to take action to assert their rights in relation to processing of personal data for special purposes, including journalism, is that such individuals may apply to the Commissioner for assistance in their cases. An individual who is an actual or prospective party to any proceedings which relate to personal data processed for the special purposes, including the purposes of journalism, may apply to the Commissioner for assistance in relation to those proceedings.421 The power to provide assistance is limited to cases which involve a matter of substantial public importance. Assistance in most cases refers to the costs of advice or assistance from legal representatives or an agreement to indemnify the applicant against costs. The Commissioner must consider and decide whether and to what extent to grant the application, but cannot do so unless the case involves a matter of substantial public importance.422 The existing Information Commissioner notes that since 2009 no applications for such assistance have been made.[^423]
-
-418 s52A 419 s52B 420 s51(6) 421 s53 422 s53(2)
+4.89 A corollary of the fact that the DPA largely leaves it to individuals to take action to assert their rights in relation to processing of personal data for special purposes, including journalism, is that such individuals may apply to the Commissioner for assistance in their cases. An individual who is an actual or prospective party to any proceedings which relate to personal data processed for the special purposes, including the purposes of journalism, may apply to the Commissioner for assistance in relation to those proceedings.[^421] The power to provide assistance is limited to cases which involve a matter of substantial public importance. Assistance in most cases refers to the costs of advice or assistance from legal representatives or an agreement to indemnify the applicant against costs. The Commissioner must consider and decide whether and to what extent to grant the application, but cannot do so unless the case involves a matter of substantial public importance.[^422] The existing Information Commissioner notes that since 2009 no applications for such assistance have been made.[^423]
 
 %%page 1922%%
 
@@ -36083,7 +36027,7 @@ Duties of the Information Commissioner in relation to the Freedom of Information
 
 4.90 The Commissioner has a number of powers and duties under FOIA. Whilst FOIA has not been the subject of extensive evidence before the Inquiry, it is useful to summarise the provisions of FOIA to the extent that they relate to the Commissioner in order to understand the entire framework of the regulatory position.
 
-4.91 The purpose of the Act is stated at the outset to be, "to make provision for the disclosure of information held by public authorities or by persons providing services for them".424
+4.91 The purpose of the Act is stated at the outset to be, "to make provision for the disclosure of information held by public authorities or by persons providing services for them".[^424]
 
 4.92 The FOIA creates a general right of access, on request, to information held by public authorities. On receipt of a freedom of information claim a public authority has two corresponding duties. Firstly, a duty to inform a member of the public whether or not it holds the information requested and secondly, if it does hold that information, to communicate that fact to the person making that request.[^425] A critical distinction between the DPA and the FOI is that whilst under the DPA a request for data is limited to data held about yourself as a data subject, there is no such constraint in relation to information held by the public authority that is sought under the FOIA.
 
@@ -36093,7 +36037,7 @@ Duties of the Information Commissioner in relation to the Freedom of Information
 
 4.95 The Act contains a number of provisions which provide for exemptions from disclosure in relation to certain types of information. There are two forms of exemption: an absolute exemption which is an absolute bar to disclosure, and qualified exemption which is subject to a public interest test, balancing the public interest in maintaining the exemption against the public interest in disclosure.
 
-4.96 The absolute exemptions include information that: i) is accessible by other means, ii) relates to or deals with security matters iii) is contained in court records, iv) the disclosure of which would infringe parliamentary privilege, v) information held by the House of Commons or the House of Lords, where disclosure would prejudice the effective conduct of public affairs, vi) information which (a) the applicant could obtain under the Data Protection Act 1998; or (b) where release would breach the data protection principles, vii) information provided in confidence, viii) where disclosure of the information is prohibited by an enactment; incompatible with an EU obligation; or would commit a contempt of court.[^427] 424 s1
+4.96 The absolute exemptions include information that: i) is accessible by other means, ii) relates to or deals with security matters iii) is contained in court records, iv) the disclosure of which would infringe parliamentary privilege, v) information held by the House of Commons or the House of Lords, where disclosure would prejudice the effective conduct of public affairs, vi) information which (a) the applicant could obtain under the Data Protection Act 1998; or (b) where release would breach the data protection principles, vii) information provided in confidence, viii) where disclosure of the information is prohibited by an enactment; incompatible with an EU obligation; or would commit a contempt of court.[^427]
 
 %%page 1923%%
 
@@ -36205,7 +36149,7 @@ Computer hacking – Computer Misuse Act 1990
 
 %%page 1930%%
 
-5.20 Access of any kind by any person to any program held in a computer is "unauthorised" if they are not entitled to control access of the kind in question to the program or data, or do not have the consent to access the kind of program or data in question from any person so entitled.448 The section identifies two ways in which authority may be acquired – either by being oneself the person entitled to authorise access or by being a person who has been authorised by a person entitled to authorise access. It also makes clear that the authority must relate not simply to the data or programme, but also the actual kind of access secured.[^449]
+5.20 Access of any kind by any person to any program held in a computer is "unauthorised" if they are not entitled to control access of the kind in question to the program or data, or do not have the consent to access the kind of program or data in question from any person so entitled.[^448] The section identifies two ways in which authority may be acquired – either by being oneself the person entitled to authorise access or by being a person who has been authorised by a person entitled to authorise access. It also makes clear that the authority must relate not simply to the data or programme, but also the actual kind of access secured.[^449]
 
 5.21 There is some uncertainty as to whether an offence is committed under s1 by a person who is authorised to secure access to particular computer material, or data, but does so for unauthorised purposes.[^450] The leading authority on this point under the Data Protection Act 1984 (now repealed) was DPP v Bignell, in which the Court held that the retrieval of information from the police national computer (PNC), by someone with the proper authority under the Computer Misuse Act 1990, but at the request of others who were to use the data for non-police purposes, was a matter for the Data Protection Act 1984 or for police disciplinary proceedings rather than the Computer Misuse Act 1990.[^451] However, dicta in DPP v Bignell which related to the Computer Misuse Act 1990 were disapproved in R v Bow Street Metropolitan Stipendiary Magistrate, ex p Government of the United States of America which held that the Computer Misuse Act 1990 prevented someone with the authority to access data at a particular level on a computer system from accessing other data held on the same system for improper purposes, on the basis that such access will be unauthorised access within the meaning of section 1(1).[^452] It therefore remains unclear as to whether a person who had authorised access to information held on a computer, for example the PNC, but accesses this information for improper purposes, for example to sell it to a journalist, would commit an offence under s1 as well as s55 of the DPA. In a number of cases involving misuse of information held on police computers, offenders have been prosecuted for misconduct in public office rather than under the 1990 Act.[^453]
 
@@ -36213,9 +36157,7 @@ Computer hacking – Computer Misuse Act 1990
 
 5.23 Further offences for the purposes of s2 are offences which have a sentence fixed by law or where an individual found guilty of that offence would be liable for a term of imprisonment of five years or more. For example, a person will be guilty of an offence under s2 if unauthorised access to sensitive information held on a computer was obtained for the purposes of blackmailing a person to whom that information related, or where unauthorised access was obtained for the purposes of theft.
 
-5.24 It is immaterial for the purposes of s2 whether the further offence is to be committed on the same occasion as the unauthorised access or on any future occasion and a person can
-
-448 s17(5) be guilty of the offences under s2 even though the facts are such that the commission of the further offence is impossible.[^454]
+5.24 It is immaterial for the purposes of s2 whether the further offence is to be committed on the same occasion as the unauthorised access or on any future occasion and a person can be guilty of the offences under s2 even though the facts are such that the commission of the further offence is impossible.[^454]
 
 %%page 1931%%
 
@@ -47710,7 +47652,9 @@ TSO@Blackwell and other Accredited Agents
 
 [^68]: Associated Newspapers Ltd has robustly denied these allegations, and Mrs Cherie Blair has submitted further evidence in support of them. The Inquiry is in no position to adjudicate as between them http://www.levesoninquiry. org.uk/wp-content/uploads/2012/11/Witness-Statement-of-Cherie-Blair1.pdf
 
-[^69]: Campbell, A, Diaries Volume One: Prelude to Power 1994-1997, pp631 and 634 in particular I 70 p23, para 92, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/04/Witness-Statement-of-Keith-Rupert- Murdoch2.pdf; p80, lines 1-7, Tony Blair, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/05/Transcript- of-Morning-Hearing-28-May-2012.pdf. It was in 2010 that Mr Blair became a godfather to one of Mr Murdoch's daughters
+[^69]: Campbell, A, Diaries Volume One: Prelude to Power 1994-1997, pp631 and 634 in particular
+
+[^70]: p23, para 92, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/04/Witness-Statement-of-Keith-Rupert- Murdoch2.pdf; p80, lines 1-7, Tony Blair, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/05/Transcript- of-Morning-Hearing-28-May-2012.pdf. It was in 2010 that Mr Blair became a godfather to one of Mr Murdoch's daughters
 
 [^71]: p6, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/05/Witness-Statement-of-Lord-Mandelson.pdf
 
@@ -47847,6 +47791,8 @@ TSO@Blackwell and other Accredited Agents
 [^137]: as above
 
 [^138]: p4, paras 21-22, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/06/Witness-Statement-of-Simon- Walters.pdf
+
+[^1]: On the basis that current relationships between the press and the Prime Minister have been the subject of considerable recent interest – and have each been ventilated at length during the course of the Inquiry – this section is considerably longer than those covering other periods of time and administrations where the issues are less immediate
 
 [^2]: p5, para 12, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/06/Witness-Statement-of-David-Cameron- MP.pdf
 
@@ -48076,6 +48022,8 @@ TSO@Blackwell and other Accredited Agents
 
 [^115]: pp9-10, line 21-6, Rupert Murdoch, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/04/Transcript-of- Afternoon-Hearing-25-April-2012.pdf
 
+[^116]: p57, lines 18-21, David Cameron, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/06/Transcript-of- Morning-Hearing-14-June-2012.pdf
+
 [^117]: p67, para 199, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/06/Witness-Statement-of-David- Cameron-MP.pdf; Rupert Murdoch was missing from the list of people Mr Cameron listed in exhibit DC2 as having been present on 16 August 2008 but he rapidly corrected this error (which arose at a time when the meeting was already in the public domain) in his oral evidence, pp56-57, line 14 –3, David Cameron, http://www.levesoninquiry.org. uk/wp-content/uploads/2012/06/Transcript-of-Morning-Hearing-14-June-2012.pdf
 
 [^118]: p59, line 11-17, David Cameron, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/06/Transcript-of- Morning-Hearing-14-June-2012.pdf
@@ -48129,6 +48077,8 @@ TSO@Blackwell and other Accredited Agents
 [^142]: http://www.dominicgrieve.org.uk/about-dominic-grieve
 
 [^143]: p110-111, lines 18-2, Rebekah Brooks, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/05/Transcript- of-Morning-Hearing-11-May-2012.pdf
+
+[^144]: p111, lines 3-7, Rebekah Brooks, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/05/Transcript-of- Morning-Hearing-11-May-2012.pdf
 
 [^145]: pp78-79, lines 19-5, David Cameron, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/06/Transcript-of- Morning-Hearing-14-June-2012.pdf
 
@@ -50472,6 +50422,8 @@ TSO@Blackwell and other Accredited Agents
 
 [^10]: pp62-64, lines 15-9, Graham Shear, http://www.levesoninquiry.org.uk/wp-content/uploads/2011/12/Transcript-of- Morning-Hearing-21-November-2011.pdf
 
+[^11]: pp35-36, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Submission-by-Media-Standards-Trust. pdf
+
 [^12]: p171, para 247, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Witness-Statement-of-Stephen- Abell.pdf
 
 [^13]: Having paid fulsome tribute to Mr Abell's witness statement, I should also record my admiration for the Media Standard Trust's work in this area. The relevant material and submissions is on the Inquiry website. Given its comprehensiveness, I have sought to boil the issues down somewhat
@@ -50535,6 +50487,8 @@ TSO@Blackwell and other Accredited Agents
 [^42]: pp 99-153, para 239, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Witness-Statement-of- Stephen-Abell.pdf
 
 [^43]: p61, lines 3-14, Dr Collette Bowe, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/02/Transcript-of- Morning-Hearing-1-February-2012.pdf
+
+[^44]: p42, lines 16-25, Tim Toulmin, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of- Morning-Hearing-30-January-2012.pdf
 
 [^45]: p47, line 17, p48, line 14, Lord Grade, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript- of-Afternoon-Hearing-31-January-2012.pdf
 
@@ -50853,6 +50807,8 @@ TSO@Blackwell and other Accredited Agents
 [^202]: p88, Tim Toulmin, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of-Morning-Hearing- 30-January-2012.pdf
 
 [^203]: PCC, Data Protection Act, Journalism and the PCC Code, http://www.pcc.org.uk/advice/editorials-detail. html?article=ODg
+
+[^204]: pp84-85, lines 10-2, Tim Toulmin, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of- Morning-Hearing-30-January-2012.pdf
 
 [^205]: pp88-89, lines 23-15, ibid
 
@@ -51308,7 +51264,9 @@ TSO@Blackwell and other Accredited Agents
 
 [^117]: p5, para 25.1, ibid
 
-[^118]: p3, para 5.1.4, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Lord-Black-of-Brentwood- Annex-B1.pdf K 119 p12, para 2.1-2.2, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Lord-Black-of-Brentwood- Annex-C1.pdf
+[^118]: p3, para 5.1.4, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Lord-Black-of-Brentwood- Annex-B1.pdf
+
+[^119]: p12, para 2.1-2.2, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Lord-Black-of-Brentwood- Annex-C1.pdf
 
 [^120]: pp13-14, para 2.3-2.4, ibid
 
@@ -51348,7 +51306,7 @@ TSO@Blackwell and other Accredited Agents
 
 [^138]: p74, lines 6-11, ibid
 
-[^139]: p45, para 93, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Submission-by-Lord-Black-of- Brentwood1.pdf K 140
+[^139]: p45, para 93, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Submission-by-Lord-Black-of- Brentwood1.pdf
 
 [^141]: pp40-41, para 79, ibid pp40-41, para 79-80, ibid
 
@@ -51454,6 +51412,8 @@ TSO@Blackwell and other Accredited Agents
 
 [^33]: p3, para 3.1.8, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Lord-Black-of-Brentwood-Annex-B1. pdf
 
+[^34]: pp108-109, lines 21-16, Lord Black, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Transcript-of- Morning-Hearing-9-July-2012.pdf
+
 [^35]: p116, lines 13-22, Lord Black, ibid
 
 [^36]: pp34-36, lines 24-1, Lord Black, ibid
@@ -51480,7 +51440,7 @@ TSO@Blackwell and other Accredited Agents
 
 [^47]: p39, lines 4-12,Lord Black, ibid
 
-[^48]: p39, lines 12-18,Lord Black, ibid K 49
+[^48]: p39, lines 12-18,Lord Black, ibid
 
 [^50]: p40, lines 4-8,Lord Black, ibid p41, lines 10-16,Lord Black, ibid
 
@@ -51626,6 +51586,8 @@ TSO@Blackwell and other Accredited Agents
 
 [^121]: pp103-104, lines 22-4, Lord Black, ibid
 
+[^122]: pp72-73, lines 17-1,Lord Black, ibid
+
 [^123]: p73, lines 2-7, Lord Black, ibid
 
 [^124]: p76, lines 9-16, Lord Black, ibid
@@ -51688,7 +51650,9 @@ TSO@Blackwell and other Accredited Agents
 
 [^153]: p4, para 12, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Second-witness-statement-of-Hugh- Whittow.pdf
 
-[^154]: para 7, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Second-witness-statement-of-Dawn-Nessom. pdf K 155 P3, para 8, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Witness-statement-of-Tony-Gallagher- signed-.pdf
+[^154]: para 7, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Second-witness-statement-of-Dawn-Nessom. pdf
+
+[^155]: P3, para 8, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Witness-statement-of-Tony-Gallagher- signed-.pdf
 
 [^156]: pp3-4, paras 9-10, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Third-witness-statement-of- Lloyd-Embley.pdf
 
@@ -52113,6 +52077,8 @@ TSO@Blackwell and other Accredited Agents
 [^195]: p7, para 13, ibid
 
 [^196]: pp7-8, paras 14-15, ibid
+
+[^197]: p7, para 4, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Submission-by-Professor-Roy- Greenslade-of-City-University.pdf
 
 [^198]: p14, para 12, ibid
 
@@ -52604,6 +52570,8 @@ TSO@Blackwell and other Accredited Agents
 
 [^81]: p89, lines 11-13, Lara Fielden, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Transcript-of- Afternoon-Hearing-13-July-20121.pdf
 
+[^82]: Advisory note provided by the British Embassy in Sweden
+
 [^83]: pp69-70, lines 15-5, Lara Fielden, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Transcript-of- Afternoon-Hearing-13-July-20121.pdf
 
 [^84]: pp75-76, lines 13-3, Lara Fielden, ibid
@@ -52873,6 +52841,8 @@ TSO@Blackwell and other Accredited Agents
 [^1]: Part K, Chapter 7
 
 [^2]: Part J, Chapters 2 and 3
+
+[^3]: If a backstop regulator has the power to require the publication of corrections and apologies this is a form of control of content, but only to rectify something that was previously incorrect
 
 [^4]: Part K, Chapter 7
 
@@ -53650,6 +53620,14 @@ TSO@Blackwell and other Accredited Agents
 
 [^263]: See for example Douglas v Hello! Ltd [2003] EMLR 601 in which Morritt V-C permitted the pleading of a claim for exemplary damages
 
+[^264]: s1(1)
+
+[^265]: s1(2)
+
+[^266]: s7(3)(a)
+
+[^267]: s7(2)
+
 [^268]: Trimingham v Associated Newspapers Limited [2012] EWHC 1296 (QB)
 
 [^269]: Thomas v News Group Newspapers Ltd [2001] EWCA Civ 1233 at para 50
@@ -53762,6 +53740,8 @@ TSO@Blackwell and other Accredited Agents
 
 [^323]: The OECD guidelines set out eight basic principles of national application which are recognisable in the DPA 1998: (1) The collection limitation principle; (2) the data quality principle; (3) the purpose specification principle; (4) the use limitation principles; (5) the security safeguards principle; (6) the openness principle; (7) the individual participation principles; and (8) the accountability principle
 
+[^324]: s3
+
 [^325]: ss4(1), 7(1)
 
 [^326]: ss10(1), 11(1), 12(1)
@@ -53847,6 +53827,18 @@ TSO@Blackwell and other Accredited Agents
 [^366]: Guardian News and Media rely on the statement of Buxton LJ in Johnson v Medical Defence Union (No.2) [2007] EWCA Civ 262, [2008] Bus LR 503 at para 41, where he stated: "The argument put to the court [in Campbell], which had been adopted by the trial judge, was that the expression "with a view to" limited the exemption to acts prior to publication. The court was very concerned that that limitation would effectively nullify the investigative journalism that the exemption seemed designed to protect"
 
 [^367]: para 3.25, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Witness-Statement-of-Christopher- Graham.pdf
+
+[^368]: s40
+
+[^369]: s41A
+
+[^370]: s42
+
+[^371]: s43
+
+[^372]: s47
+
+[^373]: s48
 
 [^374]: p15, lines 1-9, Richard Thomas, http://www.levesoninquiry.org.uk/wp-content/uploads/2011/12/Transcript-of- Morning-Hearing-9-December-2011.pdf
 
@@ -53936,7 +53928,19 @@ TSO@Blackwell and other Accredited Agents
 
 [^417]: s51(2)
 
+[^418]: s52A
+
+[^419]: s52B
+
+[^420]: s51(6)
+
+[^421]: s53
+
+[^422]: s53(2)
+
 [^423]: para 3.22, http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Witness-Statement-of-Christopher- Graham.pdf
+
+[^424]: s1
 
 [^425]: ss1(1)(a)-(b)
 
@@ -53983,6 +53987,8 @@ TSO@Blackwell and other Accredited Agents
 [^446]: [1993] QB 94
 
 [^447]: [2000] 2 AC 216 at 225-226
+
+[^448]: s17(5)
 
 [^449]: [2000] 2 AC 216 at 224
 

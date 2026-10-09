@@ -1,5 +1,5 @@
 import type { BodyPass, VolumePass } from "@rtm/ingest";
-import { layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations, footnoteRestarts, numberedOpenings } from "@rtm/ingest";
+import { layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations, footnoteRestarts, numberedOpenings, thumbIndexNotes } from "@rtm/ingest";
 
 /**
  * The running head "Chapter 1 | Introduction" at the top of every page of a
@@ -134,6 +134,9 @@ export default pipeline({
     // the markers bare until the next page with three: 97 notes, mostly each
     // chapter's first (reportsthatmatter-u00i).
     footnoteRestarts(),
+    // The Part letter printed as a thumb index sits beside some notes' numbers
+    // ("I   70"), which then read as the tail of the note above (reportsthatmatter-qai).
+    thumbIndexNotes(),
     // A quotation running over a page arrives as two (reportsthatmatter-38s.9).
     quoteListRunOns(),
     geometry("per-volume"),
