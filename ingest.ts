@@ -1,4 +1,28 @@
-import { layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations, footnoteRestarts } from "@rtm/ingest";
+import type { VolumePass } from "@rtm/ingest";
+import { layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations, footnoteRestarts, numberedOpenings } from "@rtm/ingest";
+
+/**
+ * The running head "Chapter 1 | Introduction" at the top of every page of a
+ * chapter (the Part's own head, "PART E | …", sits on the facing page).
+ * runningFurniture({ numbersTrackPages: true }) keeps a repeated line whose
+ * number does not advance with the page, so a short chapter's head (two or
+ * three pages) survives: ten in the text, nine as stray paragraphs and one
+ * mid-sentence, "grant-in-Chapter 1 | Introduction aid voted by Parliament"
+ * (p.1000-1001, reportsthatmatter-jr1t). The "Chapter N | Title" shape, a
+ * whole line among a page's first or last three, is never prose here.
+ */
+const CHAPTER_HEAD = /^\s*Chapter \d{1,2} \| \S.*$/;
+const chapterRunningHeads: VolumePass = {
+  name: "chapterRunningHeads",
+  stage: "volume",
+  run: (pages) =>
+    pages.map((page) => {
+      const content = page.body.flatMap((line, i) => (line.trim() ? [i] : []));
+      const edge = new Set([...content.slice(0, 3), ...content.slice(-3)]);
+      const body = page.body.filter((line, i) => !(edge.has(i) && CHAPTER_HEAD.test(line)));
+      return body.length === page.body.length ? page : { ...page, body };
+    }),
+};
 
 /**
  * How this report is built. Owned by the report: every decision that shaped
@@ -47,7 +71,12 @@ export default pipeline({
     quoteListRunOns(),
     geometry("per-volume"),
     runningFurniture({ numbersTrackPages: true }),
+    chapterRunningHeads,
     numberedParagraphs(),
+    // A block opening on its own paragraph number ("4.30 The dinner…") is a
+    // paragraph of its own, not the rest of one ending "Part H." or "News
+    // Corp." (reportsthatmatter-1iz4).
+    numberedOpenings(),
     pageBreakContinuations({ quoteTails: true }),
   ],
 });
