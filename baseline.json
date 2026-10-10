@@ -1,11 +1,11 @@
 {
-  "markdownSha": "7d21a263b10e9e9bae24f8f7541db136de1891786aa98502b4a50ffb3f890d2a",
-  "words": 1069008,
+  "markdownSha": "d0e562c268b26e1c0ea241677bacdcc14ba39c1ad5caaac8392fd4a05e5bea29",
+  "words": 1068632,
   "blocks": {
-    "heading": 87,
-    "quote": 2034,
-    "list": 1751,
-    "paragraph": 12830
+    "heading": 88,
+    "quote": 2036,
+    "list": 1743,
+    "paragraph": 12695
   },
   "headings": [
     "PRACTICES AND ETHICS OF THE PRESS REPORT",
@@ -16,6 +16,7 @@
     "Publication of Parliamentary Reports in",
     "July 2009: The Guardian",
     "September 2010: The New York Times",
+    "Chapter 5: A new approach to the allegations",
     "Police Inquiries: Operations Weeting, Elveden and tuleta",
     "The Management and Standards Committee",
     "PRACTICES AND ETHICS OF THE PRESS REPORT",
@@ -53,7 +54,7 @@
     "Chapter 3: New Labour 1. The 1992 general election",
     "Prime Minister Blair: 1997 –",
     "Prime Minister Brown: 2007 –",
-    "Chapter 4: The Conservative Revival and the Coalition1",
+    "Chapter 4: The Conservative Revival and the Coalition[^1]",
     "Prime Minister Cameron: 2010-present",
     "CHAPTER 5 MEDIA POLICY: EXAMPLES FROM RECENT HISTORY",
     "Purchase of The Times and The Sunday Times",
@@ -96,7 +97,7 @@
     "PART I CHAPTER 8",
     "Notes"
   ],
-  "footnotes": 8608,
+  "footnotes": 8640,
   "pageMarkers": 1952,
   "poppler": "26.08.0"
 }

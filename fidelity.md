@@ -1,6 +1,6 @@
 # Fidelity review — An Inquiry into the Culture, Practices and Ethics of the Press
 
-Pages: 2022  ·  Footnotes: 8608  ·  Auto-fixes applied: 19  ·  Human corrections: 0
+Pages: 2022  ·  Footnotes: 8640  ·  Auto-fixes applied: 19  ·  Human corrections: 0
 
 **240 open**, 0 reviewed and judged correct.
 

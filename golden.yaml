@@ -73,7 +73,7 @@ pages:
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [I, F]
     xfail: reportsthatmatter-r0w, reportsthatmatter-mizx
-    xfail_only: [blocks, footnotes, markers]
+    xfail_only: [blocks]
     blocks:
       - heading: "CHAPTER 1 INTRODUCTION"
       - heading: "1. Overview"
@@ -102,8 +102,8 @@ pages:
     printed: 1518
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [K, E, I]
-    xfail: reportsthatmatter-qai, reportsthatmatter-r0w
-    xfail_only: [blocks, footnotes, markers, must_not_contain]
+    xfail: reportsthatmatter-r0w
+    xfail_only: [blocks]
     blocks:
       - paragraph: {start: "1.14 Having introduced the issues in this way", end: "need to be examined and set out."}
       - paragraph: {start: "1.15 The sections of this Chapter that follow", end: "both in 2007 and 2009."}
