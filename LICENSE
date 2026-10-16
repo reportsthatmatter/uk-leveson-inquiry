@@ -6,7 +6,7 @@ This repository holds a public report, the text we derive from it, and the code 
 1. The report's text
 --------------------
 
-The Leveson Inquiry report (HC 780, November 2012) is Crown copyright, published under the Open Government Licence. The report's imprint says: "© Crown copyright 2012. You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of the Open Government Licence. To view this licence, visit http://www.nationalarchives.gov.uk/doc/open-government-licence/". The imprint does not name a version (versions 1.0 and 2.0 were current in 2012); the National Archives page it links now leads to version 3.0, which is the version we cite.
+The Leveson Inquiry report (HC 780, November 2012) is Crown copyright, published under the Open Government Licence. The report's imprint says: "© Crown copyright 2012. You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of the Open Government Licence. To view this licence, visit http://www.nationalarchives.gov.uk/doc/open-government-licence/". The imprint does not name a version (in November 2012 the only version was 1.0, https://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/; versions 2.0, in 2013, and 3.0 came later); the National Archives page it links now leads to version 3.0, which is the version we cite.
 
 Third-party copyright information identified in the report is excluded by the report's own notice: "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned."
 
@@ -22,5 +22,7 @@ The code that builds the text (ingest.ts and other TypeScript, JavaScript and Py
 
 Other files
 -----------
+
+Files under archive/ are copies of the report as its publisher issued it, kept so the text can be rebuilt and checked; they have the status described in section 1.
 
 Files under reference/ are copies of other editions of the report, kept to measure our text. They keep the licence recorded for them (in reference/manifest.json where one exists, or section 1 where this file says so) and are not covered by sections 2 and 3.
