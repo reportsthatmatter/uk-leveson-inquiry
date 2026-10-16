@@ -28,9 +28,9 @@ Taken from The National Archives at: [http://webarchive.nationalarchives.gov.uk/
 
 See the datapackage.json for details.
 
-## License
+## Licence
 
-Public domain
+Text of the report: Crown copyright 2012, Open Government Licence (version not stated in the report). Our markup, processing and editorial additions: CC BY 4.0. Code: MIT. Evidence, caveats and the full statement are in [LICENSE](LICENSE); the MIT text is in [LICENSE-MIT](LICENSE-MIT).
 
 ## Rebuilding the text
 

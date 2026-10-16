@@ -1,0 +1,26 @@
+Licences in this repository
+===========================
+
+This repository holds a public report, the text we derive from it, and the code that builds that text. They have three different statuses. This file is a statement of those statuses, not legal advice.
+
+1. The report's text
+--------------------
+
+The Leveson Inquiry report (HC 780, November 2012) is Crown copyright, published under the Open Government Licence. The report's imprint says: "© Crown copyright 2012. You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of the Open Government Licence. To view this licence, visit http://www.nationalarchives.gov.uk/doc/open-government-licence/". The imprint does not name a version (versions 1.0 and 2.0 were current in 2012); the National Archives page it links now leads to version 3.0, which is the version we cite.
+
+Third-party copyright information identified in the report is excluded by the report's own notice: "Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned."
+
+2. Our markup, processing and editorial additions
+-------------------------------------------------
+
+The structure and Markdown formatting of full.md, paragraph and section identifiers, corrections.yaml, golden.yaml, baseline.json, fidelity.md, PROCESSING.md, datapackage.json, the README and any other words we wrote are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/legalcode). Attribute them to "Reports that Matter (https://reportsthatmatter.org)". This does not change the status of the report's own text, described in section 1, which we do not own.
+
+3. Code
+-------
+
+The code that builds the text (ingest.ts and other TypeScript, JavaScript and Python files, and package.json) is licensed under the MIT licence; see LICENSE-MIT, Copyright (c) 2026 Rufus Pollock and contributors.
+
+Other files
+-----------
+
+Files under reference/ are copies of other editions of the report, kept to measure our text. They keep the licence recorded for them (in reference/manifest.json where one exists, or section 1 where this file says so) and are not covered by sections 2 and 3.
