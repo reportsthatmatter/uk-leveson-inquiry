@@ -23,15 +23,16 @@ pages:
       - paragraph: {start: "2.3 News Corp is headquartered in New York", continues: true, notes: [5, 6]}
     footnotes: [1, 2, 3, 4, 5, 6]
     markers: [1, 2, 3, 4, 5, 6]
-  # The same chapter a page on: the page's gutter shift puts the text at the quotation inset, so 2.4 is cut per line;
+  # The same chapter a page on: the page's gutter shift puts the text at the quotation inset, so 2.4 was cut per line (fkx, fixed by facingPageMargins);
   # eleven flush note markers; two subheads; a paragraph carried over from the page before.
   - pdf: 111
     volume: 1
     printed: 100
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [C, F, I, ordinary]
-    xfail: reportsthatmatter-fkx
-    xfail_only: [blocks, must_contain]
+    # fkx fixed by facingPageMargins (2.4 is whole again); its subheads are still paragraphs, one welded to 2.4's tail (r0w).
+    xfail: reportsthatmatter-r0w
+    xfail_only: [blocks]
     continues_previous: true
     opens_with: "June 2012 News Corp announced that it intends to pursue the separation"
     blocks:
@@ -47,14 +48,12 @@ pages:
     footnotes: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
     markers: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
     must_contain: ["Rupert Murdoch would remain Chairman of both companies"]
-  # Terms of Reference: an italic quotation continued over the page break, a numbered paragraph cut in two by the gutter shift (fkx).
+  # Terms of Reference: an italic quotation continued over the page break, a numbered paragraph the gutter shift cut in two (fkx, fixed by facingPageMargins).
   - pdf: 19
     volume: 1
     printed: 4
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [A, B, D]
-    xfail: reportsthatmatter-fkx
-    xfail_only: [blocks, must_contain, must_not_be_quote]
     continues_previous: true
     opens_with: "after listening carefully, we have decided that the best way to proceed"
     blocks:
