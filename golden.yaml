@@ -23,15 +23,16 @@ pages:
       - paragraph: {start: "2.3 News Corp is headquartered in New York", continues: true, notes: [5, 6]}
     footnotes: [1, 2, 3, 4, 5, 6]
     markers: [1, 2, 3, 4, 5, 6]
-  # The same chapter a page on: the page's gutter shift puts the text at the quotation inset, so 2.4 is cut per line;
+  # The same chapter a page on: the page's gutter shift puts the text at the quotation inset, so 2.4 was cut per line (fkx, fixed by facingPageMargins);
   # eleven flush note markers; two subheads; a paragraph carried over from the page before.
   - pdf: 111
     volume: 1
     printed: 100
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [C, F, I, ordinary]
-    xfail: reportsthatmatter-fkx
-    xfail_only: [blocks, must_contain]
+    # fkx fixed by facingPageMargins (2.4 is whole again); its subheads are still paragraphs, one welded to 2.4's tail (r0w).
+    xfail: reportsthatmatter-r0w
+    xfail_only: [blocks]
     continues_previous: true
     opens_with: "June 2012 News Corp announced that it intends to pursue the separation"
     blocks:
@@ -47,14 +48,12 @@ pages:
     footnotes: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
     markers: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
     must_contain: ["Rupert Murdoch would remain Chairman of both companies"]
-  # Terms of Reference: an italic quotation continued over the page break, a numbered paragraph cut in two by the gutter shift (fkx).
+  # Terms of Reference: an italic quotation continued over the page break, a numbered paragraph the gutter shift cut in two (fkx, fixed by facingPageMargins).
   - pdf: 19
     volume: 1
     printed: 4
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [A, B, D]
-    xfail: reportsthatmatter-fkx
-    xfail_only: [blocks, must_contain, must_not_be_quote]
     continues_previous: true
     opens_with: "after listening carefully, we have decided that the best way to proceed"
     blocks:
@@ -66,6 +65,27 @@ pages:
     markers: [2]
     must_contain: ["The Terms of Reference were then the subject of further discussion both with the devolved administrations of Scotland, Wales and Northern Ireland"]
     must_not_be_quote: ["administrations of Scotland, Wales and Northern Ireland and other interested parties"]
+  # The Assessors' sentence carried over the p.5/6 break ("…Elinor Goodman,7" / "George Jones8 and Sir Paul Scott-Lee.9") is one paragraph (reportsthatmatter-al49);
+  # the right-hand page's numbered paragraphs are whole (fkx: "…I selected" / "Robert Jay QC" was cut); "2. Role of the assessors" is a heading (r0w).
+  - pdf: 21
+    volume: 1
+    printed: 6
+    verified_by: "Claude (Opus 5.5), 2026-10-25, against the PDF's layout text (pdftotext -layout) and pdftohtml geometry"
+    features: [B, C, I]
+    xfail: reportsthatmatter-r0w
+    xfail_only: [blocks]
+    continues_previous: true
+    opens_with: "George Jones and Sir Paul Scott-Lee."
+    blocks:
+      - paragraph: {start: "1.5 From the day of the announcement", end: "could proceed expeditiously and efficiently."}
+      - paragraph: {start: "1.6 I also set about appointing counsel", end: "subsequent collation of the evidence."}
+      - paragraph: {start: "1.7 At the very beginning of this Report", end: "Parliament to the way forward."}
+      - heading: "2. Role of the assessors"
+      - paragraph: {start: "2.1 From the outset, challenges were mounted", end: "independence from the interested parties.”", notes: [10]}
+      - paragraph: {start: "2.2 At the opening session of the Inquiry", end: "newspaper experience."}
+    footnotes: [4, 5, 6, 7, 8, 9, 10]
+    markers: [4, 5, 6, 7, 8, 9, 10]
+    must_contain: ["Elinor Goodman, George Jones and Sir Paul Scott-Lee.", "With the assistance of the Treasury Solicitor, I selected Robert Jay QC to be Counsel to the Inquiry"]
   # Chapter opener of Part F: the chapter title and the section "1. Overview" are two headings; note numbers restart (note 1 on this page).
   - pdf: 16
     volume: 2

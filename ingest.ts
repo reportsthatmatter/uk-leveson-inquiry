@@ -1,5 +1,5 @@
 import type { BodyPass, VolumePass } from "@rtm/ingest";
-import { layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations, footnoteRestarts, numberedOpenings, thumbIndexNotes } from "@rtm/ingest";
+import { facingPageMargins, letteredItems, layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations, footnoteRestarts, numberedOpenings, thumbIndexNotes } from "@rtm/ingest";
 
 /**
  * The running head "Chapter 1 | Introduction" at the top of every page of a
@@ -140,6 +140,15 @@ export default pipeline({
     // A quotation running over a page arrives as two (reportsthatmatter-38s.9).
     quoteListRunOns(),
     geometry("per-volume"),
+    // Odd and even PDF pages sit four or five columns apart (the binding
+    // gutter): against one margin per volume, every line of the other side
+    // opened a paragraph or read as a quotation; 2,091 oversplit paragraphs
+    // ("…I selected" / "Robert Jay QC to be Counsel…", vol i p.21,
+    // reportsthatmatter-fkx). Each page takes its side's margin.
+    facingPageMargins(),
+    // "(a) to investigate complaints…" sets its wrapped lines one tab-stop in,
+    // at the quotation inset: each item read as prose cut off into a quotation.
+    letteredItems(),
     runningFurniture({ numbersTrackPages: true }),
     chapterRunningHeads,
     smallCapsCase,
