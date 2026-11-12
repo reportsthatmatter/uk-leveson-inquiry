@@ -1,5 +1,5 @@
-import type { BodyPass, VolumePass } from "@rtm/ingest";
-import { facingPageMargins, letteredItems, layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations, footnoteRestarts, numberedOpenings, thumbIndexNotes } from "@rtm/ingest";
+import type { BodyPass, SourcePass, VolumePass } from "@rtm/ingest";
+import { allCapsHeadings, facingPageMargins, letteredItems, layoutMarkers, layoutPageJoins, quoteListRunOns, pipeline, geometry, runningFurniture, numberedParagraphs, pageBreakContinuations, footnoteRestarts, numberedOpenings, thumbIndexNotes, typographicHeadings, numberedHeadings } from "@rtm/ingest";
 
 /**
  * The running head "Chapter 1 | Introduction" at the top of every page of a
@@ -9,9 +9,10 @@ import { facingPageMargins, letteredItems, layoutMarkers, layoutPageJoins, quote
  * three pages) survives: ten in the text, nine as stray paragraphs and one
  * mid-sentence, "grant-in-Chapter 1 | Introduction aid voted by Parliament"
  * (p.1000-1001, reportsthatmatter-jr1t). The "Chapter N | Title" shape, a
- * whole line among a page's first or last three, is never prose here.
+ * whole line among a page's first or last three, is never prose here. Nor is
+ * an appendix's, "Appendix 6 | Bibliography", which ran into the list below it.
  */
-const CHAPTER_HEAD = /^\s*Chapter \d{1,2} \| \S.*$/;
+const CHAPTER_HEAD = /^\s*(Chapter|Appendix) \d{1,2} \| \S.*$/;
 const chapterRunningHeads: VolumePass = {
   name: "chapterRunningHeads",
   stage: "volume",
@@ -35,13 +36,18 @@ const chapterRunningHeads: VolumePass = {
  * words that turn from lower to upper case inside the word, or the title line
  * after a "ChapTer"/"parT" opener; across the four volumes the test reads 37
  * lines, all garbled, and no prose ("McAlpine", "BSkyB" and "NoTW" are one
- * word each). The opener itself is left as printed: set as "Chapter 1", the
- * same line on every Part's first chapter repeats often enough for
- * runningFurniture to drop it, and the chapter number with it (the Part and
- * chapter heading structure is reportsthatmatter-r0w/djy).
+ * word each). An opener on its own line takes its title with it (below), and
+ * runningFurniture keeps it, so each Part and chapter has one heading,
+ * "Chapter 2: The approach" (reportsthatmatter-r0w/djy).
  */
 const CAMEL = /^[^a-z]*[A-Za-z]*[a-z][A-Z]/;
 const OPENER = /^(chapter \d+|part [a-l])\b/i;
+/**
+ * A line that is only an opener: "ChapTer 1", "Chapter 4", "PART H",
+ * "appendix 5". Not Appendix 1, whose opener stands alone over its lists of
+ * names ("Counsel to the Inquiry" / "Robert Jay QC").
+ */
+const OPENER_LINE = /^(chapter \d{1,2}|part [a-l]|appendix [2-6]):?$/i;
 const isCamel = (word: string) => CAMEL.test(word) && !/^(Mc|Mac)[A-Z]/.test(word);
 function sentenceCase(line: string): string {
   const lead = line.match(/^\s*/)![0];
@@ -49,22 +55,120 @@ function sentenceCase(line: string): string {
   const cased = text
     .replace(/^part ([a-l])\b/, (_, letter: string) => `Part ${letter.toUpperCase()}`)
     .replace(/^[a-z]/, (c) => c.toUpperCase());
-  return lead + cased;
+  return lead + names(cased);
 }
+/**
+ * The names a title set in small caps or capitals loses to sentence case, and
+ * the text layer's own misreadings of them ("Pcc", "Pressbof"), as the report
+ * prints them in its body: "the PCC and PressBoF", "the BSkyB bid", "Part I
+ * Chapter 8", "Operation Caryatid" (an operation's name is a name).
+ */
+const NAMES = ["Press Complaints Commission", "Information Commissioner", "Royal Commission", "Associated Newspapers", "Northern and Shell", "Telegraph Media Group", "Guardian Media Group", "Financial Times", "Princess of Wales", "PCC", "PressBoF", "ICO", "BSkyB", "MPS", "IPCC", "ACPO", "BBC", "ITN", "UK", "NoTW", "Ofcom", "Leveson", "Operation", "Caryatid", "Motorman", "Weeting", "Elveden", "Tuleta", "Glade", "Reproof"];
+function names(text: string): string {
+  let out = text;
+  for (const name of NAMES) out = out.replace(new RegExp(`\\b${name}\\b`, "gi"), name);
+  return out
+    .replace(/\bpart ([a-l])\b/gi, (_, letter: string) => `Part ${letter.toUpperCase()}`)
+    .replace(/\bchapter (\d)/gi, "Chapter $1");
+}
+/**
+ * A chapter or Part opener, "ChapTer 2" over its title "THE frEEDom of THE prESS
+ * aND" / "DEmoCraCy" (vol i PDF p.69), is one heading: "Chapter 2: The freedom
+ * of the press and democracy", the shape the contents gives it. The title is
+ * the next one to three short lines that do not open on a number (a chapter's
+ * are aligned under its opener; a Part's, up to four, stand alone on its title
+ * page with blank lines between),
+ * passing over a thumb-index letter, which is kept after it. A blank line
+ * follows, so the text below never runs into it ("Appendix 6: Bibliography
+ * Reports Australian Government…"). A garbled title, or
+ * one in capitals ("THE PRESS AND THE POLICE: CONCLUSIONS…"), is set in
+ * sentence case; one printed plainly is kept as printed.
+ */
+function openerTitle(lines: string[], i: number): { line: string; next: number; kept: string[] } | null {
+  const opener = lines[i];
+  const [word, label] = opener.trim().replace(/:$/, "").split(/\s+/);
+  const part = /^part$/i.test(word);
+  const appendix = /^appendix$/i.test(word);
+  const indent = opener.length - opener.trimStart().length;
+  const title: string[] = [];
+  const kept: string[] = [];
+  let j = i + 1;
+  for (; j < lines.length && title.length < (part || appendix ? 4 : 3); j++) {
+    const line = lines[j];
+    const text = line.trim();
+    if (!text) {
+      if (part) continue;
+      break;
+    }
+    if (/^\s*[A-La-l]\s*$/.test(line)) {
+      kept.push(line.toUpperCase());
+      continue;
+    }
+    if (/^\d/.test(text) || /^[“"‘]/.test(text) || text.split(/\s+/).length > 12) break;
+    if (!part && line.length - line.trimStart().length < indent - 2) break;
+    // (an appendix's plain title wraps onto a lower-case line; a capital opens
+    // what follows it, Appendix 6's "Bibliography" / "Reports")
+    if (appendix && title.length && /^\p{Lu}/u.test(text) && !/^[^a-z]+$/.test(title[0])) break;
+    // (a thumb-index letter set on the title's line: "the Press: the Press and      F")
+    const edge = text.match(/\s{3,}([A-La-l])$/);
+    if (edge) kept.push(edge[1].toUpperCase());
+    title.push(edge ? text.slice(0, edge.index).trim() : text);
+  }
+  if (!title.length) return null;
+  const joined = title.join(" ");
+  const words = joined.split(/\s+/);
+  const shouted = joined === joined.toUpperCase() && /[A-Z]{4}/.test(joined);
+  const plain = words.some(isCamel) || shouted ? sentenceCase(joined).trim() : names(joined);
+  const cased = plain.charAt(0).toUpperCase() + plain.slice(1);
+  const name = part ? "Part" : appendix ? "Appendix" : "Chapter";
+  return { line: `${opener.slice(0, indent)}${name} ${part ? label.toUpperCase() : label}: ${cased}`, next: j, kept };
+}
+/**
+ * A numbered section head, "2.  role of the assessors": set in small caps, its
+ * first letter extracts in lower case. A short line opening on a bare number
+ * and a lower-case word is one (across the four volumes all 61 such lines are
+ * set in the section heads' face): its first letter becomes a capital.
+ */
+const SECTION_HEAD = /^(\s*\d{1,2}\.\s+)\p{Ll}/u;
+/** Any short line opening on a bare number: its names are restored too ("3.  Associated newspapers Ltd"). */
+const NUMBERED_HEAD = /^\s*\d{1,2}\.\s+\S/;
+/**
+ * A chapter's first section head, "1.  Introduction", sits right under the
+ * chapter's title, and the text reading ran it into the title ("Chapter 1:
+ * The announcement 1. Introduction"): a blank line parts them.
+ */
+const FIRST_SECTION = /^\s*1\.\s+\S/;
+const shortHead = (line: string) => line.trim().split(/\s+/).length <= 14 && !/[.,;:]$/.test(line.trim());
 const smallCapsCase: BodyPass = {
   name: "smallCapsCase",
   stage: "body",
   run(lines) {
     let afterOpener = false;
-    return lines.map((line) => {
+    const out: string[] = [];
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
       const words = line.trim().split(/\s+/).filter(Boolean);
-      if (!words.length) return line;
+      if (!words.length) {
+        out.push(line);
+        continue;
+      }
       const opener = OPENER.test(line.trim()) && words.slice(0, 2).some(isCamel);
+      const bare = words.length === 2 && OPENER_LINE.test(line.trim());
       const camel = words.length <= 12 ? words.filter(isCamel).length : 0;
       const fix = !opener && (camel >= 2 || (afterOpener && camel >= 1));
       afterOpener = opener;
-      return fix ? sentenceCase(line) : line;
-    });
+      const titled = bare ? openerTitle(lines, i) : null;
+      if (titled) {
+        out.push(titled.line, "", ...titled.kept);
+        i = titled.next - 1;
+        afterOpener = false;
+      } else if (fix) out.push(sentenceCase(line));
+      else if (NUMBERED_HEAD.test(line) && shortHead(line)) {
+        if (FIRST_SECTION.test(line) && out.length && out[out.length - 1].trim()) out.push("");
+        out.push(names(line.replace(SECTION_HEAD, (m) => m.toUpperCase())));
+      } else out.push(line);
+    }
+    return out;
   },
 };
 
@@ -89,6 +193,56 @@ const thumbLetters: BodyPass = {
       const next = lines.slice(i + 1).find((l) => l.trim());
       return next && /^[a-z]/.test(next.trim()) ? [] : [""];
     }),
+};
+
+/**
+ * Part E's first three chapter openers (vol i PDF pp.258, 260, 266) are in the
+ * PDF's layout, set like every other opener, but the text layer pdftotext
+ * reads has no trace of them: the pages open on the thumb letter and "1.1" or
+ * "1. Introduction". The chapters had no heading. Each page gets its opener
+ * back, as the layout prints it, above its first line of text
+ * (reportsthatmatter-r0w).
+ */
+const LOST_OPENERS: Record<number, string[]> = {
+  258: ["Chapter 1", "The legal framework"],
+  260: ["Chapter 2", "Police investigations start"],
+  266: ["Chapter 3", "Operation Motorman"],
+};
+const lostOpeners: SourcePass = {
+  name: "lostOpeners",
+  stage: "source",
+  run(lines, at) {
+    const opener = at.volume === 1 ? LOST_OPENERS[at.pdfIndex] : undefined;
+    if (!opener) return lines;
+    const first = lines.findIndex((line) => line.trim() && !/^\s*[A-L]\s*$/.test(line));
+    if (first < 0 || lines.some((line) => /^\s*chapter \d/i.test(line))) return lines;
+    return [...lines.slice(0, first), ...opener.map((line) => `          ${line}`), ...lines.slice(first)];
+  },
+};
+
+/**
+ * The thumb-index letter sharing a body line: at its column 0 before the text
+ * ("I   2.36 Before Mr Coulson started work…") or at the far right after it
+ * ("…had been informed        E"). pdftotext sets it three or more spaces from
+ * the text. At the start it put a letter before 45 numbered paragraphs, so
+ * their numbers were not read ("I 2.36 …"), and before 35 other blocks,
+ * subheads among them ("C Governance structures"); at the end it fell inside
+ * sentences ("had been E informed"). The letter goes; at the start a space
+ * keeps the line's columns (reportsthatmatter-qai, r0w). Across the four
+ * volumes 1,196 such letters are the page's own thumb letter and 12 more are on
+ * Part D pages whose thumb the layout does not show; the only other letters are
+ * the alphabet heads of Appendix 2's two-column list of submissions (vol iv
+ * PDF pp.367-369), which keep them.
+ */
+const EDGE_START = /^[A-L](?=\s{3,}\S)/;
+const EDGE_END = /(\S)\s{3,}[A-L]\s*$/;
+const edgeLetters: BodyPass = {
+  name: "edgeLetters",
+  stage: "body",
+  run: (lines, _context, at) =>
+    at && at.volume === 4 && at.pdfIndex >= 366 && at.pdfIndex <= 370
+      ? lines
+      : lines.map((line) => line.replace(EDGE_START, " ").replace(EDGE_END, "$1")),
 };
 
 /**
@@ -121,6 +275,7 @@ export default pipeline({
   // because here a quotation's first line left alone at a page foot reads as
   // prose and belongs to the quotation on the next page (reportsthatmatter-nen).
   passes: [
+    lostOpeners,
     // A paragraph run over a page break that opens on a capital, a digit or a
     // quotation mark (or follows a full stop on a justified page) joins when the
     // layout says it runs on: no first-line indent, same face (reportsthatmatter-38s.10).
@@ -149,8 +304,13 @@ export default pipeline({
     // "(a) to investigate complaints…" sets its wrapped lines one tab-stop in,
     // at the quotation inset: each item read as prose cut off into a quotation.
     letteredItems(),
-    runningFurniture({ numbersTrackPages: true }),
+    // keep: a chapter opener ("ChapTer 1") and a numbered section head
+    // ("1.  Introduction") recur at the head of many pages, one per chapter, and
+    // went as running heads: most chapters lost their number and their first
+    // section its heading (reportsthatmatter-r0w).
+    runningFurniture({ numbersTrackPages: true, keep: /^(chapter \d{1,2}|\d{1,2}\.\s+\S.{0,80})$/i }),
     chapterRunningHeads,
+    edgeLetters,
     smallCapsCase,
     thumbLetters,
     numberedParagraphs(),
@@ -159,5 +319,28 @@ export default pipeline({
     // Corp." (reportsthatmatter-1iz4).
     numberedOpenings(),
     pageBreakContinuations({ quoteTails: true }),
+    // The heading structure is read off the faces (reportsthatmatter-r0w): a
+    // numbered line read by its text lost its number ("2.  News Corporation"
+    // became "News Corporation") and a quoted list item became structure.
+    numberedHeadings(false),
+    // and a line in capitals read by its text was a quoted headline ("LOVE
+    // CELEB GOSSIP? SO DO WE…") or a volume's cover as often as a heading.
+    allCapsHeadings(false),
+    typographicHeadings({
+      firstLevel: 2,
+      faces: [
+        ["Calibri|54|#5580c9|b"],
+        ["Calibri|35|#5580c9|b"],
+        ["Calibri|30|#5580c9|b"],
+        ["Calibri|26|#5580c9"],
+        ["Calibri|22|#5580c9", "Calibri|18|#5580c9|b|i", "Calibri|18|#5580c9|i"],
+      ],
+      labelWraps: true,
+      commaWraps: true,
+      relevel: true,
+      punctuationAside: true,
+      keepDivisions: true,
+      skipRunIns: true,
+    }),
   ],
 });

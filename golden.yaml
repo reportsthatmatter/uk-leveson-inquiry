@@ -9,8 +9,6 @@ pages:
     printed: 99
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [I, H]
-    xfail: reportsthatmatter-r0w
-    xfail_only: [blocks]
     blocks:
       - heading: "CHAPTER 2 THE PRESS: HISTORY, GOVERNANCE STRUCTURES AND FINANCES"
       - heading: "1. Introduction"
@@ -31,8 +29,6 @@ pages:
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [C, F, I, ordinary]
     # fkx fixed by facingPageMargins (2.4 is whole again); its subheads are still paragraphs, one welded to 2.4's tail (r0w).
-    xfail: reportsthatmatter-r0w
-    xfail_only: [blocks]
     continues_previous: true
     opens_with: "June 2012 News Corp announced that it intends to pursue the separation"
     blocks:
@@ -72,8 +68,6 @@ pages:
     printed: 6
     verified_by: "Claude (Opus 5.5), 2026-10-25, against the PDF's layout text (pdftotext -layout) and pdftohtml geometry"
     features: [B, C, I]
-    xfail: reportsthatmatter-r0w
-    xfail_only: [blocks]
     continues_previous: true
     opens_with: "George Jones and Sir Paul Scott-Lee."
     blocks:
@@ -92,8 +86,6 @@ pages:
     printed: 439
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [I, F]
-    xfail: reportsthatmatter-r0w, reportsthatmatter-mizx
-    xfail_only: [blocks]
     blocks:
       - heading: "CHAPTER 1 INTRODUCTION"
       - heading: "1. Overview"
@@ -103,17 +95,14 @@ pages:
       - paragraph: {start: "1.4 I am conscious that focussing on criticisms of the press", continues: true, notes: [1]}
     footnotes: [1]
     markers: [1]
-  # A Part divider page: the Part letter and its title, nothing else.
+  # A Part divider page: the Part letter and its title, nothing else; one heading, "Part H: Title", as the contents gives it (reportsthatmatter-r0w).
   - pdf: 15
     volume: 3
     printed: 997
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [I]
-    xfail: reportsthatmatter-r0w
-    xfail_only: [blocks]
     blocks:
-      - heading: "PART H"
-      - heading: "THE PRESS AND DATA PROTECTION"
+      - heading: "Part H: The Press and Data Protection"
     footnotes: []
     markers: []
   # A numbered section heading ("2. What the PCC did well"), the Part letter tab "J" at the page edge beside note 11, a paragraph broken by that note.
@@ -122,8 +111,6 @@ pages:
     printed: 1518
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [K, E, I]
-    xfail: reportsthatmatter-r0w
-    xfail_only: [blocks]
     blocks:
       - paragraph: {start: "1.14 Having introduced the issues in this way", end: "need to be examined and set out."}
       - paragraph: {start: "1.15 The sections of this Chapter that follow", end: "both in 2007 and 2009."}
