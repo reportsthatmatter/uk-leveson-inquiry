@@ -77,12 +77,11 @@ function names(text: string): string {
  * of the press and democracy", the shape the contents gives it. The title is
  * the next one to three short lines that do not open on a number (a chapter's
  * are aligned under its opener; a Part's, up to four, stand alone on its title
- * page with blank lines between),
- * passing over a thumb-index letter, which is kept after it. A blank line
- * follows, so the text below never runs into it ("Appendix 6: Bibliography
- * Reports Australian Government…"). A garbled title, or
- * one in capitals ("THE PRESS AND THE POLICE: CONCLUSIONS…"), is set in
- * sentence case; one printed plainly is kept as printed.
+ * page with blank lines between), passing over a thumb-index letter, which is
+ * kept after it. A blank line follows, so the text below never runs into it
+ * ("Appendix 6: Bibliography Reports Australian Government…"). A garbled
+ * title, or one in capitals ("THE PRESS AND THE POLICE: CONCLUSIONS…"), is set
+ * in sentence case; one printed plainly is kept as printed.
  */
 function openerTitle(lines: string[], i: number): { line: string; next: number; kept: string[] } | null {
   const opener = lines[i];
@@ -326,6 +325,16 @@ export default pipeline({
     // and a line in capitals read by its text was a quoted headline ("LOVE
     // CELEB GOSSIP? SO DO WE…") or a volume's cover as often as a heading.
     allCapsHeadings(false),
+    // The faces, one per level (vol i PDF pp.17-21, 113): a Part's title page in
+    // 54pt (h2), a chapter opener in 35pt (h3), a numbered section "2.  Role of
+    // the assessors" in 30pt (h4), a subhead in 26pt (h5), and the subheads
+    // below it in 22pt, 18pt bold italic or 18pt italic, all in the blue the
+    // headings share (h6). The contents pages set their entries in 24pt and
+    // 21pt, and the thumb letters in white, so neither is read. Oracle
+    // headings-missed 1,350 -> 164, headings 100 -> 1,331 (reportsthatmatter-r0w).
+    // punctuationAside: the Part opener this file's own pass writes, "Part A:
+    // The inquiry", is two lines of the face set too far apart to read as one;
+    // keepDivisions: Part I Chapter 4 is set in the sections' 30pt face.
     typographicHeadings({
       firstLevel: 2,
       faces: [
